@@ -26,7 +26,7 @@ $result = curl_exec($ch);
 curl_close($ch);
 
 // write html
-file_put_contents(__DIR__."/html/$year.html", $result);
+file_put_contents(__DIR__."/gabf/html/$year.html", $result);
 
 // convert to json
 $dom->load($result);
@@ -45,5 +45,5 @@ foreach($tr as $row){
   ];  
 }
 if(!empty($winners))
-  file_put_contents(__DIR__."/json/$year.json", json_encode($winners, JSON_NUMERIC_CHECK));
+  file_put_contents(__DIR__."/gabf/json/$year.json", json_encode($winners, JSON_NUMERIC_CHECK));
 ?>
