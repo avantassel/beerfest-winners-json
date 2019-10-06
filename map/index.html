@@ -33,7 +33,7 @@
     <script>
       var today = new Date();
       var current_year = today.getFullYear();
-      
+      var running = false;
       $(document).ready(function(){
         
         const loadJSON = (year, callback) => {
@@ -100,11 +100,13 @@
         
         function StartYears(){
           var year = +$('#range-year').val();
-          if(year < current_year){
+          if(year < current_year && running){
             setTimeout(function(){
               $('#range-year').val(year+1).change();
               StartYears();
             },1000);  
+          } else {
+            running = false;
           }
         }
         
@@ -121,10 +123,17 @@
         });
         
         $('#play-year').on('click', function(){
-          $('#range-year').val(1983).change();
-          setTimeout(function(){
-            StartYears();
-          },1000);
+          if(!running){
+            $('#play-year').removeClass('positive').addClass('negative').html('Stop');
+            running = true;
+            $('#range-year').val(1983).change();
+            setTimeout(function(){
+              StartYears();
+            },1000);
+          } else {
+            $('#play-year').removeClass('negative').addClass('positive').html('Play Years');
+            running = false;
+          }
         });
       });
     </script>
