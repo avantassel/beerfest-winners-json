@@ -22,17 +22,21 @@
     
   </head>
   <body>
-    <div class="ui placeholder segment">
+    <div class="ui placeholder segment" style="background: #fff;">
       <div class="ui icon header">
         <i class="yellow beer icon"></i>
         Beer Fest Winners - <span class="count"></span> Cities in <span class="year"></span>
       </div>
       <div class="inline">
-        <div class="ui green button" id="play-year">Play Years</div>
-        <div class="ui button" id="reset-year">Reset Year</div>
+        <div class="ui green button" id="play-year">Play History</div>
+        <div class="ui button" id="reset-year">Reset All</div>
       </div>
       <br/>
       <input id="range-year" type="range" min="1983" max="2019" style="width: 100%;" />
+      <div style="padding-top: 10px;">
+        <label class="first_year tiny ui label" style="float: left; cursor: pointer;">1983</label>
+        <label class="current_year tiny ui label" style="float: right; cursor: pointer;"></label>
+      </div>
       <a class="ui right corner label" href="https://github.com/avantassel/beerfest-winners-json">
         <i class="red heart icon"></i>
     </a>
@@ -40,11 +44,18 @@
     
     <div id="map" style="height: 600px; width: 100%;"></div>
     
+    <div class="ui message center aligned">
+        This heat map shows the biggest wining cities each year from the Great American Beer Festival.
+    </div>
+    
     <script>
       var today = new Date();
       var current_year = today.getFullYear();
       var running = false;
       $(document).ready(function(){
+        
+        $('.current_year').html(current_year).on('click', function() { $('#range-year').val(current_year).change(); });
+        $('.first_year').on('click', function() { $('#range-year').val(1983).change(); });
         
         const loadJSON = (year, callback) => {
             var json_file = !!year ? '/data/'+year+'_by_city.json' : '/data/by_city.json';
@@ -61,6 +72,7 @@
 
         const baseLayer = L.tileLayer(
           'https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}',{
+            attribution: '<a href="https://andrewvantassel.com">andrewvantassel.com</a>',
             maxZoom: 18
           }
         );
@@ -104,7 +116,7 @@
           .then(response => response.json())
           .then(json => { 
             $('.header .count').html(json.length);
-            heatmapLayer.setData({max: 8, data: json});
+            heatmapLayer.setData({max: 1, data: json});
           });
         }
         
@@ -117,6 +129,7 @@
             },1000);  
           } else {
             running = false;
+            $('#play-year').removeClass('negative').addClass('positive').html('Play History');
           }
         }
         
@@ -141,7 +154,7 @@
               StartYears();
             },1000);
           } else {
-            $('#play-year').removeClass('negative').addClass('positive').html('Play Years');
+            $('#play-year').removeClass('negative').addClass('positive').html('Play History');
             running = false;
           }
         });

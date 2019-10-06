@@ -7,11 +7,12 @@ input[type="range"] {
   outline: none;
   background: #F8F8F8;
   height: 10px;
+  cursor: pointer;
 }
 
 input[type="range"]::-webkit-slider-thumb {
   -webkit-appearance: none;
-  background: #89B84C;
+  background: #fbbd08;
   border-radius: 100rem;
   height: 1.5em;
   width: 1.5em;
