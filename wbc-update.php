@@ -2,6 +2,7 @@
 require "vendor/autoload.php";
 use PHPHtmlParser\Dom;
 $dom = new Dom;
+$beerfest = new BeerFest;
 
 $year = date('Y');
 
@@ -19,17 +20,11 @@ $fields = ['action' => 'search-winners',
 ];
 $winners = [];
 
-$ch = curl_init();
-curl_setopt($ch, CURLOPT_URL, 'https://www.worldbeercup.org/wp-admin/admin-ajax.php');
-curl_setopt($ch, CURLOPT_POST, count($fields));
-curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($fields));
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-
-//execute post
-$result = curl_exec($ch);
-
-//close connection
-curl_close($ch);
+$result = $beerfest->DownloadContent('https://www.worldbeercup.org/wp-admin/admin-ajax.php', $fields);
+if(empty($result)){
+  echo "Could not download WBC content";
+  exit;
+}
 
 // write html
 file_put_contents(__DIR__."/wbc/html/$year.html", $result);
@@ -40,11 +35,11 @@ $tr = $dom->find('.winners tbody tr');
 foreach($tr as $row){
   $tds = $row->find('td');
   $winners[] = [
-    'medal' => $tds[0]->find('span')->innerHtml,
-    'beer' => $tds[1]->innerHtml,
-    'brewery' => $tds[2]->innerHtml,
-    'style' => $tds[3]->innerHtml,
-    'year' => $tds[4]->innerHtml,
+    'medal' => trim($tds[0]->find('span')->innerHtml),
+    'beer' => trim($tds[1]->innerHtml),
+    'brewery' => trim($tds[2]->innerHtml),
+    'style' => trim($tds[3]->innerHtml),
+    'year' => trim($tds[4]->innerHtml),
     'comp' => 'WBC'
   ];  
 }

@@ -1,0 +1,130 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+    <link rel="stylesheet" href="css/semantic-ui-range.css" />
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js"></script>
+    <script src="js/heatmap.js"></script>
+    <script src="js/leaflet-heatmap.js"></script>
+    
+  </head>
+  <body>
+    
+    <div class="ui placeholder segment">
+      <div class="ui icon header">
+        <i class="yellow beer icon"></i>
+        Beer Fest Winners - <span class="count"></span> Cities in <span class="year"></span>
+      </div>
+      <div class="inline">
+        <div class="ui green button" id="play-year">Play Years</div>
+        <div class="ui button" id="reset-year">Reset Year</div>
+      </div>
+      <br/>
+      <input id="range-year" type="range" min="1983" max="2019" style="width: 100%;" />
+    </div>
+    
+    <div id="map" style="height: 600px; width: 100%;"></div>
+    
+    <script>
+      var today = new Date();
+      var current_year = today.getFullYear();
+      
+      $(document).ready(function(){
+        
+        const loadJSON = (year, callback) => {
+            var json_file = !!year ? '/data/'+year+'_by_city.json' : '/data/by_city.json';
+            var xobj = new XMLHttpRequest();
+            xobj.overrideMimeType("application/json");
+            xobj.open('GET', json_file, true);
+            xobj.onreadystatechange = () => {
+                if (xobj.readyState === 4 && xobj.status === "200") {
+                    callback(xobj.responseText);
+                }
+            };
+            xobj.send(null);
+        }
+
+        const baseLayer = L.tileLayer(
+          'https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}',{
+            maxZoom: 18
+          }
+        );
+
+        const cfg = {
+          // radius should be small ONLY if scaleRadius is true (or small radius is intended)
+          // if scaleRadius is false it will be the constant radius used in pixels
+          "radius": 2,
+          "maxOpacity": .8,
+          // scales the radius based on map zoom
+          "scaleRadius": true,
+          // if set to false the heatmap uses the global maximum for colorization
+          // if activated: uses the data maximum within the current map boundaries
+          //   (there will always be a red spot with useLocalExtremas true)
+          "useLocalExtrema": true,
+          // which field name in your data represents the latitude - default "lat"
+          latField: 'lat',
+          // which field name in your data represents the longitude - default "lng"
+          lngField: 'lng',
+          // which field name in your data represents the data value - default "value"
+          valueField: 'count'
+        };
+
+        var heatmapLayer = new HeatmapOverlay(cfg);
+
+        var map = new L.Map('map', {
+          center: new L.LatLng(39.9936, -105.0897),
+          zoom: 4,
+          layers: [baseLayer, heatmapLayer]
+        });
+        
+        function getData(year){
+          var json_file = !!year ? 'data/'+year+'_by_city.json' : 'data/by_city.json';
+          $('.header .year').html(year || 'All Years');
+          if(year){
+            $('#reset-year').removeClass('disabled');
+          } else {
+            $('#reset-year').addClass('disabled');
+          }
+          fetch(json_file)
+          .then(response => response.json())
+          .then(json => { 
+            $('.header .count').html(json.length);
+            heatmapLayer.setData({max: 8, data: json});
+          });
+        }
+        
+        function StartYears(){
+          var year = +$('#range-year').val();
+          if(year < current_year){
+            setTimeout(function(){
+              $('#range-year').val(year+1).change();
+              StartYears();
+            },500);  
+          }
+        }
+        
+        getData(null);
+        
+        $('#range-year').on('change', function(){
+          getData(this.value || null);
+        })
+        .attr('max', current_year);
+        
+        $('#reset-year').on('click', function(){
+          $('#range-year').val('');
+          getData(null);
+        });
+        
+        $('#play-year').on('click', function(){
+          $('#range-year').val(1983).change();
+          setTimeout(function(){
+            StartYears();
+          },500);
+        });
+      });
+    </script>
+  </body>
+</html>

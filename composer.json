@@ -1,6 +1,12 @@
 {
+    "config": {
+        "vendor-dir": "vendor/"
+    },
     "require": {
         "paquettg/php-html-parser": "^2.1",
         "mongodb/mongodb": "^1.4"
-    }
+    },
+    "autoload": {
+        "psr-0": {"": ["lib/"]}
+      }
 }
