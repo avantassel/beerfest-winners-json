@@ -2,6 +2,10 @@
 
 This is a dataset of Great American Beer Fest (GABF) Winners and World Beer Cup (WBC) Winners.
 
+Check it Out
+
+https://www.andrewvantassel.com/beerfest-winners
+
 ## Data is from 
 
 - https://www.greatamericanbeerfestival.com/the-competition/winners
