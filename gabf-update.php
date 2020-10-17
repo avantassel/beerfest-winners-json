@@ -10,6 +10,7 @@ $fields = ['action' => 'search-winners',
   '_state' => 0,
   '_style' => 0,
   '_year' => $year,
+  '_comp' => 'gabf',
   '_fulltext' => ''
 ];
 $winners = [];
@@ -20,6 +21,9 @@ if(empty($result)){
   exit;
 }
 
+if(file_exists(__DIR__."/gabf/html/$year.html"))
+  unlink(__DIR__."/gabf/html/$year.html");
+  
 // write html
 file_put_contents(__DIR__."/gabf/html/$year.html", $result);
 
@@ -48,6 +52,12 @@ foreach($tr as $row){
     'comp' => 'GABF'
   ];
 }
-if(!empty($winners))
+if(!empty($winners)){
+  if(file_exists(__DIR__."/gabf/json/$year.json"))
+    unlink(__DIR__."/gabf/json/$year.json");
   file_put_contents(__DIR__."/gabf/json/$year.json", json_encode($winners, JSON_NUMERIC_CHECK));
+  echo "Found ".count($winners)." winners";
+} else {
+  echo "Something went wrong, no winners foound";
+}
 ?>

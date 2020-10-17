@@ -35,6 +35,8 @@ php wbc-update.php
 ```sh
 npm install http-server -g
 http-server map/
+# or 
+php -S 127.0.0.1:8080
 ```
 
 <img src="screenshot.png">

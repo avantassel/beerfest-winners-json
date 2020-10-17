@@ -63,6 +63,11 @@ class BeerFest {
     return $cursor->toArray();
   }
   
+  public function GetAllWinnersWithCoords(){    
+    $cursor = $this->mongo_winners->find(['coords' => ['$exists' => true]]);
+    return $cursor->toArray();
+  }
+  
   public function DownloadContent($url, $fields){
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, "$url");

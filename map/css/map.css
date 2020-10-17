@@ -1,0 +1,13 @@
+.popup-medal {
+  width: 25px;
+  float: right;
+}
+.gold {
+  color: #fbbd08;
+}
+.silver {
+  color: #767676;
+}
+.bronze {
+  color: #a5673f;
+}
