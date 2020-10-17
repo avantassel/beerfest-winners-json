@@ -22,22 +22,19 @@ mongoimport -d beer-fest -c cities --type csv --file uscities.csv --headerline
 ## Using the Scripts
 
 ```sh
-# Mongo import
-php mongo-import.php
-
-# After the winners are announced you can run
+# After the winners are announced you can update the year at the top of these files then run
 php gabf-update.php
 php wbc-update.php
+# Mongo import
+php mongo-import.php
 ```
 
-## Running the map
+## Running the app
 
 ```sh
-npm install http-server -g
-http-server map/
-# or 
 php -S 127.0.0.1:8080
 ```
 
-<img src="images/screenshot-pins.png">
-<img src="images/screenshot-heat.png">
+![Pins Map](images/screenshot-pins.png)
+
+![Heat Map](images/screenshot-heat.png)
