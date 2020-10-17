@@ -178,10 +178,11 @@
                 var title = '<b>'+ json[i].brewery + img + '</b>';
                 if(!img && json[i].medal)
                   title += '<br/>' + json[i].medal;
-                title += '<br/>' + json[i].year + ' ' + json[i].beer;
+                title += '<br/><i>' + json[i].beer + '</i>';
+                title += '<br/><b>' + json[i].year;
                 if(json[i].style)
-                  title += '<br/>' + json[i].style;
-                title += '<br/>' + json[i].city + ', '+json[i].state;
+                  title += ' ' + json[i].style;
+                title += '</b><br/>' + json[i].city + ', '+json[i].state;
                 if(icon)
                   var marker = L.marker([json[i].coords[1], json[i].coords[0]], { title: title, icon: icon });
                 else
@@ -282,5 +283,10 @@
         getData(2020);
       });
     </script>
+    <?
+    if(file_exists(__DIR__.'/../analytics.php')){
+      include __DIR__.'/../analytics.php';
+    }
+    ?>
   </body>
 </html>

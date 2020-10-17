@@ -22,6 +22,7 @@ mongoimport -d beer-fest -c cities --type csv --file uscities.csv --headerline
 ## Using the Scripts
 
 ```sh
+composer install
 # After the winners are announced you can update the year at the top of these files then run
 php gabf-update.php
 php wbc-update.php
