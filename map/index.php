@@ -120,6 +120,10 @@
             iconSize: [20, 20],
             className: 'bronze'
         });
+        const medalIcon = L.divIcon({
+            html: '<i class="fas fa-medal fa-2x"></i>',
+            iconSize: [20, 20],
+        });
         
         const map = new L.Map('map', {
           center: new L.LatLng(39.9936, -105.0897),
@@ -172,6 +176,8 @@
                 var img = getMedal(json[i]);
                 var icon = getMedalIcon(json[i]);
                 var title = '<b>'+ json[i].brewery + img + '</b>';
+                if(!img && json[i].medal)
+                  title += '<br/>' + json[i].medal;
                 title += '<br/>' + json[i].year + ' ' + json[i].beer;
                 if(json[i].style)
                   title += '<br/>' + json[i].style;
@@ -205,10 +211,10 @@
           if(brewery.medal == 'Gold' || brewery.medal == 'First Place')
             return goldIcon;
           else if(brewery.medal == 'Silver' || brewery.medal == 'Second Place')
-          return silverIcon;
+            return silverIcon;
           else if(brewery.medal == 'Bronze' || brewery.medal == 'Third Place')
-          return bronzeIcon;
-          return '';
+            return bronzeIcon;
+          return medalIcon;
         }
         
         function StartYears(){
