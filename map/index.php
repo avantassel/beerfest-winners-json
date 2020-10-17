@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="/map/css/MarkerCluster.css" />
     <link rel="stylesheet" href="/map/css/map.css" />
     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.8.7/semantic.min.js" integrity="sha512-1Nyd5H4Aad+OyvVfUOkO/jWPCrEvYIsQENdnVXt1+Jjc4NoJw28nyRdrpOCyFH4uvR3JmH/5WmfX1MJk2ZlhgQ==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin="anonymous"></script>
     <script src="/map/js/heatmap.js"></script>
@@ -31,8 +31,9 @@
       </div>
       <div class="inline">
         <button class="ui green button" id="play-year">Play History</button>
+        <button class="ui orange button" id="map-type-heat">City Heat <i class="fas fa-fire-alt"></i></button>
+        <button class="ui blue button" id="map-type-pins" disabled="disabled">Medal Pins <i class="fas fa-medal"></i></button>        
         <button class="ui button" id="reset-year">Reset All</button>
-        <button class="ui orange button" id="map-type">City Heat <i class="fas fa-fire-alt"></i></button>        
       </div>
       <br/>
       <input id="range-year" type="range" min="1983" max="2020" value="2020" style="width: 100%;" />
@@ -220,7 +221,7 @@
           } else {
             running = false;
             $('#play-year').removeClass('negative').addClass('positive').html('Play History');
-            $('#reset-year').removeProp('disabled');
+            $('#reset-year').prop('disabled', false);
           }
         }
         
@@ -253,21 +254,23 @@
             },1200);
           } else {
             $('#play-year').removeClass('negative').addClass('positive').html('Play History');
-            $('#reset-year').removeProp('disabled');
+            $('#reset-year').prop('disabled', false);
             running = false;
           }
         });
         
-        $('#map-type').on('click', function(){
-          if(map_type === 'heat'){
-            map_type = 'pin';
-            $(this).removeClass('blue').addClass('orange').html('City Heat <i class="fas fa-fire-alt"></i>');            
-            getData(null);         
-          } else {
-            map_type = 'heat';
-            $(this).removeClass('orange').addClass('blue').html('Medal Pins <i class="fas fa-medal"></i>');   
-            getData(null);
-          }
+        $('#map-type-heat').on('click', function(){
+          map_type = 'heat';
+          $(this).prop('disabled','disabled');
+          $('#map-type-pins').prop('disabled', false);
+          getData(null);
+        });
+        
+        $('#map-type-pins').on('click', function(){
+          map_type = 'pin';
+          $(this).prop('disabled','disabled');
+          $('#map-type-heat').prop('disabled', false);
+          getData(null);
         });
         
         getData(2020);

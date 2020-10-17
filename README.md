@@ -39,4 +39,5 @@ http-server map/
 php -S 127.0.0.1:8080
 ```
 
-<img src="screenshot.png">
+<img src="images/screenshot-pins.png">
+<img src="images/screenshot-heat.png">
