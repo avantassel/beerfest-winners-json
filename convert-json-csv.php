@@ -6,7 +6,7 @@ if ($handle = opendir(__DIR__."/gabf/json")) {
   $fcsv = fopen(__DIR__."/gabf/csv/all-winners.csv", "w");
   
   // write headers
-  fwrite($fcsv, "medal,beer,brewery,city,state,style,year,coords,lat,lng,comp\n");
+  fwrite($fcsv, "Medal,Beer,Brewery,City,State,Style,Year,Coords,Lat,Lng,Comp\n");
   
   while (false !== ($file = readdir($handle))) {
     if(is_dir($file)) continue;
@@ -19,7 +19,7 @@ if ($handle = opendir(__DIR__."/gabf/json")) {
       $line = [];
       foreach($winner as $k => $v){
         if(is_array($v))
-          array_push($line, $v[0]." ".$v[1]);
+          array_push($line, $v[1]." ".$v[0]);
         else
           array_push($line, $v);
       }      
