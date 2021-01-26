@@ -1,8 +1,5 @@
 <?php
 
-// echo "No Need to run this as the data already exists in this repo.";
-// exit;
-
 require "vendor/autoload.php";
 use PHPHtmlParser\Dom;
 $dom = new Dom;
