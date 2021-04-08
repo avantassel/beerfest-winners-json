@@ -2,12 +2,15 @@
 require "vendor/autoload.php";
 
 $beerfest = new BeerFest;
-$import_year = 2020; // set to null to import all
+$import_year = null; // set to null to import all
+$data_only = true;
 
 if (ob_get_level() == 0) ob_start();
 
 try {
-  
+
+  if(!$data_only){
+    
   echo "Great American Beer Fest\n---------------------\n";
   if($import_year){
     if(file_exists(__DIR__."/gabf/json/$import_year.json")){
@@ -26,6 +29,9 @@ try {
     }
   } else if ($handle = opendir(__DIR__."/gabf/json")) {
     while (false !== ($file = readdir($handle))) {
+      
+      if(is_dir(__DIR__."/gabf/json/$file")) continue;
+      
         $contents = file_get_contents(__DIR__."/gabf/json/$file");
         if(!empty($contents)){
           $winners = json_decode($contents, true);
@@ -39,7 +45,7 @@ try {
       }
     closedir($handle);
   }
-  echo "\nWorld Beer Fest\n---------------------\n";
+  echo "\nWorld Beer Cup\n---------------------\n";
   if($import_year){
     if(file_exists(__DIR__."/wbc/json/$import_year.json")){
       $contents = file_get_contents(__DIR__."/wbc/json/$import_year.json");
@@ -57,6 +63,9 @@ try {
     }
   } else if ($handle = opendir(__DIR__."/wbc/json")) {
     while (false !== ($file = readdir($handle))) {
+      
+      if(is_dir(__DIR__."/wbc/json/$file")) continue;
+      
         $contents = file_get_contents(__DIR__."/wbc/json/$file");
         if(!empty($contents)){
           $winners = json_decode($contents, true);
@@ -69,6 +78,7 @@ try {
         }
       }
     closedir($handle);
+  }
   }
   
   // all winners
@@ -87,6 +97,7 @@ try {
   if($data)
     file_put_contents(__DIR__."/map/data/by_city.json", json_encode($data, JSON_NUMERIC_CHECK));
   
+  echo "\nCreating Year Data Files\n---------------------\n";
   // create by_city json for map
   if($import_year){
     $data = $beerfest->GetWinnersByCity($import_year);
@@ -95,8 +106,12 @@ try {
   } else {
     for($year = 1983; $year <= date('Y'); $year++){
       $data = $beerfest->GetWinnersByCity($year);
-      if(!empty($data))
+      echo count($data)." $year\n";
+      if(!empty($data)){
+        if(file_exists(__DIR__."/map/data/{$year}_by_city.json"))
+          unlink(__DIR__."/map/data/{$year}_by_city.json");
         file_put_contents(__DIR__."/map/data/{$year}_by_city.json", json_encode($data, JSON_NUMERIC_CHECK));
+      }
     }    
   }
   

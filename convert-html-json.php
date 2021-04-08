@@ -8,6 +8,9 @@ $beerfest = new BeerFest;
 $winners = [];
 if ($handle = opendir(__DIR__."/gabf/html")) {
   while (false !== ($file = readdir($handle))) {
+    
+    if(is_dir(__DIR__."/gabf/html/$file")) continue;
+    
     $winners = [];
     $year = '';
     $contents = file_get_contents(__DIR__."/gabf/html/$file");
@@ -44,6 +47,9 @@ if ($handle = opendir(__DIR__."/gabf/html")) {
 
 if ($handle = opendir(__DIR__."/wbc/html")) {
   while (false !== ($file = readdir($handle))) {
+    
+    if(is_dir(__DIR__."/wbc/html/$file")) continue;
+    
     $winners = [];
     $year = '';
     $contents = file_get_contents(__DIR__."/wbc/html/$file");

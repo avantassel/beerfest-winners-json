@@ -1,0 +1,303 @@
+[{
+  "style": "Golden or Blonde ale",
+  "GOLD": "Sweetwater 420, Sweetwater Brewing",
+  "SILVER": "Red Brick Blonde, Red Brick Brewing",
+  "BRONZE": "Terrapin Golden, Terrapin Beer Company"
+},
+{
+  "style": "English Summer Ale",
+  "GOLD": "Twilight Ale, Deschutes Brewing",
+  "SILVER": "Sprecher Light, Sprecher Brewing",
+  "BRONZE": "Fuller’s Summer Ale, Fuller Smith & Turner"
+},
+{
+  "style": "English Pale Ale",
+  "GOLD": "Blind Salmander, Rahrs Brewing",
+  "SILVER": "Monty Python’s Holy Grail ALe, Black-sheep Brewery",
+  "BRONZE": "Samuel Smith’s Old Brewery Pale Ale"
+},
+{
+  "style": "English IPA",
+  "GOLD": "Full Sail IPA, Full Sail Brewing",
+  "SILVER": "Rocky Mountain IPA, Fort Collins Brewing",
+  "BRONZE": "Healdsburg’s India Pale Ale, Healdsburg’s Beer Company"
+},
+{
+  "style": "Imperial IPA",
+  "GOLD": "Anderson Valley 20th Anniversary Imperial IPA, Anderson Valley Brewing",
+  "SILVER": "Shipyard XXXX IPA, Shipyard Brewing",
+  "BRONZE": "Stone Ruination IPA, Stone Brewing"
+},
+{
+  "style": "Bitter",
+  "GOLD": "Get Fuggled Bitter, Downing International Brewing",
+  "SILVER": "Young’s Bitter, Well & Young",
+  "BRONZE": "Bluebird Bitter, Coniston Brewing"
+},
+{
+  "style": "ESB",
+  "GOLD": "Ice Pick Ale, Silverton Brewery",
+  "SILVER": "Oasis, Tallgrass Brewing",
+  "BRONZE": "Red Hook ESB, Redhook Ale Brewery"
+},
+{
+  "style": "English Mild Ale",
+  "GOLD": "Bear Ass Brown, Silverton Brewery",
+  "SILVER": "10W30, Neustadt Springs Brewery",
+  "BRONZE": "Black Cat, Moorhouse Brewery"
+},
+{
+  "style": "English Brown Ale",
+  "GOLD": "Tallgrass Ale, Tallgrass Brewing",
+  "SILVER": "Georgia Brown, Sweetwater Brewing",
+  "BRONZE": "OB-1 Organic Ale, Snake River Brewing"
+},
+{
+  "style": "Porter",
+  "GOLD": "Black Butte Porter, Deschutes Brewing",
+  "SILVER": "Big Dog Porter, Neustadt Springs Brewery",
+  "BRONZE": "Sierra Nevada Porter, Sierra Nevada Brewing"
+},
+{
+  "style": "Stout",
+  "GOLD": "Out of Bounds Stout, Avery Brewing",
+  "SILVER": "August Schell Stout, August Schell Brewing",
+  "BRONZE": "Milk of Amnesia, Maui Brewing"
+},
+{
+  "style": "Oatmeal Stout",
+  "GOLD": "Anderson Valley Barney Flats Oatmeal Stout, Anderson Valley Brewing",
+  "SILVER": "Shipwrecked Stout, Maui Brewing",
+  "BRONZE": "St. Ambroise Oatmeal Stout, McAuslan Brewing"
+},
+{
+  "style": "Imperial Stout",
+  "GOLD": "The Abyss , Deschutes Brewing",
+  "SILVER": "Nebraska Imperial Stout, Nebraska Brewing",
+  "BRONZE": "Sam Adams Imperial Stout, Boston Beer Company"
+},
+{
+  "style": "Barley Wine",
+  "GOLD": "Cloud 9, 5 Seasons Brewing",
+  "SILVER": "Fathead 140, Nebraska Brewing",
+  "BRONZE": "Mirror, Mirror, Deschutes Brewing",
+  "BRONZE2": "Dark Tank, Sweetwater Brewing"
+},
+{
+  "style": "Scottish Ale",
+  "GOLD": "Old Chub, Oskar Blues Brewing",
+  "SILVER": "Scottish Pale Ale, Neustadt Springs Brewery",
+  "BRONZE": "Satan’s Pony, South Street Brewing"
+},
+{
+  "style": "Strong Scottish Ale",
+  "GOLD": "The Next to Last King of Scotland, Phil Farrell",
+  "SILVER": "Pipers Scotch Ale, Sprecher Brewing",
+  "BRONZE": "Terrapin 90 Shelling Scotch Ale, Terrapin Beer Company"
+},
+{
+  "style": "Irish Red Ale",
+  "GOLD": "Cameron’s Auburn Ale, Cameron’s Brewing",
+  "SILVER": "Alaska Amber, Alaskan Brewing",
+  "BRONZE": "River Falls Red Ale, Thomas Creek Brewing"
+},
+{
+  "style": "American Amber / Red",
+  "GOLD": "Hooligans IRA, Montana Brewing",
+  "SILVER": "Anderson Valley Boont Amber Ale, Anderson Valley Brewing",
+  "BRONZE": "Green Lakes Organic Ale, Deschutes Brewing"
+},
+{
+  "style": "American Pale Ale",
+  "GOLD": "American Pale Ale, Deschutes Brewing",
+  "SILVER": "Dale’s Pale Ale, Oskar Blues Brewing",
+  "BRONZE": "Fire Rock, Kona Brewing"
+},
+{
+  "style": "American IPA",
+  "GOLD": "Red Chair IPA, Deschutes Brewing",
+  "SILVER": "Hop Ottin India Pale Ale, Anderson Valley Brewing",
+  "BRONZE": "India Pale Ale Square, Sprecher Brewing",
+  "BRONZE2": "Big Swell IPA, Maui Brewing"
+},
+{
+  "style": "American Brown Ale",
+  "GOLD": "India Brown Ale – Terrapin Beer Company",
+  "SILVER": "Bitch Creek ESB, Grand Teton Brewing",
+  "BRONZE": "10W30, Neustadt Spring Brewing – Canada"
+},
+{
+  "style": "German Alt",
+  "GOLD": "Copper Ale, Otter Creek Brewing",
+  "SILVER": "Diebels Alt, Brauerei Diebels",
+  "BRONZE": "Frankenheim Alt, Privatbrauerei Frankenheim"
+},
+{
+  "style": "German Kolsch",
+  "GOLD": "Zommerfest, August Schell Brewing",
+  "SILVER": "Kentucky Light, Lexington Brewing",
+  "BRONZE": "Reissdorf Kölsch, Brauerei Heinrich Reissdorf"
+},
+{
+  "style": "German Wheat",
+  "GOLD": "Weihenstephaner Hefeweissbier Dunkel, Brauerei Weihenstephan",
+  "SILVER": "Weihenstephaner Kristallweissbier, Brauerei Weihenstephan",
+  "BRONZE": "Maisel’s Weisse Kristall, Brauerei Gebrüder Maisel"
+},
+{
+  "style": "German Hefeweizen",
+  "GOLD": "Schell Hefeweizen, August Schell Bewing",
+  "SILVER": "Red Brick Summer, Red Brick Brewing",
+  "BRONZE": "Sunray Wheat, Terrapin Beer Company"
+},
+{
+  "style": "French / Belgian Saison",
+  "GOLD": "Red Sky at Night, Clipper City Brewing",
+  "SILVER": "Two Moon Saison, Montana Brewing",
+  "BRONZE": "Crouching Tiger, 5 Seasons Brewing"
+},
+{
+  "style": "French / Belgian Ale",
+  "GOLD": "Redbrick Winters Ale, Red Brick Brewing",
+  "SILVER": "Devil May Care Golden Ale, South Street Brewing",
+  "BRONZE": "Orval Trappist Ale, Brasserie d’Orval"
+},
+{
+  "style": "Belgian Abbey Ale",
+  "GOLD": "Father Damien Abbey Ale, Maui Brewing",
+  "SILVER": "Brother David’s Double Abbey Style Ale, Anderson Valley Brewing",
+  "BRONZE": "Sprecher Abbey Tripel, Sprecher Brewing"
+},
+{
+  "style": "Belgian Lambic",
+  "GOLD": "Deschutes – Belgian Sour Ale",
+  "SILVER": "Lindemans Framboise – Brouwerij Lindemans",
+  "BRONZE": "Kriek De Ranke – Brouwerij De Ranke"
+},
+{
+  "style": "Belgian Witbier",
+  "GOLD": "Tallgrass Wheat, Tallgrass Brewing",
+  "SILVER": "Alaskan White Ale, Alaskan Brewing Company",
+  "BRONZE": "Key West Southernmost Wheat, Florida Beer Company"
+},
+{
+  "style": "American Light",
+  "GOLD": "Sam Adams Light, Boston Beer Company",
+  "SILVER": "Yuengling Light Lager, Yuengling Brewery",
+  "BRONZE": "Milwaukee’s Best Light, Miller Brewing"
+},
+{
+  "style": "American Lager / Pilsener",
+  "GOLD": "Sam Adams Boston Lager, Boston Beer Company",
+  "SILVER": "Sierra Nevada Summerfest, Sierra Nevada Brewing",
+  "BRONZE": "Longboard Lager, Kona Brewing"
+},
+{
+  "style": "American Premium Lager",
+  "GOLD": "Session Premium Lager, Full Sail Brewing",
+  "SILVER": "Tiger Lager Beer, Asia Pacific Breweries",
+  "BRONZE": "Tiger Crystal Beer, Asia Pacific Breweries"
+},
+{
+  "style": "Bohemian Pilsener",
+  "GOLD": "Hurricane Reef Caribbean Pilsner, Florida Beer Company",
+  "SILVER": "Pilsner Urquell, Plzensky Prazdroj",
+  "BRONZE": "Full Sail LTD, Full Sail Brewing"
+},
+{
+  "style": "Geman Lager / Pilsener",
+  "GOLD": "Schell Pilsner, August Schell Brewing",
+  "SILVER": "Sweetwater Road Trip, Sweetwater Brewing",
+  "BRONZE": "Tallgrass Kold, Tallgrass Brewing"
+},
+{
+  "style": "Munchner Helles",
+  "GOLD": "1900, Fort Collins Brewing",
+  "SILVER": "Bikini Blonde Light, Maui Brewing",
+  "BRONZE": "Rahr’s Blonde Lager, Rahr Brewing"
+},
+{
+  "style": "Munchner Dunkel / Dark",
+  "GOLD": "Sprecher Winter Brew, Sprecher Brewing",
+  "SILVER": "Cameron’s Dark 266, Cameron’s Brewing",
+  "BRONZE": "Steelback Tiverton Dark, Steelback Brewing"
+},
+{
+  "style": "Marzen / Oktoberfest",
+  "GOLD": "Sprecher Oktoberfest, Sprecher Brewing",
+  "SILVER": "Hacker-Pschorr Oktoberfest, Hacker-Pschorr Bräu",
+  "BRONZE": "Paulaner Oktoberfest, Paulaner Salvator Thomasbrau"
+},
+{
+  "style": "Schwarzbier",
+  "GOLD": "Sprecher Black Bavarian, Sprecher Brewing",
+  "SILVER": "Rahr & Sons – Ugly Pug",
+  "BRONZE": "Mönchshof Schwarzbier – Kulmbacher Brauerei"
+},
+{
+  "style": "Bock",
+  "GOLD": "Sprecher MaiBock, Sprecher Brewing",
+  "SILVER": "Sam Adams Tradition Bock, Boston Beer Comany",
+  "BRONZE": "Schell Maifest, Schell Brewing",
+  "BRONZE2": "South St. Spring Bock, South Street Brewery"
+},
+{
+  "style": "Dopple / Strong Bock",
+  "GOLD": "Sam Adams Double Bock, Boston Beer Company",
+  "SILVER": "Ayinger Celebrator Dopple Bock, Brauerei Aying",
+  "BRONZE": "Samichlaus Bier, Brewery Castle Eggenberg"
+},
+{
+  "style": "American Cream Ale",
+  "GOLD": "Schell’s Deer Brand Original, August Schell Brewing",
+  "SILVER": "Cameron’s Cream Ale, Cameron’s Brewing",
+  "BRONZE": "Genesee Cream Ale, High Falls Brewing"
+},
+{
+  "style": "American Wheat",
+  "GOLD": "Sam Adams Summer Ale, Boston Beer Company",
+  "SILVER": "Anchor Summer Beer, Anchor Brewing",
+  "BRONZE": "Dream Weaver Wheat, Troeg Brewing"
+},
+{
+  "style": "Fruit / Vegetable beer",
+  "GOLD": "Samuel Smiths Organic Strawberry Ale, Samuel Smith Brewery",
+  "SILVER": "Sam Adams Blackberry Wit, Boston Beer Company",
+  "BRONZE": "St-Ambroise Apricot Wheat Ale, McAuslan Brewing"
+},
+{
+  "style": "Herb and Spice beer",
+  "GOLD": "Sam Adams Imperial White, Boston Beer Company",
+  "SILVER": "Winter Solstice Seasonal Ale, Anderson Valley Brewing",
+  "BRONZE": "Coconut Porter, Maui Brewing"
+},
+{
+  "style": "Chocolate / Cocoa Beer",
+  "GOLD": "Sprecher Generation Porter, Sprecher Brewing",
+  "SILVER": "Red Brick Porter – Double Oatmeal, Chocolate, Atlanta Brewing",
+  "BRONZE": "Young’s Double Chocolate Stout, Wells & Young"
+},
+{
+  "style": "Wood / Barrel aged beer",
+  "GOLD": "Black Pearl, Maui Brewing",
+  "SILVER": "Extra Stout Porter, Mickey Finn’s Brewery",
+  "BRONZE": "Bourbon Ivan, Iron Hill Brewery & Restaurant"
+},
+{
+  "style": "Wood / Barrel aged strong beer",
+  "GOLD": "South Streets Barrel Aged Stout, South Street Brewery",
+  "SILVER": "Chardonnay Blonde Reserve, Nebraska Brewing",
+  "BRONZE": "Kentucky Bourbon Barrel Ale, Lexington Brewing"
+},
+{
+  "style": "Smoked / Rauch beer",
+  "GOLD": "Smoked Hemp, Maui Brewing",
+  "SILVER": "Stone Smoked, Stone Brewing",
+  "BRONZE": "Church Key Holy Smoke Scotch Ale, Church Key Brewing"
+},
+{
+  "style": "Specialty / Anything Goes",
+  "GOLD": "Terrapin Monk’s Revenge, Terrapin Beer Company",
+  "SILVER": "French Beauty, 5 Seasons Brewing",
+  "BRONZE": "Kevin’s Wild Ale – Kevin Cosentino"
+}]

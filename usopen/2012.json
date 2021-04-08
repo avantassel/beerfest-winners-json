@@ -1,0 +1,408 @@
+[{
+  "style": "Golden or Blonde ale",
+  "GOLD": "Metolius River Yellow Sally Blonde Ale – World Brews",
+  "SILVER": "Sweetwater 420 – Sweetwater Brewing",
+  "BRONZE": "Golden Feather Extra Pale Ale – Feather Falls Casino Brewing"
+},
+{
+  "style": "English Summer Ale",
+  "GOLD": "Twilight Ale – Deschutes Brewery",
+  "SILVER": "First Draft Ale – Niagara College",
+  "SILVER2": "Sisters of the Moon – Mother Earth Brewing"
+},
+{
+  "style": "English Pale Ale",
+  "GOLD": "Hurricane Reef Pale Ale – Florida Beer Company",
+  "SILVER": "Schooner Pale Ale – Port Jeff Brewing",
+  "BRONZE": "Hooligan English Pale Ale – Sprecher Brewing"
+},
+{
+  "style": "IPA",
+  "GOLD": "Inversion IPA – Deschutes Brewery",
+  "SILVER": "Full Sail IPA – Full Sail Ales",
+  "BRONZE": "Naughty Native IPA – Feather Falls Casino Brewing",
+  "BRONZE2": "Buzzsaw IPA – Arbor Brewing"
+},
+{
+  "style": "Imperial IPA",
+  "GOLD": "Humulo Nimbus – Sound Brewing",
+  "SILVER": "Hopasaurs Rex – Steelhead Brewing",
+  "BRONZE": "Pugsley’s Signature Series XXXX",
+  "BRONZE2": "Incredible Hop Imperial IPA – Fort Collins Brewing"
+},
+{
+  "style": "Bitter",
+  "GOLD": "Butler’s Bitter – Niagara College",
+  "SILVER": "Arkell Best Bitter – Wellington County Brewing",
+  "BRONZE": "Neustadt Bitter – Neustadt Brewing"
+},
+{
+  "style": "ESB",
+  "GOLD": "Bitch Creek ESB – Grand Teton Brewing",
+  "SILVER": "Stone Pale Ale – Stone Brewing",
+  "BRONZE": "Crown Jewels ESB – David Motter"
+},
+{
+  "style": "English Mild Ale",
+  "GOLD": "Taps Mild Ale – Tapps Brewing",
+  "SILVER": "Bear Ass Brown – Silverton Brewing",
+  "BRONZE": "Original – Box Car Brewing"
+},
+{
+  "style": "English Brown Ale",
+  "GOLD": "Samuel Adams Hazel Brown – Boston Brewing Company – Massachusetts",
+  "SILVER": "Tilburg’s Dutch Brown – Konlingshoeven",
+  "BRONZE": "Saddle Bronc Brown – Black Tooth Brewing"
+},
+{
+  "style": "Porter",
+  "GOLD": "LoneRider DeadEye Jack – LoneRider Brewing",
+  "SILVER": "Exodus Porter – Sweetwater Brewing",
+  "BRONZE": "Black Butte Porter – Deschutes Brewery"
+},
+{
+  "style": "Stout",
+  "GOLD": "Stumpy Ridge Stout – Black Tooth Brewing",
+  "SILVER": "Happy Ending – Sweetwater Brewing",
+  "BRONZE": "Jefferson Stout – Lazy Magnolia Brewing"
+},
+{
+  "style": "Oatmeal Stout",
+  "GOLD": "Buffalo Sweat Stout – Tallgrass Brewing",
+  "SILVER": "Alaskan Stout – Alaskan Brewing Company",
+  "BRONZE": "Young’s Oatmeal Stout – Wells & Young’s Ltd"
+},
+{
+  "style": "Imperial Stout",
+  "GOLD": "Stone Imperial Russian Stout – Stone Brewing",
+  "SILVER": "Arcadia Imperial Stout – Arcadia Brewing",
+  "BRONZE": "Bolshevik Bastard Imperial Stout – Nickel Brook Beers"
+},
+{
+  "style": "Old Ale",
+  "GOLD": "Sweetwater 15 – Sweetwater Brewing",
+  "SILVER": "Iron Duke – Wellington County Brewing",
+  "BRONZE": "Fuller’s Vintage Ale – Fuller Smith & Turner"
+},
+{
+  "style": "Barley Wine",
+  "GOLD": "Nevral Rust – Michael Habrat, Chris Bartik, Brett Goldstock, Suzy Pessutti, San Diego, CA",
+  "SILVER": "Church on a Hill – Cigar City Brewing",
+  "BRONZE": "Cerial Killer – Arcadia Brewing"
+},
+{
+  "style": "Scottish Ale",
+  "GOLD": "Bomber Mountain Amber – Black Tooth Brewing",
+  "SILVER": "Wee Heavy – Maui Brewing",
+  "BRONZE": "Scottish Pale Ale – Neustadt Brewing"
+},
+{
+  "style": "Strong Scottish Ale",
+  "GOLD": "Loch Down – Arcadia Brewing",
+  "SILVER": "Old Chub Scotch Ale – Oskar Blues",
+  "BRONZE": "Harvest Ale – 16 Mile Brewing"
+},
+{
+  "style": "Irish Red Ale",
+  "GOLD": "Samuel Adams Irish Red Ale – Boston Beer Company – Pennsylvania",
+  "SILVER": "Grizzly Red – Big Bear Brewing",
+  "BRONZE": "Irish Red Ale – Four Horsemen Brewing"
+},
+{
+  "style": "American Amber / Red",
+  "GOLD": "Epicenter Amber – San Tan Brewing",
+  "SILVER": "Red Banshee – Fort Collins Brewing",
+  "BRONZE": "Kentucky Ale – Alltech Lexington Brewing",
+  "BRONZE2": "Metolius Amber Ale – World Brews"
+},
+{
+  "style": "American Pale Ale",
+  "GOLD": "Roadside Pale Ale – Mother Road Brewing",
+  "SILVER": "Sweatgrass APA – Grand Teton Brewing",
+  "BRONZE": "Devils Ale – San Tan Brewing"
+},
+{
+  "style": "American IPA",
+  "GOLD": "Sweetwater IPA – Sweetwater Brewing",
+  "SILVER": "Bootjack IPA – Icicle Brewing",
+  "BRONZE": "Deviant Dale’s IPA – Oskar Blues Brewing"
+},
+{
+  "style": "American Brown Ale",
+  "GOLD": "Fresh Sticky Nogs – Sweetwater Brewing",
+  "SILVER": "Savannah Brown – Coastal Empire Brewing",
+  "BRONZE": "10W30 Brown Ale – Neustadt Brewing",
+  "BRONZE2": "Flashback India Brown Ale – Boulder Beer Company"
+},
+{
+  "style": "German Alt",
+  "GOLD": "Samuel Adams Boston Ale – Boston Beer Company – Massachusetts",
+  "SILVER": "Alt – Kent Shultz",
+  "BRONZE": "Frankenheim Alt – Privatbrauerei Frankenheim"
+},
+{
+  "style": "German Kolsch",
+  "GOLD": "Polar Light – Big Bear Brewing",
+  "SILVER": "Kentucky Light – Alltech Lexington Brewing",
+  "BRONZE": "Khos Kolsch – Icicle Brewing"
+},
+{
+  "style": "German Wheat",
+  "GOLD": "Tucher Kristall Weizen – Brauerei Tucher Brau",
+  "SILVER": "Bayern Dragon’s Breath – Bayern Brewing",
+  "BRONZE": "Bayern Face Plant – Bayern Brewing"
+},
+{
+  "style": "German Hefeweizen",
+  "GOLD": "EOS Hefeweizen – Nebraska Brewing",
+  "SILVER": "Ayinger Ur-Weisse – Privatbrauerei Franz Inselkammer KG / Brauerei Aying",
+  "BRONZE": "Shell’s Hefeweizen – August Schell Brewing"
+},
+{
+  "style": "French / Belgian Saison Ale",
+  "GOLD": "Red Hare Saison – Red Hare Brewing",
+  "SILVER": "Raspberry Saison – Stevens Point Brewing",
+  "BRONZE": "Golden Cap – New Holland Brewing"
+},
+{
+  "style": "French / Belgian Ale",
+  "GOLD": "St. Feuillian Tripple – Brasserie St. Feuillien",
+  "SILVER": "Tripel Karmeliet – Brouwerij Bosteels",
+  "BRONZE": "La Trappe Triple – Bierbrouwerij De Koningshoeven B.V."
+},
+{
+  "style": "Belgian Abbey Ale",
+  "GOLD": "Belgian Tripel – Sound Brewing",
+  "SILVER": "Belle Star – Lonerider Brewing",
+  "BRONZE": "Velvet Rooster – Tallgrass Brewing"
+},
+{
+  "style": "Belgian Lambic",
+  "GOLD": "The Dissident – Deschutes Brewery",
+  "SILVER": "Samuel Adams American Kriek – Boston Beer Company – Massachusetts",
+  "BRONZE": "Sprecher Kriek Lambic – Sprecher Brewing Comapny"
+},
+{
+  "style": "Belgian Witbier",
+  "GOLD": "Witty – Chamelon Brewing",
+  "SILVER": "La Perouse White – Maui Brewing",
+  "BRONZE": "Fu Man Brew – Monday Night Brewing"
+},
+{
+  "style": "American Light",
+  "GOLD": "Kraftig Light – William H. Busch Brewing",
+  "SILVER": "Schell Light- August Schell Brewing",
+  "BRONZE": "Evans Light Lager – Evans Brewing"
+},
+{
+  "style": "American Lager / Pilsener",
+  "GOLD": "Bruce County Lager – Neustadt Brewing",
+  "SILVER": "Cable Car Lager – World Brews",
+  "BRONZE": "Tiger Crystal – Tiger Brewing"
+},
+{
+  "style": "American Premium Lager",
+  "GOLD": "Session Premium Lager – Full Sail Brewing",
+  "SILVER": "Special Lager – Stevens Point Brewing",
+  "BRONZE": "Evans Original Lager – Evans Brewing"
+},
+{
+  "style": "American Amber/California Common",
+  "GOLD": "Southern Lager – FullSteam Brewing",
+  "SILVER": "Firebrick – August Schell Brewing",
+  "BRONZE": "Skol – Capital Brewing"
+},
+{
+  "style": "Bohemian Pilsener",
+  "GOLD": "Golden Pilsner – Morgan Street",
+  "SILVER": "Samuel Adams Boston Lager – Boston Beer Company – Pennsylvania",
+  "BRONZE": "Red Hook Pilsner – Red Hook Brewing"
+},
+{
+  "style": "Geman Lager / Pilsener",
+  "GOLD": "Cameron’s Lager – Cameron’s Brewing Company",
+  "SILVER": "Soaring Eagle Pilsner – Feathers Fall Brewing",
+  "BRONZE": "Bayern Pilsner – Bayern Brewing"
+},
+{
+  "style": "Munchner Helles",
+  "GOLD": "Helenboch Beer – Niagara College",
+  "SILVER": "When Helles Freezes Over – Morgan Street Brewing",
+  "BRONZE": "Full Sail LTD 3 – Full Sail Brewing"
+},
+{
+  "style": "Munchner Dunkel / Dark",
+  "GOLD": "Session Black Permium Dark Lager – Full Sail Brewing",
+  "SILVER": "Capital Dark – Capital Breweing",
+  "BRONZE": "Winter Brew – Sprecher Brewing"
+},
+{
+  "style": "Marzen / Oktoberfest",
+  "GOLD": "Dirty Face Amber – Icicle Brewing",
+  "SILVER": "Samuel Adams Octoberfest – Boston Beer Company – Pennsylvania",
+  "BRONZE": "Point Octoberfest – Stevens Point Brewing"
+},
+{
+  "style": "Schwarzbier",
+  "GOLD": "Black Bavarian – Sprecher Brewing",
+  "SILVER": "B3K – Wyncoop Brewing",
+  "BRONZE": "Land Ho! – Heavy Seas Brewing",
+  "BRONZE2": "Ligero – Cigar City Brewing"
+},
+{
+  "style": "Bock",
+  "GOLD": "Bayern Maibock – Bayern Brewing Company",
+  "SILVER": "Capital Mai Bock – Capital Brewery",
+  "BRONZE": "Bucking Bock – Rahr and Sons Brewing"
+},
+{
+  "style": "Dopple / Strong Bock",
+  "GOLD": "Sprecher Dopple Bock – Sprecher Brewing Company",
+  "SILVER": "Regulator – Rahr and Sons Brewing",
+  "BRONZE": "Deviator – Camerons Brewing"
+},
+{
+  "style": "American Cream Ale",
+  "GOLD": "Cameron’s Cream Ale – Cameron’s Brewing",
+  "SILVER": "El Toro Cream Ale – Fullsteam Brewing",
+  "BRONZE": "Hop Cream – Capital Brewery"
+},
+{
+  "style": "American Wheat",
+  "GOLD": "Honey Wheat Lager – Morgan Street brewing",
+  "SILVER": "Indian Summer – Lazy Magnolia Brewing",
+  "BRONZE": "White Water Wheat – Grand Canyon Brewing"
+},
+{
+  "style": "American Specialty Wheat",
+  "GOLD": "Tallgrass Halcyon – Tallgrass Brewing",
+  "SILVER": "Haystack Wheat – Left Hand Brewing",
+  "BRONZE": "Circus Boy – Magic Hat Brewing Company"
+},
+{
+  "style": "Fruit / Vegetable beer",
+  "GOLD": "Samuel Smith’s Apricot Ale – Samuel Smith’s Brewing",
+  "SILVER": "Sobre Humano Palena’ole – Maui Brewing/Jolly Pumpkin",
+  "BRONZE": "Mandarin Gold – Big Island Brewing",
+  "BRONZE2": "Spring IPA with Kumquats – Fullsteam Brewing"
+},
+{
+  "style": "Herb and Spice beer",
+  "GOLD": "Yule 2011 – Calavera",
+  "SILVER": "Coconut Porter – Maui Brewing",
+  "BRONZE": "Fire Side Chat – 21st Amendment Brewing",
+  "BRONZE2": "White Mountain Porter – Big Island Brewing"
+},
+{
+  "style": "Chocolate / Cocoa Beer",
+  "GOLD": "Hunahpu’s Imperial Stout – Cigar City Brewing",
+  "SILVER": "Samuel Adams Chocolate Bock – Boston Beer Company – Massachusetts",
+  "BRONZE": "Banana Split Chocolate Stout – Thomas Creek Brewing Company"
+},
+{
+  "style": "Coffee Beer",
+  "GOLD": "Big Shot Espresso Stout – Twisted Pine Brewing",
+  "SILVER": "Espresso Porter – South Street Brewing",
+  "BRONZE": "Drip Dry Coffee Stout – Maui Brewing"
+},
+{
+  "style": "Baltic Porter",
+  "GOLD": "Kalevipoeg Baltic Porter – Cigar City Brewing",
+  "SILVER": "Black Eagle Porter – Black Tooth Brewing",
+  "BRONZE": "Big George – Icicle Brewing"
+},
+{
+  "style": "Rye/Roggen",
+  "GOLD": "Rich and Dan’s Rye IPA – Harpoon Brewing",
+  "SILVER": "Rye Pale Ale – South Street Brewing",
+  "BRONZE": "Emerald Rye – August Shell Brewing"
+},
+{
+  "style": "Wood / Barrel aged beer",
+  "GOLD": "Kentucky Bourbon Barrel Ale – Lexington Brewing",
+  "SILVER": "Innis and Gunn Original – Innis and Gunn",
+  "BRONZE": "Barrel Aged Porter – Port Jeff Brewing"
+},
+{
+  "style": "Wood / Barrel aged strong beer",
+  "GOLD": "Utopias 2011 – Boston Beer Company – Massachusetts",
+  "Silver": "Bertwell Barrel Aged Barley Wine – Niagara College",
+  "BRONZE": "2010 Old Guardian Barley Wine – Stone Brewing"
+},
+{
+  "style": "Smoked / Rauch beer",
+  "GOLD": "Lava Smoked Imperial Stout – Olvisholt",
+  "SILVER": "Samuel Adams Cinder Block – Boston Beer Company – Pennsylvania",
+  "BRONZE": "Smokey the Bear – Big Bear Brewing"
+},
+{
+  "style": "Specialty / Anything Goes",
+  "GOLD": "Honey, I Can Explain – South Street Brewing",
+  "SILVER": "Golden Sabbath – Big Island Brewing",
+  "BRONZE": "Allies Win the War – 21st Amendment Brewing",
+  "BRONZE2": "Leviathan Red Squared – Harpoon Brewing"
+},
+{
+  "style": "Out of Bounds Pale Ale",
+  "GOLD": "Silverback Pale Ale – Wyncoop Brewing",
+  "SILVER": "Headstock IPA – Nickel Brook Beers",
+  "BRONZE": "Indian Paintbrush Ale – Black Tooth Brewing"
+},
+{
+  "style": "Best of Show Organic",
+  "GOLD": "Foret Organic – Brasserie Dupont",
+  "SILVER": "Baba Black Lager – Uinta Brewing",
+  "BRONZE": "OB1 – Snake River Brewing",
+  "BRONZE2": "Steemer Summer – Orlando Brewing"
+},
+{
+  "style": "Gluten Free",
+  "GOLD": "Brunehaut Amber – Brunehaut Brewing",
+  "SILVER": "Brunehaut Blond – Brunehaut Brewing",
+  "BRONZE": "Gluten Free – Nickel Brook Beers"
+},
+{
+  "style": "Experimental",
+  "GOLD": "Orange Avenue Wit – Cornado Brewing",
+  "SILVER": "Chocolate Orange IPA – Thomas Creek Brewing",
+  "BRONZE": "Anniversay Ale – Terrapin Beer Company"
+},
+{
+  "style": "Session Beer",
+  "GOLD": "Bitter American – 21st Amendment Brewing",
+  "SILVER": "Easy Rider – Terrapin Beer Company",
+  "BRONZE": "Samuel Adams Belgian Session Ale – Boston Beer Company – Ohio"
+},
+{
+  "style": "American Black Ale",
+  "GOLD": "Sublimely Self-Righteous Ale – Stone Brewing",
+  "SILVER": "Back in Black – 21st Amendment",
+  "BRONZE": "Hop in the Dark – Deschutes Brewery",
+  "BRONZE2": "Bubhe – Uinta Brewing"
+},
+{
+  "style": "Baltic Porter",
+  "GOLD": "Kalevipoeg Porter – Cigar City Brewing",
+  "SILVER": "Black Eagle Porter – Black Tooth Brewing",
+  "BRONZE": "Big George – Icicle Brewing"
+},
+{
+  "style": "Wood Barrel Aged Sour",
+  "GOLD": "Window Pane Blackberry – Mother Earth Brewing",
+  "SILVER": "Framboozled – Arbor Brewing",
+  "BRONZE": "Samuel Adams Stoneybook Red – Boston Beer Company – Massachusetts"
+},
+{
+  "style": "Wood Barrel Imperial Stout",
+  "GOLD": "Love Craft Beer – Calavera",
+  "SILVER": "Dragon’s Milk – New Holland Brewing",
+  "BRONZE": "Black Betty Imperial Stout – Nebraska Brewing",
+  "BRONZE2": "Silent Night Imperial Stout – Mother Earth Brewing"
+},
+{
+  "style": "Root Beer",
+  "GOLD": "Saranac Root Beer – F.X. Matt Brewing",
+  "SILVER": "Mount Angel Root Beer – Mount Angel",
+  "BRONZE": "Permium Root Beer – Stevens Point Brewing",
+  "BRONZE2": "Steelhead Rootbeer – Steelhead Brewing"
+}]

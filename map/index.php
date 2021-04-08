@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>GABF Winners</title>
+    <title>Beer Fest Winners</title>
     <meta name="description" content="Great American Beer Festival Winningest Cities Historical Heat Map shows a timeline of city wins." />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="canonical" href="https://www.andrewvantassel.com/beerfest-winners/" />
