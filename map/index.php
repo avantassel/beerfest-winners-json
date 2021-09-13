@@ -36,7 +36,7 @@
         <button class="ui button" id="reset-year">Reset All</button>
       </div>
       <br/>
-      <input id="range-year" type="range" min="1983" max="2020" value="2020" style="width: 100%;" />
+      <input id="range-year" type="range" min="1983" max="2021" value="2021" style="width: 100%;" />
       <div style="padding-top: 10px;">
         <label class="first_year tiny ui label" style="float: left; cursor: pointer;">1983</label>
         <label class="current_year tiny ui label" style="float: right; cursor: pointer;"></label>
@@ -280,7 +280,7 @@
           getData(null);
         });
         
-        getData(2020);
+        getData(2021);
       });
     </script>
     <?
