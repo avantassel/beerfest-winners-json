@@ -9,9 +9,10 @@ if (ob_get_level() == 0) ob_start();
 
 $beerfest = new BeerFest;
 
-for($year=2009; $year < 2021; $year++){
+for($year=2009; $year <= 2021; $year++){
   
-  if(!file_exists(__DIR__."/usopen/$year.json")) break;
+  if(!file_exists(__DIR__."/usopen/$year.json")) 
+    continue;
   
   $contents = file_get_contents(__DIR__."/usopen/$year.json");
   if(!empty($contents)){
