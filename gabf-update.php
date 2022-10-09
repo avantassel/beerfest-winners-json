@@ -27,7 +27,7 @@ if(file_exists(__DIR__."/gabf/html/$year.html"))
 // write html
 file_put_contents(__DIR__."/gabf/html/$year.html", $result);
 
-// 2021 GABF
+// 2022 GABF
 // $result = file_get_contents(__DIR__."/gabf/html/$year.html");
 
 // convert to json
@@ -40,14 +40,18 @@ foreach($tr as $row){
   $city = trim($tds[3]->innerHtml);
   $state = strtoupper(trim($tds[4]->innerHtml));
   $location = $beerfest->GetLocation($name, $city, $state);
-  
+  $style = trim($tds[5]->innerHtml);
+  if(strstr($style, '<br')){
+    $style = substr($style, 0, strpos($style, '<br'));
+    $style =  strip_tags($style);
+  }
   $winners[] = [
     'medal' => trim($tds[0]->find('span')->innerHtml),
     'beer' => trim($tds[1]->innerHtml),
     'brewery' => $name,
     'city' => $city,
     'state' => $state,
-    'style' => trim($tds[5]->innerHtml),
+    'style' => $style,
     'year' => trim($tds[6]->innerHtml),
     'coords' => !empty($location['lat']) ? [$location['lng'],$location['lat']] : null,
     'lat' => !empty($location['lat']) ? $location['lat'] : null,

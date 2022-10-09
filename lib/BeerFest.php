@@ -16,6 +16,16 @@ class BeerFest {
   
   public function SaveWinners($comp, $year, $winners){
     $this->mongo_winners->deleteMany(['comp' => "$comp", 'year' => (int) $year]);
+    // make sure year is an int
+    foreach($winners as $i => $winner){
+      $winners[$i]['year'] = (int) $winners[$i]['year'];
+      if(isset($winners[$i]['style'])){
+        if(strstr($winners[$i]['style'], '<br'))
+          $winners[$i]['style'] = substr($winners[$i]['style'], 0, strpos($winners[$i]['style'], '<br'));
+        else
+          $winners[$i]['style'] = strip_tags($winners[$i]['style']);
+      }
+    }
     $this->mongo_winners->insertMany($winners);
   }
   
@@ -71,8 +81,10 @@ class BeerFest {
   public function DownloadContent($url, $fields){
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, "$url");
-    curl_setopt($ch, CURLOPT_POST, count($fields));
-    curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($fields));
+    if(!empty($fields)){
+      curl_setopt($ch, CURLOPT_POST, count($fields));
+      curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($fields));
+    }
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 
     //execute post

@@ -27,8 +27,9 @@ if(empty($result)){
   exit;
 }
 
-if(file_exists(__DIR__."/wbc/html/$year.html"))
+if(file_exists(__DIR__."/wbc/html/$year.html")){
   unlink(__DIR__."/wbc/html/$year.html");
+}
    
 // write html
 file_put_contents(__DIR__."/wbc/html/$year.html", $result);
@@ -48,8 +49,9 @@ foreach($tr as $row){
   ];  
 }
 if(!empty($winners)){
-  if(file_exists(__DIR__."/wbc/json/$year.json"))
+  if(file_exists(__DIR__."/wbc/json/$year.json")){
     unlink(__DIR__."/wbc/json/$year.json");
+  }
 
   file_put_contents(__DIR__."/wbc/json/$year.json", json_encode($winners, JSON_NUMERIC_CHECK));
   echo "Found ".count($winners)." winners";
