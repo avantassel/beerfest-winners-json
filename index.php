@@ -10,8 +10,8 @@
         Beer Fest Winners
       </div>
       <div class="inline">
-        <a class="ui primary button" href="/map">Map</a>
-        <a class="ui primary button" href="/list">List</a>
+        <a class="ui primary button" href="map">Map</a>
+        <a class="ui primary button" href="list">List</a>
       </div>
     </div>
     
@@ -45,7 +45,7 @@
           </div>
         </div>
       </div>
-      <div class="item">
+      <!-- <div class="item">
         <i class="large beer middle aligned icon"></i>
         <div class="content">
           <a class="header">New York Internation Beer Competition</a>
@@ -54,7 +54,7 @@
           <br/><a href="https://nyibeercompetition.com" target="_blank">https://nyibeercompetition.com</a>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
 
   </body>

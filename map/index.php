@@ -19,16 +19,16 @@ if(date('m') <= 10 && date('d') < 9){
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.8.7/semantic.min.css" integrity="sha512-g/MzOGVPy3OQ4ej1U+qe4D/xhLwUn5l5xL0Fa7gdC258ZWVJQGwsbIR47SWMpRxSPjD0tfu/xkilTy+Lhrl3xg==" crossorigin="anonymous" />
-    <link rel="stylesheet" href="/map/css/semantic-ui-range.css" />
-    <link rel="stylesheet" href="/map/css/MarkerCluster.css" />
-    <link rel="stylesheet" href="/map/css/map.css" />
+    <link rel="stylesheet" href="css/semantic-ui-range.css" />
+    <link rel="stylesheet" href="css/MarkerCluster.css" />
+    <link rel="stylesheet" href="css/map.css" />
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.8.7/semantic.min.js" integrity="sha512-1Nyd5H4Aad+OyvVfUOkO/jWPCrEvYIsQENdnVXt1+Jjc4NoJw28nyRdrpOCyFH4uvR3JmH/5WmfX1MJk2ZlhgQ==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin="anonymous"></script>
-    <script src="/map/js/heatmap.js"></script>
-    <script src="/map/js/leaflet-heatmap.js"></script>
-    <script src="/map/js/leaflet.markercluster.min.js"></script>    
+    <script src="js/heatmap.js"></script>
+    <script src="js/leaflet-heatmap.js"></script>
+    <script src="js/leaflet.markercluster.min.js"></script>   
   </head>
   <body>
     <div class="ui placeholder segment" style="background: #fff;">
@@ -51,6 +51,10 @@ if(date('m') <= 10 && date('d') < 9){
       <a class="ui right corner label" href="https://github.com/avantassel/beerfest-winners-json">
         <i class="red heart icon"></i>
     </a>
+    </div>
+    
+    <div style="text-align: center;">
+      <a href="../list">Check out the list</a>
     </div>
     
     <div id="map" style="height: 600px; width: 100%;"></div>

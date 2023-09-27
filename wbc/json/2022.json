@@ -1,1 +1,2457 @@
-[{"year":"2022","medal":"Gold","category":"American Wheat Beer","breweryName":"Cherry Street Brewpub - Halcyon","beerName":"For-scythe","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"American Wheat Beer","breweryName":"Widmer Brothers Brewing","beerName":"Hefe","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"American Wheat Beer","breweryName":"Cerveceria Principia","beerName":"American Wheat","country":"Mexico","medalSort":"3"},{"year":"2022","medal":"Gold","category":"American-Belgo-Style Ale","breweryName":"Barrel Head Brewhouse","beerName":"Brother Harker Patersbier","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"American-Belgo-Style Ale","breweryName":"Ratio Beerworks","beerName":"Dear You","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"American-Belgo-Style Ale","breweryName":"Metazoa Brewing Co. - Stringtown Production Facility","beerName":"Klipspringer","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"American-Style Amber Lager","breweryName":"MadTree Brewing Co.","beerName":"Ziegler","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"American-Style Amber Lager","breweryName":"Second Pitch Beer Co.","beerName":"Hometown Lager","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"American-Style Amber Lager","breweryName":"Community Beer Co.","beerName":"Bock","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"American-Style Amber\/Red Ale","breweryName":"Rebellion Brewing Co.","beerName":"Amber Ale","country":"Canada","medalSort":"1"},{"year":"2022","medal":"Silver","category":"American-Style Amber\/Red Ale","breweryName":"Hellbent Brewing Co.","beerName":"Red Patina","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"American-Style Amber\/Red Ale","breweryName":"Torque Brewing","beerName":"Red Line","country":"Canada","medalSort":"3"},{"year":"2022","medal":"Gold","category":"American-Style Black Ale or American-Style Stout","breweryName":"Kinnegar Brewing","beerName":"Black Bucket","country":"Ireland","medalSort":"1"},{"year":"2022","medal":"Silver","category":"American-Style Black Ale or American-Style Stout","breweryName":"Bond's Brewing Co.","beerName":"Stout","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"American-Style Black Ale or American-Style Stout","breweryName":"Baerlic Brewing Co.","beerName":"Dark Thoughts Black IPA","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"American-Style Brown Ale","breweryName":"Wild Fields Brewhouse","beerName":"Three Bridges Brown","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"American-Style Brown Ale","breweryName":"HiHO Brewing Co.","beerName":"Touchdown Brown Ale","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"American-Style Brown Ale","breweryName":"Second Street Brewery - Rufina","beerName":"Brown Ale","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"American-Style Cream Ale","breweryName":"Wild Fields Brewhouse","beerName":"Atascadero Beach","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"American-Style Cream Ale","breweryName":"El Rancho Brewing Co.","beerName":"Cerveza del Rancho","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"American-Style Cream Ale","breweryName":"Delahunt Brewing Co.","beerName":"De La Sol","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"American-Style Imperial Stout","breweryName":"ZwanzigZ Brewing","beerName":"Fulcrum Imperial Stout","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"American-Style Imperial Stout","breweryName":"ZhangMen Brewing Co.","beerName":"Black Citrus","country":"Taiwan","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"American-Style Imperial Stout","breweryName":"San Fernando Brewing Co.","beerName":"Imperial Death Star","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"American-Style India Pale Ale","breweryName":"North Park Beer Co.","beerName":"Hop-Fu!","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"American-Style India Pale Ale","breweryName":"Brewery X","beerName":"Super Slap","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"American-Style India Pale Ale","breweryName":"Karl Strauss Brewing Co.","beerName":"Aurora Hoppyalis IPA","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"American-Style Lager","breweryName":"Seismic Brewing Co.","beerName":"Tremor California Light Lager","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"American-Style Lager","breweryName":"CooperSmith's Pub & Brewing","beerName":"Old Fortwaukee","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"American-Style Lager","breweryName":"The Empourium Brewing Co.","beerName":"Atari's Lantern","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"American-Style Pale Ale","breweryName":"Figueroa Mountain Brewing Co. - Santa Barbara","beerName":"Figueroa Mountain Mosaic","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"American-Style Pale Ale","breweryName":"Pizza Port Bressi Ranch","beerName":"Cruisin'","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"American-Style Pale Ale","breweryName":"Institution Ale Co.","beerName":"Somewhere Golden","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"American-Style Pilsener","breweryName":"Pizza Port Bressi Ranch","beerName":"Dieguito","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"American-Style Pilsener","breweryName":"Lincoln Beer Co.","beerName":"Mosaic Pilsner","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"American-Style Pilsener","breweryName":"Cloudburst Brewing","beerName":"Happy Little Clouds","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"American-Style Sour Ale","breweryName":"MobCraft Beer","beerName":"Low pHunk","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"American-Style Sour Ale","breweryName":"10 Barrel Brewing Co. - Bend Pub","beerName":"Brilliant","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"American-Style Sour Ale","breweryName":"Level Crossing Brewing Co.","beerName":"Cryptoporticus","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"American-Style Strong Pale Ale","breweryName":"Kern River Brewing Co. - The  Backyard","beerName":"California Lounge Chair","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"American-Style Strong Pale Ale","breweryName":"Liquid Gravity Brewing Co.","beerName":"Liquid Gravity IPA","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"American-Style Strong Pale Ale","breweryName":"Urbanrest Brewing Co.","beerName":"Easy Button","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Australian-Style Pale Ale","breweryName":"Lost Winds Brewing Co.","beerName":"Beach Hopppin' Pale","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Australian-Style Pale Ale","breweryName":"Sunriver Brewing Co.","beerName":"Bondi Beach Party","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Australian-Style Pale Ale","breweryName":"Urban Alley Brewery","beerName":"Slapshot","country":"Australia","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Barley Wine-Style Ale","breweryName":"Dual Citizen Brewing Co.","beerName":"Mayhem and Mischief","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Barley Wine-Style Ale","breweryName":"Danville Brewing Co.","beerName":"Granny's Tipple","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Barley Wine-Style Ale","breweryName":"BJ's Brewhouse - Temple","beerName":"BJ's Barley Wine","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Belgian Fruit Beer","breweryName":"Jester King Brewery","beerName":"Atrial Rubicite","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Belgian Fruit Beer","breweryName":"Oud Beersel","beerName":"Oude Kriek Oud Beersel","country":"Belgium","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Belgian Fruit Beer","breweryName":"ColdFire Brewing Co.","beerName":"Valley M\u00e9lange","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Belgian-Style Abbey Ale","breweryName":"Able Baker Brewing Co.","beerName":"Monique","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Belgian-Style Abbey Ale","breweryName":"Kilowatt Brewing","beerName":"OB Bubble Dubbel","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Belgian-Style Abbey Ale","breweryName":"Source Brewing","beerName":"Colts Abbey","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Belgian-Style Ale or French-Style Ale","breweryName":"Crooked Lane Brewing Co.","beerName":"Belgian Blonde Ale","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Belgian-Style Ale or French-Style Ale","breweryName":"Fretboard Brewing Co.","beerName":"Crazy Train","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Belgian-Style Ale or French-Style Ale","breweryName":"Brewery Vanuxeem","beerName":"Queue de Charrue Blond","country":"Belgium","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Belgian-Style Sour Ale","breweryName":"IMBIB Custom Brews","beerName":"Triad","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Belgian-Style Sour Ale","breweryName":"Funkwerks","beerName":"Oud Bruin","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Belgian-Style Sour Ale","breweryName":"Beachwood Blendery","beerName":"Funk Yeah","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Belgian-Style Strong Specialty Ale","breweryName":"Brasserie du Pays Flamand","beerName":"Anostek\u00e9 Blonde","country":"France","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Belgian-Style Strong Specialty Ale","breweryName":"Brouwerij Malheur","beerName":"Malheur 10","country":"Belgium","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Belgian-Style Strong Specialty Ale","breweryName":"Fabbrica Della Birra Tenute Collesi","beerName":"Collesi Rossa","country":"Italy","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Belgian-Style Table Beer or Belgian-Style Session Ale","breweryName":"Brewers at 4001 Yancey","beerName":"Victory Brewing Company Slow Breeze","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Belgian-Style Table Beer or Belgian-Style Session Ale","breweryName":"Barquentine Brewing Co.","beerName":"Sloans Lake Yacht Club","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Belgian-Style Table Beer or Belgian-Style Session Ale","breweryName":"Pizza Port Ocean Beach","beerName":"Guillaume","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Belgian-Style Tripel","breweryName":"Allagash Brewing Co.","beerName":"Tripel","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Belgian-Style Tripel","breweryName":"Figurehead Brewing Co.","beerName":"Steam Tug Tripel","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Belgian-Style Tripel","breweryName":"Scheldebrouwerij","beerName":"Zee Zuiper","country":"Belgium","medalSort":"3"},{"year":"2022","medal":"Bronze","category":"Belgian-Style Witbier","breweryName":"Allagash Brewing Co.","beerName":"White","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Bohemian-Style Pilsener","breweryName":"Confluence Brewing Co.","beerName":"Over the Ivy","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Bohemian-Style Pilsener","breweryName":"Port City Brewing Co.","beerName":"Downright Pilsner","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Bohemian-Style Pilsener","breweryName":"Chuckanut Brewery","beerName":"Pilsner","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Brett Beer","breweryName":"Denizens Brewing Co.","beerName":"The Glow","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Brett Beer","breweryName":"Kros Strain Brewing Co.","beerName":"Saison 625","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Brett Beer","breweryName":"CODA Brewing Co.","beerName":"Wallonian Dreams","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"British-Style Imperial Stout","breweryName":"5 Branches Brewing","beerName":"Doggin Wrench","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"British-Style Imperial Stout","breweryName":"Goose and the Monkey Brewhouse","beerName":"Bion Series Russian Imperial Stout","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"British-Style Imperial Stout","breweryName":"Outsider Brewing","beerName":"The Sith Imperial Stout","country":"Japan","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Brown Porter","breweryName":"1886 Brewing Co.","beerName":"Record Beer","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Brown Porter","breweryName":"Kulshan Brewing Co. - James Street","beerName":"Transporter","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Brown Porter","breweryName":"Vail Brewing Co.","beerName":"Dark Necessities","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Chili Beer","breweryName":"Ooga Brewing Co.","beerName":"Holla! Jalapeno Cream Ale","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Chili Beer","breweryName":"El Gardenia","beerName":"Piq\u00fae","country":"Mexico","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Chili Beer","breweryName":"Dragonmead Microbrewery","beerName":"Ring of Fire","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Chocolate Beer","breweryName":"Fort Myers Brewing Co.","beerName":"Chocolate Stout","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Chocolate Beer","breweryName":"3 Nations Brewing Co.","beerName":"Devour Imperial Stout - Mexican Chocolate","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Chocolate Beer","breweryName":"Cerveceria R\u00e1muri","beerName":"L\u00e1grimas Negras","country":"Mexico","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Classic Irish-Style Dry Stout","breweryName":"Third Street Aleworks","beerName":"Blarney Sisters\u2019 Dry Irish Stout","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Classic Irish-Style Dry Stout","breweryName":"Independent Brewing Co.","beerName":"Wooden Coat","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Classic Irish-Style Dry Stout","breweryName":"Metazoa Brewing Co. - Stringtown Production Facility","beerName":"Irish Setter","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Classic Saison","breweryName":"Amsterdam Brewing Co.","beerName":"Bord du Lac","country":"Canada","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Classic Saison","breweryName":"Russian River Brewing Co. - Santa Rosa","beerName":"Jannemie","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Classic Saison","breweryName":"Roaring Table Brewing Co.","beerName":"Beth","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Coffee Beer","breweryName":"Georgetown Brewing Co.","beerName":"Gusto Crema Coffee Ale","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Coffee Beer","breweryName":"Wolf's Ridge Brewing - Production Operations","beerName":"Daybreak","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Coffee Beer","breweryName":"Dangerous Man Brewing Co.","beerName":"Double Cream Coffee Dream","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Coffee Stout or Porter","breweryName":"Pizza Port San Clemente","beerName":"Dusk til Dawn","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Coffee Stout or Porter","breweryName":"Bend Brewing Co.","beerName":"Mocha Porter","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Coffee Stout or Porter","breweryName":"Beachwood Brewing","beerName":"Mocha Machine","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Contemporary American-Style Lager","breweryName":"10 Barrel Brewing Co. - Bend Pub","beerName":"Money Cat","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Contemporary American-Style Lager","breweryName":"MadTree Brewing Co.","beerName":"Legendary Lager","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Contemporary American-Style Lager","breweryName":"Columbus Brewing Co.","beerName":"Lager","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Contemporary Gose","breweryName":"COVA Brewing Co.","beerName":"Aloha State of Mind","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Contemporary Gose","breweryName":"Big Grove Brewpub","beerName":"My Squad Stays on Point","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Contemporary Gose","breweryName":"Oedipus Brewing","beerName":"Swingers","country":"Netherlands","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Dortmunder\/Export or German-Style Oktoberfest","breweryName":"Harvestmoon Brewery","beerName":"Pilsner","country":"Japan","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Dortmunder\/Export or German-Style Oktoberfest","breweryName":"Little Dry Creek Brewery","beerName":"Lucky 13 Oktoberfest","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Dortmunder\/Export or German-Style Oktoberfest","breweryName":"Morgan Territory Brewing","beerName":"The Cushman","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"English Ale","breweryName":"LazyG Brewhouse","beerName":"Sunshine Blonde","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"English Ale","breweryName":"Parallel 49 Brewing Co.","beerName":"Craft Pale Ale","country":"Canada","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"English Ale","breweryName":"Compa\u00f1\u00eda Cervecera H\u00e9rcules","beerName":"Caballo Blanco","country":"Mexico","medalSort":"3"},{"year":"2022","medal":"Gold","category":"English Mild or Bitter","breweryName":"The Mitten Brewing Co.","beerName":"Triple Crown Brown","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"English Mild or Bitter","breweryName":"Immigrant Son Brewery","beerName":"Common Ale","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"English Mild or Bitter","breweryName":"Black Tooth Brewing Co.","beerName":"Saddle Bronc Brown","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"English-Style Brown Ale","breweryName":"Wild Fields Brewhouse","beerName":"Pine Mountain Monolith","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"English-Style Brown Ale","breweryName":"South Shore Brewery","beerName":"Nut Brown Ale","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"English-Style Brown Ale","breweryName":"Brass Foundry Brewing Co.","beerName":"Bottom Bouncer Brown Ale","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"European Dark Lager","breweryName":"Basic City Beer Co.","beerName":"Basic Ought","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"European Dark Lager","breweryName":"O.H.S.O. Brewery - Gilbert","beerName":"Bob's Your Dunkel","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"European Dark Lager","breweryName":"Gem\u00fct Biergarten","beerName":"Woden's Hunt Dunkel","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Experimental Beer","breweryName":"Woods Beer & Wine Co.","beerName":"Divine Origins Carignan","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Experimental Beer","breweryName":"Ronin Fermentation Project","beerName":"The Multiverse Lives","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Experimental Beer","breweryName":"Shades Brewing","beerName":"Kveik Peach Cobbler","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Experimental India Pale Ale","breweryName":"Mount Arrowsmith Brewing Co.","beerName":"The Sprut","country":"Canada","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Experimental India Pale Ale","breweryName":"HOB Brewing Co.","beerName":"Cool Cucumber IPA","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Experimental India Pale Ale","breweryName":"Marble Brewery - Production","beerName":"IPA-X","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Experimental Wood-Aged Beer","breweryName":"Atypical Brewery & Barrelworks","beerName":"Gin & Spruce","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Experimental Wood-Aged Beer","breweryName":"Sun King Brewery","beerName":"Soul Shakedown Party","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Experimental Wood-Aged Beer","breweryName":"Southern Grist Brewing Co.","beerName":"Batch One Theory: 6th Anniversary Cake","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Export Stout","breweryName":"Devils Backbone Basecamp Brewpub & Meadows","beerName":"Ramsey's Export Stout","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Export Stout","breweryName":"Wander Brewing","beerName":"Correspondent","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Export Stout","breweryName":"Double Down Brewing Co.","beerName":"Dark Epiphany","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Extra Special Bitter","breweryName":"StormBreaker Brewing","beerName":"Extra StormBreaker","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Extra Special Bitter","breweryName":"Metazoa Brewing Co. - Stringtown Production Facility","beerName":"Ruh Roh","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Extra Special Bitter","breweryName":"Sibling Revelry Brewing","beerName":"Red","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Field Beer","breweryName":"New Sarum Brewing","beerName":"The People's Elbow","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Field Beer","breweryName":"Shades Brewing","beerName":"Kveik Pina Colada","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Field Beer","breweryName":"10 Barrel Brewing Co. - Bend Pub","beerName":"Cucumber Crush","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Fruit Beer","breweryName":"Fort Point Beer Co.","beerName":"Yuzu KSA","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Fruit Beer","breweryName":"Territorial Brewing Co.","beerName":"Berry, Berry, Quite Contrary","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Fruit Beer","breweryName":"Mahanine Brewing","beerName":"Grape Fruit Session IPA","country":"China","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Fruit Wheat Beer","breweryName":"Neighbourhood Brewing","beerName":"Sunshine City","country":"Canada","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Fruit Wheat Beer","breweryName":"Oro Brewing Co.","beerName":"Trigo Suave","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Fruit Wheat Beer","breweryName":"Sierra Nevada Brewing Co. - Mills River","beerName":"Sunny Little Thing","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Fruited American-Style Sour Ale","breweryName":"Vallensons' Brewing Co.","beerName":"Pink","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Fruited American-Style Sour Ale","breweryName":"Brewhall Beer Co.","beerName":"Azedo Tropical Fruit Sour","country":"Canada","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Fruited American-Style Sour Ale","breweryName":"Whitewater Brewing Co.","beerName":"Blood Moon","country":"Canada","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Fruited Wood- and Barrel-Aged Sour Beer","breweryName":"Ugly Duck Brewing Co.","beerName":"Cerasus","country":"Denmark","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Fruited Wood- and Barrel-Aged Sour Beer","breweryName":"Cellador Ales","beerName":"Akimbo","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Fruited Wood- and Barrel-Aged Sour Beer","breweryName":"Piney River Brewing Co.","beerName":"Missouri Waltz with Cherries","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"German-Style Altbier","breweryName":"Bent Paddle Taproom - Pilot Brewery","beerName":"Altbear","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"German-Style Altbier","breweryName":"Resonate Brewery","beerName":"Lithium","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"German-Style Altbier","breweryName":"Rosenstadt Brewery","beerName":"Altbier","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"German-Style Bock or Maibock","breweryName":"Familienbrauerei Bauhoefer","beerName":"Bauhoefers Maibock","country":"Germany","medalSort":"1"},{"year":"2022","medal":"Silver","category":"German-Style Bock or Maibock","breweryName":"Morgan Territory Brewing","beerName":"Big Bock Energy","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"German-Style Bock or Maibock","breweryName":"Blind Tiger Brewery & Restaurant","beerName":"Blind Tiger Bock","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"German-Style Doppelbock or Eisbock","breweryName":"Privatbrauerei Wilhelm Ketterer","beerName":"Ketterer Trumpf","country":"Germany","medalSort":"1"},{"year":"2022","medal":"Silver","category":"German-Style Doppelbock or Eisbock","breweryName":"Hoppin' Frog Brewing","beerName":"Frogichlaus Swiss-Style Celebration Lager","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"German-Style Doppelbock or Eisbock","breweryName":"Black Hoof Brewing Co.","beerName":"Dominator Doppelbock","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"German-Style Koelsch","breweryName":"Joyride Brewing Co.","beerName":"Ice Cutter K\u00f6lsch","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"German-Style Koelsch","breweryName":"Devil's Logic Brewing","beerName":"Komunity Kolsch","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"German-Style Koelsch","breweryName":"Mountain Rambler Brewery","beerName":"Dent du Dent","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"German-Style Maerzen or Franconian-Style Rotbier","breweryName":"Moontown Brewing Co.","beerName":"Follow the Lederhosen","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"German-Style Maerzen or Franconian-Style Rotbier","breweryName":"F\u00fcrst Carl Schlossbrauerei","beerName":"F\u00fcrst Carl M\u00e4rzen","country":"Germany","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"German-Style Maerzen or Franconian-Style Rotbier","breweryName":"Roadmap Brewing Co.","beerName":"Late Night Polka Party","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"German-Style Pilsener","breweryName":"ABK Betriebsgesellschaft der Aktienbrauerei Kaufbeuren","beerName":"ABK Pils","country":"Germany","medalSort":"1"},{"year":"2022","medal":"Silver","category":"German-Style Pilsener","breweryName":"Counter Weight Brewing Co.","beerName":"Workhorse","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"German-Style Pilsener","breweryName":"Industrial Arts Brewing Co.","beerName":"Metric","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"German-Style Schwarzbier","breweryName":"Big Beach Brewing Co.","beerName":"Surrender Cobra","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"German-Style Schwarzbier","breweryName":"Union Craft Brewing","beerName":"Blackwing Lager","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"German-Style Schwarzbier","breweryName":"Catskill Brewery","beerName":"Nightshine Black Lager","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"German-Style Sour Ale","breweryName":"Anderson Valley Brewing Co.","beerName":"Holy Gose","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"German-Style Sour Ale","breweryName":"Hopfenstark Brewery","beerName":"Berlin Alexanderplatz","country":"Canada","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"German-Style Sour Ale","breweryName":"Narrow Path Brewing Co.","beerName":"Restless Seas","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"German-Style Wheat Ale","breweryName":"Bayerische Staatsbrauerei Weihenstephan","beerName":"Weihenstephaner Hefeweissbier Dunkel","country":"Germany","medalSort":"1"},{"year":"2022","medal":"Silver","category":"German-Style Wheat Ale","breweryName":"Brauerei Ladenburger","beerName":"Ladenburger Weizenbock Hell","country":"Germany","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"German-Style Wheat Ale","breweryName":"Brauerei Michael Plank","beerName":"Plank Original Hefeweizen","country":"Germany","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Gluten-Free Beer","breweryName":"Lakefront Brewery","beerName":"La Gosa Rita","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Gluten-Free Beer","breweryName":"Lucky Pigeon Brewing Co.","beerName":"Little Brown Job","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Gluten-Free Beer","breweryName":"Glutenberg","beerName":"Glutenberg Session IPA","country":"Canada","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Golden or Blonde Ale","breweryName":"Pelican Brewing Co. - Tillamook","beerName":"Kiwanda Cream Ale","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Golden or Blonde Ale","breweryName":"Sun King Brewery","beerName":"Sunlight Cream Ale","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Golden or Blonde Ale","breweryName":"Three Creeks Brewing Co. - Production","beerName":"Knotty Blonde","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Herb and Spice Beer","breweryName":"Lazarus Brewing Co.","beerName":"Black Pearl","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Herb and Spice Beer","breweryName":"Figueroa Mountain Brewing Co. - Santa Barbara","beerName":"Figueros\u00e9","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Herb and Spice Beer","breweryName":"Shades Brewing","beerName":"Kveik Thai Tom Kha","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Historical Beer","breweryName":"Switchback Brewing Co.","beerName":"Katie's Love Poem","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Historical Beer","breweryName":"Brewery Vivant","beerName":"Lange Wapper","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Historical Beer","breweryName":"Verboten Brewing & Barrel Project","beerName":"Angry Banjo","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Honey Beer","breweryName":"Brouwerij Kompel","beerName":"Kompel Prion des fleurs","country":"Belgium","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Honey Beer","breweryName":"Siboire","beerName":"Braggot","country":"Canada","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Honey Beer","breweryName":"Evans Brewing Co.","beerName":"Pollen Nation Honey Blonde","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Hoppy Lager","breweryName":"Ponderosa Brewing","beerName":"Italian Pilsner","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Hoppy Lager","breweryName":"Brauerei Gebr. Maisel","beerName":"Maisel & Friends Hoppy Hell","country":"Germany","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Hoppy Lager","breweryName":"Temescal Brewing","beerName":"49 Mile West Coast Pilsner","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Imperial India Pale Ale","breweryName":"Monday Night Brewing","beerName":"Space Lettuce","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Imperial India Pale Ale","breweryName":"No Label Brewing Co.","beerName":"Cali Boy","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Imperial India Pale Ale","breweryName":"Wissahickon Brewing Co.","beerName":"Devil's Pool","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"International Dark Lager","breweryName":"Morgan Territory Brewing","beerName":"Dark Reckoning","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"International Dark Lager","breweryName":"Big Ash Brewing","beerName":"Porter's Porter","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"International Dark Lager","breweryName":"Lost Forty Brewing","beerName":"Puffy Jacket","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"International India Pale Ale","breweryName":"Aqula Brewery Akita","beerName":"Namahage IPA","country":"Japan","medalSort":"1"},{"year":"2022","medal":"Silver","category":"International India Pale Ale","breweryName":"Green Cheek Beer Co.","beerName":"All Your Friends","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"International India Pale Ale","breweryName":"Bent Paddle Brewing Co.","beerName":"Bent Hop","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"International Light Lager","breweryName":"Wander Brewing","beerName":"Wander Litely","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"International Light Lager","breweryName":"Burgeon Beer Co.","beerName":"Invita","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"International Light Lager","breweryName":"Transmission Brewing","beerName":"Transmission Light","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"International Pale Ale","breweryName":"Highland Park Brewery","beerName":"Hello, LA","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"International Pale Ale","breweryName":"Pizza Port Carlsbad Village","beerName":"Locals Only","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"International Pale Ale","breweryName":"Mountains Walking Brewery","beerName":"Damsel Fly","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"International Pilsener or International Lager","breweryName":"Neshaminy Creek Brewing Co.","beerName":"Warehouse Lager","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"International Pilsener or International Lager","breweryName":"Incendiary Brewing Co.","beerName":"Italian Pils","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"International Pilsener or International Lager","breweryName":"Craft Coast","beerName":"Oscura","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Irish-Style Red Ale","breweryName":"Heiwa Shuzou Co.","beerName":"Heiwa Craft Red Ale","country":"Japan","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Irish-Style Red Ale","breweryName":"Middle James Brewing Co.","beerName":"Queen Medb","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Irish-Style Red Ale","breweryName":"Inside The Five Brewing Co.","beerName":"Megaphone","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Juicy or Hazy Imperial India Pale Ale","breweryName":"Mast Landing Brewing Co.","beerName":"Pantless Thunder Goose","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Juicy or Hazy Imperial India Pale Ale","breweryName":"Pure Project","beerName":"Houblon Deluxe","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Juicy or Hazy Imperial India Pale Ale","breweryName":"Barebottle Brewing Co.","beerName":"Citra Powered Jetpack","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Juicy or Hazy India Pale Ale","breweryName":"X\u00fcl Beer Co.","beerName":"Rhymes Like Dimes","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Juicy or Hazy India Pale Ale","breweryName":"Widowmaker Brewing","beerName":"Blue Comet","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Juicy or Hazy India Pale Ale","breweryName":"Brix City Brewing","beerName":"Tasty Jams","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Juicy or Hazy Pale Ale","breweryName":"Reuben's Brews - The Taproom","beerName":"Hazealicious","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Juicy or Hazy Pale Ale","breweryName":"33 Brewing Experiment","beerName":"Baby Azacca","country":"Canada","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Juicy or Hazy Pale Ale","breweryName":"Kings & Convicts Brewing Co.","beerName":"Haze in the Park","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Juicy or Hazy Strong Pale Ale","breweryName":"Slice Beer Co.","beerName":"Orange Glow","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Juicy or Hazy Strong Pale Ale","breweryName":"Industrial Arts Brewing Co.","beerName":"Wrench","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Juicy or Hazy Strong Pale Ale","breweryName":"Craft Coast","beerName":"Shootz Mahalo","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Kellerbier or Zwickelbier","breweryName":"Heater Allen Brewery","beerName":"Pils","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Kellerbier or Zwickelbier","breweryName":"Stone & Wood Brewing Co.","beerName":"Green Coast Lager","country":"Australia","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Kellerbier or Zwickelbier","breweryName":"Attitude Brewing Co.","beerName":"Pils Bitte","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Mixed-Culture Brett Beer","breweryName":"Columbus Brewing Co.","beerName":"Crocodile Tongue","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Mixed-Culture Brett Beer","breweryName":"La Cabra Brewing","beerName":"Grace","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Mixed-Culture Brett Beer","breweryName":"Indie Alehouse Brewing Co.","beerName":"Saison du Rosska","country":"Canada","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Munich-Style Helles","breweryName":"Meanwhile Brewing Co.","beerName":"Meanwhile Lager","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Munich-Style Helles","breweryName":"Humble Sea Brewing Co.","beerName":"Humble Sea Helles","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Munich-Style Helles","breweryName":"Schlappe-seppel","beerName":"Schlappe-seppel Helles","country":"Germany","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Non-Alcohol Beer","breweryName":"Gr\u00fcvi","beerName":"Golden Lager","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Non-Alcohol Beer","breweryName":"Deschutes Brewery","beerName":"Non-Alcoholic Black Butte","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Non-Alcohol Beer","breweryName":"Southern Grist Brewing Co.","beerName":"Parallel","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Oatmeal Stout","breweryName":"Earth Rider Brewery","beerName":"North Tower Stout","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Oatmeal Stout","breweryName":"Drowned Valley Brewing Co.","beerName":"OS Express","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Oatmeal Stout","breweryName":"WanderLinger Brewing Co.","beerName":"Stout of Tune","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Old Ale or Strong Ale","breweryName":"Silver City Brewery","beerName":"Old Scrooge","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Old Ale or Strong Ale","breweryName":"Nexus Brewery","beerName":"Beam Me Up (Higher), Scotty","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Old Ale or Strong Ale","breweryName":"The Lost Abbey","beerName":"King of Tyre","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Other Strong Beer","breweryName":"Deschutes Brewery & Public House - Bend","beerName":"Dee Wright","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Other Strong Beer","breweryName":"Accomplice Beer Co.","beerName":"Krimson King","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Other Strong Beer","breweryName":"Decipher Brewing Co.","beerName":"Artemis","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Pumpkin Beer","breweryName":"Philipsburg Brewing Co.","beerName":"5 Phantoms","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Pumpkin Beer","breweryName":"Sound2Summit Brewery","beerName":"Ryes of the Pumpkin King","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Pumpkin Beer","breweryName":"Launch Pad Brewery","beerName":"Pumpkin Paddy","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Robust Porter","breweryName":"Bozeman Brewing Co.","beerName":"Plum St. Porter","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Robust Porter","breweryName":"Ghost Town Brewing","beerName":"Ossuary","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Robust Porter","breweryName":"Mount Arrowsmith Brewing Co.","beerName":"Low Pressure Porter","country":"Canada","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Rye Beer","breweryName":"Headless Mumby Brewing Co.","beerName":"Smoked Rye Lager","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Rye Beer","breweryName":"Schaendorf Brewing Co.","beerName":"Ryetail","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Rye Beer","breweryName":"St\u00f6rtebeker Braumanufaktur","beerName":"St\u00f6rtebeker Roggen-Weizen","country":"Germany","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Scotch Ale","breweryName":"AleSmith Brewing Co.","beerName":"Wee Heavy","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Scotch Ale","breweryName":"Beachwood BBQ & Brewing","beerName":"Full Malted Jacket","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Scotch Ale","breweryName":"Real Ale Brewing Co.","beerName":"Real Heavy","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Scottish-Style Ale","breweryName":"Wild Fields Brewhouse","beerName":"Magic Swirling Sip","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Scottish-Style Ale","breweryName":"Goat Patch Brewing Co.","beerName":"It Takes a Tribe Red Ale","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Scottish-Style Ale","breweryName":"Shoreline Brewery","beerName":"Beltaine","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Session Beer","breweryName":"Station 26 Brewing Co.","beerName":"Swift Half","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Session Beer","breweryName":"Launch Pad Brewery","beerName":"Peacekeeper","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Session Beer","breweryName":"Bucketty's Brewing Co.","beerName":"Bucketty's Pale Ale No. 2","country":"Australia","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Session India Pale Ale","breweryName":"Cannonball Creek Brewing Co.","beerName":"Trump Hands","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Session India Pale Ale","breweryName":"Mickey Finn's Brewery","beerName":"Moon Rocks","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Session India Pale Ale","breweryName":"Five Boroughs Brewing Co.","beerName":"Tiny Juicy IPA","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Smoke Beer","breweryName":"Ballast Point Brewing Co. - Little Italy","beerName":"Schlenkerlish","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Smoke Beer","breweryName":"Brauerei-Gasthof Kundm\u00fcller","beerName":"Weiherer Rauch","country":"Germany","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Smoke Beer","breweryName":"49th State Brewing Co.","beerName":"Sm\u043e\u0304k Lager","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"South German-Style Hefeweizen","breweryName":"Fat Head's Brewery - Middleburg Heights","beerName":"Goggle Fogger","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"South German-Style Hefeweizen","breweryName":"Rahr & Sons Brewing Co.","beerName":"Hazy Hefe","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"South German-Style Hefeweizen","breweryName":"Bayern Brewing\/Edelweiss Bistro","beerName":"St. Walter Hefeweizen","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Specialty Beer","breweryName":"Miyazaki Hideji-Beer Co.","beerName":"KURI KURO - Dark Chestnuts Ale","country":"Japan","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Specialty Beer","breweryName":"SouthNorte Beer Co.","beerName":"Agavemente","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Specialty Beer","breweryName":"Denver Beer Co.","beerName":"Graham Cracker Porter","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Specialty Berliner-Style Weisse","breweryName":"Brewers at 4001 Yancey","beerName":"Victory Brewing Company Sunny Monkey","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Specialty Berliner-Style Weisse","breweryName":"Oregon City Brewing Co.","beerName":"Coming to Fruition: Cherry","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Specialty Berliner-Style Weisse","breweryName":"12Degree Brewing","beerName":"Cactus Juice","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Specialty Saison","breweryName":"Pola del Pub","beerName":"Saison Con Miel","country":"Colombia","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Specialty Saison","breweryName":"Oedipus Brewing","beerName":"Mannenliefde","country":"Netherlands","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Specialty Saison","breweryName":"Far Yeast Brewing Co.","beerName":"Far Yeast Tokyo White","country":"Japan","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Strong Red Ale","breweryName":"Cherry Street Brewpub - Halcyon","beerName":"Snapper Red","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Strong Red Ale","breweryName":"The Mitten Brewing Co.","beerName":"Rye Baby","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Strong Red Ale","breweryName":"Bootstrap Brewing","beerName":"Wreak Havoc","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Sweet Stout or Cream Stout","breweryName":"Pantown Brewing Co.","beerName":"Drop Forge Milk Stout","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Sweet Stout or Cream Stout","breweryName":"Trueman Brewing Co.","beerName":"Flipped Chocolate Milk Stout","country":"China","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Sweet Stout or Cream Stout","breweryName":"Ahnapee Brewery","beerName":"Two Stall","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Vienna-Style Lager","breweryName":"BarrieHaus Beer Co.","beerName":"Family Tradition","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Vienna-Style Lager","breweryName":"Ex Novo Brewing Co. - Corrales","beerName":"V For Vienna","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Vienna-Style Lager","breweryName":"Ivanhoe Park Brewing Co.","beerName":"Half-Toberfest","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Wood- and Barrel-Aged Beer","breweryName":"Sun King Brewery","beerName":"Barrel Aged Churrolicious","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Wood- and Barrel-Aged Beer","breweryName":"Circle Brewing Co.","beerName":"Devil's Night","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Wood- and Barrel-Aged Beer","breweryName":"Monday Night Brewing","beerName":"Bourbon Barrel Drafty Kilt","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Wood- and Barrel-Aged Sour Beer","breweryName":"Amalgam Brewing","beerName":"Table 44","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Wood- and Barrel-Aged Sour Beer","breweryName":"Astor Birra","beerName":"Sud-aka","country":"Argentina","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Wood- and Barrel-Aged Sour Beer","breweryName":"True Anomaly Brewing Co.","beerName":"Sea of Waves","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Wood- and Barrel-Aged Strong Beer","breweryName":"Stieglbrauerei zu Salzburg","beerName":"Sonnenk\u00f6nig VIII","country":"Austria","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Wood- and Barrel-Aged Strong Beer","breweryName":"Iron Hill Brewery & Restaurant - Maple Shade","beerName":"Queen of the North","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Wood- and Barrel-Aged Strong Beer","breweryName":"Alewerks Brewing Co.","beerName":"Bourbon Barrel Porter","country":"USA","medalSort":"3"},{"year":"2022","medal":"Gold","category":"Wood- and Barrel-Aged Strong Stout","breweryName":"Melvin Brewing","beerName":"Ruckus","country":"USA","medalSort":"1"},{"year":"2022","medal":"Silver","category":"Wood- and Barrel-Aged Strong Stout","breweryName":"Lawson's Finest Liquids","beerName":"Rum Barrel Aged Fayston Maple Imperial Stout","country":"USA","medalSort":"2"},{"year":"2022","medal":"Bronze","category":"Wood- and Barrel-Aged Strong Stout","breweryName":"Ratio Beerworks","beerName":"Bourbon Barrel-Aged Genius Wizard","country":"USA","medalSort":"3"}]
+[{
+  "year": "2022",
+  "medal": "Gold",
+  "style": "American Wheat Beer",
+  "brewery": "Cherry Street Brewpub - Halcyon",
+  "beer": "For-scythe",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "American Wheat Beer",
+  "brewery": "Widmer Brothers Brewing",
+  "beer": "Hefe",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "American Wheat Beer",
+  "brewery": "Cerveceria Principia",
+  "beer": "American Wheat",
+  "country": "Mexico",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "American-Belgo-Style Ale",
+  "brewery": "Barrel Head Brewhouse",
+  "beer": "Brother Harker Patersbier",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "American-Belgo-Style Ale",
+  "brewery": "Ratio Beerworks",
+  "beer": "Dear You",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "American-Belgo-Style Ale",
+  "brewery": "Metazoa Brewing Co. - Stringtown Production Facility",
+  "beer": "Klipspringer",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "American-Style Amber Lager",
+  "brewery": "MadTree Brewing Co.",
+  "beer": "Ziegler",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "American-Style Amber Lager",
+  "brewery": "Second Pitch Beer Co.",
+  "beer": "Hometown Lager",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "American-Style Amber Lager",
+  "brewery": "Community Beer Co.",
+  "beer": "Bock",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "American-Style Amber\/Red Ale",
+  "brewery": "Rebellion Brewing Co.",
+  "beer": "Amber Ale",
+  "country": "Canada",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "American-Style Amber\/Red Ale",
+  "brewery": "Hellbent Brewing Co.",
+  "beer": "Red Patina",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "American-Style Amber\/Red Ale",
+  "brewery": "Torque Brewing",
+  "beer": "Red Line",
+  "country": "Canada",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "American-Style Black Ale or American-Style Stout",
+  "brewery": "Kinnegar Brewing",
+  "beer": "Black Bucket",
+  "country": "Ireland",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "American-Style Black Ale or American-Style Stout",
+  "brewery": "Bond's Brewing Co.",
+  "beer": "Stout",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "American-Style Black Ale or American-Style Stout",
+  "brewery": "Baerlic Brewing Co.",
+  "beer": "Dark Thoughts Black IPA",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "American-Style Brown Ale",
+  "brewery": "Wild Fields Brewhouse",
+  "beer": "Three Bridges Brown",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "American-Style Brown Ale",
+  "brewery": "HiHO Brewing Co.",
+  "beer": "Touchdown Brown Ale",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "American-Style Brown Ale",
+  "brewery": "Second Street Brewery - Rufina",
+  "beer": "Brown Ale",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "American-Style Cream Ale",
+  "brewery": "Wild Fields Brewhouse",
+  "beer": "Atascadero Beach",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "American-Style Cream Ale",
+  "brewery": "El Rancho Brewing Co.",
+  "beer": "Cerveza del Rancho",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "American-Style Cream Ale",
+  "brewery": "Delahunt Brewing Co.",
+  "beer": "De La Sol",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "American-Style Imperial Stout",
+  "brewery": "ZwanzigZ Brewing",
+  "beer": "Fulcrum Imperial Stout",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "American-Style Imperial Stout",
+  "brewery": "ZhangMen Brewing Co.",
+  "beer": "Black Citrus",
+  "country": "Taiwan",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "American-Style Imperial Stout",
+  "brewery": "San Fernando Brewing Co.",
+  "beer": "Imperial Death Star",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "American-Style India Pale Ale",
+  "brewery": "North Park Beer Co.",
+  "beer": "Hop-Fu!",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "American-Style India Pale Ale",
+  "brewery": "Brewery X",
+  "beer": "Super Slap",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "American-Style India Pale Ale",
+  "brewery": "Karl Strauss Brewing Co.",
+  "beer": "Aurora Hoppyalis IPA",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "American-Style Lager",
+  "brewery": "Seismic Brewing Co.",
+  "beer": "Tremor California Light Lager",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "American-Style Lager",
+  "brewery": "CooperSmith's Pub & Brewing",
+  "beer": "Old Fortwaukee",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "American-Style Lager",
+  "brewery": "The Empourium Brewing Co.",
+  "beer": "Atari's Lantern",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "American-Style Pale Ale",
+  "brewery": "Figueroa Mountain Brewing Co. - Santa Barbara",
+  "beer": "Figueroa Mountain Mosaic",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "American-Style Pale Ale",
+  "brewery": "Pizza Port Bressi Ranch",
+  "beer": "Cruisin'",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "American-Style Pale Ale",
+  "brewery": "Institution Ale Co.",
+  "beer": "Somewhere Golden",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "American-Style Pilsener",
+  "brewery": "Pizza Port Bressi Ranch",
+  "beer": "Dieguito",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "American-Style Pilsener",
+  "brewery": "Lincoln Beer Co.",
+  "beer": "Mosaic Pilsner",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "American-Style Pilsener",
+  "brewery": "Cloudburst Brewing",
+  "beer": "Happy Little Clouds",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "American-Style Sour Ale",
+  "brewery": "MobCraft Beer",
+  "beer": "Low pHunk",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "American-Style Sour Ale",
+  "brewery": "10 Barrel Brewing Co. - Bend Pub",
+  "beer": "Brilliant",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "American-Style Sour Ale",
+  "brewery": "Level Crossing Brewing Co.",
+  "beer": "Cryptoporticus",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "American-Style Strong Pale Ale",
+  "brewery": "Kern River Brewing Co. - The  Backyard",
+  "beer": "California Lounge Chair",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "American-Style Strong Pale Ale",
+  "brewery": "Liquid Gravity Brewing Co.",
+  "beer": "Liquid Gravity IPA",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "American-Style Strong Pale Ale",
+  "brewery": "Urbanrest Brewing Co.",
+  "beer": "Easy Button",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Australian-Style Pale Ale",
+  "brewery": "Lost Winds Brewing Co.",
+  "beer": "Beach Hopppin' Pale",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Australian-Style Pale Ale",
+  "brewery": "Sunriver Brewing Co.",
+  "beer": "Bondi Beach Party",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Australian-Style Pale Ale",
+  "brewery": "Urban Alley Brewery",
+  "beer": "Slapshot",
+  "country": "Australia",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Barley Wine-Style Ale",
+  "brewery": "Dual Citizen Brewing Co.",
+  "beer": "Mayhem and Mischief",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Barley Wine-Style Ale",
+  "brewery": "Danville Brewing Co.",
+  "beer": "Granny's Tipple",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Barley Wine-Style Ale",
+  "brewery": "BJ's Brewhouse - Temple",
+  "beer": "BJ's Barley Wine",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Belgian Fruit Beer",
+  "brewery": "Jester King Brewery",
+  "beer": "Atrial Rubicite",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Belgian Fruit Beer",
+  "brewery": "Oud Beersel",
+  "beer": "Oude Kriek Oud Beersel",
+  "country": "Belgium",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Belgian Fruit Beer",
+  "brewery": "ColdFire Brewing Co.",
+  "beer": "Valley M\u00e9lange",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Belgian-Style Abbey Ale",
+  "brewery": "Able Baker Brewing Co.",
+  "beer": "Monique",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Belgian-Style Abbey Ale",
+  "brewery": "Kilowatt Brewing",
+  "beer": "OB Bubble Dubbel",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Belgian-Style Abbey Ale",
+  "brewery": "Source Brewing",
+  "beer": "Colts Abbey",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Belgian-Style Ale or French-Style Ale",
+  "brewery": "Crooked Lane Brewing Co.",
+  "beer": "Belgian Blonde Ale",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Belgian-Style Ale or French-Style Ale",
+  "brewery": "Fretboard Brewing Co.",
+  "beer": "Crazy Train",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Belgian-Style Ale or French-Style Ale",
+  "brewery": "Brewery Vanuxeem",
+  "beer": "Queue de Charrue Blond",
+  "country": "Belgium",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Belgian-Style Sour Ale",
+  "brewery": "IMBIB Custom Brews",
+  "beer": "Triad",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Belgian-Style Sour Ale",
+  "brewery": "Funkwerks",
+  "beer": "Oud Bruin",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Belgian-Style Sour Ale",
+  "brewery": "Beachwood Blendery",
+  "beer": "Funk Yeah",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Belgian-Style Strong Specialty Ale",
+  "brewery": "Brasserie du Pays Flamand",
+  "beer": "Anostek\u00e9 Blonde",
+  "country": "France",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Belgian-Style Strong Specialty Ale",
+  "brewery": "Brouwerij Malheur",
+  "beer": "Malheur 10",
+  "country": "Belgium",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Belgian-Style Strong Specialty Ale",
+  "brewery": "Fabbrica Della Birra Tenute Collesi",
+  "beer": "Collesi Rossa",
+  "country": "Italy",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Belgian-Style Table Beer or Belgian-Style Session Ale",
+  "brewery": "Brewers at 4001 Yancey",
+  "beer": "Victory Brewing Company Slow Breeze",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Belgian-Style Table Beer or Belgian-Style Session Ale",
+  "brewery": "Barquentine Brewing Co.",
+  "beer": "Sloans Lake Yacht Club",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Belgian-Style Table Beer or Belgian-Style Session Ale",
+  "brewery": "Pizza Port Ocean Beach",
+  "beer": "Guillaume",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Belgian-Style Tripel",
+  "brewery": "Allagash Brewing Co.",
+  "beer": "Tripel",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Belgian-Style Tripel",
+  "brewery": "Figurehead Brewing Co.",
+  "beer": "Steam Tug Tripel",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Belgian-Style Tripel",
+  "brewery": "Scheldebrouwerij",
+  "beer": "Zee Zuiper",
+  "country": "Belgium",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Belgian-Style Witbier",
+  "brewery": "Allagash Brewing Co.",
+  "beer": "White",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Bohemian-Style Pilsener",
+  "brewery": "Confluence Brewing Co.",
+  "beer": "Over the Ivy",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Bohemian-Style Pilsener",
+  "brewery": "Port City Brewing Co.",
+  "beer": "Downright Pilsner",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Bohemian-Style Pilsener",
+  "brewery": "Chuckanut Brewery",
+  "beer": "Pilsner",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Brett Beer",
+  "brewery": "Denizens Brewing Co.",
+  "beer": "The Glow",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Brett Beer",
+  "brewery": "Kros Strain Brewing Co.",
+  "beer": "Saison 625",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Brett Beer",
+  "brewery": "CODA Brewing Co.",
+  "beer": "Wallonian Dreams",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "British-Style Imperial Stout",
+  "brewery": "5 Branches Brewing",
+  "beer": "Doggin Wrench",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "British-Style Imperial Stout",
+  "brewery": "Goose and the Monkey Brewhouse",
+  "beer": "Bion Series Russian Imperial Stout",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "British-Style Imperial Stout",
+  "brewery": "Outsider Brewing",
+  "beer": "The Sith Imperial Stout",
+  "country": "Japan",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Brown Porter",
+  "brewery": "1886 Brewing Co.",
+  "beer": "Record Beer",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Brown Porter",
+  "brewery": "Kulshan Brewing Co. - James Street",
+  "beer": "Transporter",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Brown Porter",
+  "brewery": "Vail Brewing Co.",
+  "beer": "Dark Necessities",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Chili Beer",
+  "brewery": "Ooga Brewing Co.",
+  "beer": "Holla! Jalapeno Cream Ale",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Chili Beer",
+  "brewery": "El Gardenia",
+  "beer": "Piq\u00fae",
+  "country": "Mexico",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Chili Beer",
+  "brewery": "Dragonmead Microbrewery",
+  "beer": "Ring of Fire",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Chocolate Beer",
+  "brewery": "Fort Myers Brewing Co.",
+  "beer": "Chocolate Stout",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Chocolate Beer",
+  "brewery": "3 Nations Brewing Co.",
+  "beer": "Devour Imperial Stout - Mexican Chocolate",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Chocolate Beer",
+  "brewery": "Cerveceria R\u00e1muri",
+  "beer": "L\u00e1grimas Negras",
+  "country": "Mexico",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Classic Irish-Style Dry Stout",
+  "brewery": "Third Street Aleworks",
+  "beer": "Blarney Sisters\u2019 Dry Irish Stout",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Classic Irish-Style Dry Stout",
+  "brewery": "Independent Brewing Co.",
+  "beer": "Wooden Coat",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Classic Irish-Style Dry Stout",
+  "brewery": "Metazoa Brewing Co. - Stringtown Production Facility",
+  "beer": "Irish Setter",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Classic Saison",
+  "brewery": "Amsterdam Brewing Co.",
+  "beer": "Bord du Lac",
+  "country": "Canada",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Classic Saison",
+  "brewery": "Russian River Brewing Co. - Santa Rosa",
+  "beer": "Jannemie",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Classic Saison",
+  "brewery": "Roaring Table Brewing Co.",
+  "beer": "Beth",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Coffee Beer",
+  "brewery": "Georgetown Brewing Co.",
+  "beer": "Gusto Crema Coffee Ale",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Coffee Beer",
+  "brewery": "Wolf's Ridge Brewing - Production Operations",
+  "beer": "Daybreak",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Coffee Beer",
+  "brewery": "Dangerous Man Brewing Co.",
+  "beer": "Double Cream Coffee Dream",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Coffee Stout or Porter",
+  "brewery": "Pizza Port San Clemente",
+  "beer": "Dusk til Dawn",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Coffee Stout or Porter",
+  "brewery": "Bend Brewing Co.",
+  "beer": "Mocha Porter",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Coffee Stout or Porter",
+  "brewery": "Beachwood Brewing",
+  "beer": "Mocha Machine",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Contemporary American-Style Lager",
+  "brewery": "10 Barrel Brewing Co. - Bend Pub",
+  "beer": "Money Cat",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Contemporary American-Style Lager",
+  "brewery": "MadTree Brewing Co.",
+  "beer": "Legendary Lager",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Contemporary American-Style Lager",
+  "brewery": "Columbus Brewing Co.",
+  "beer": "Lager",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Contemporary Gose",
+  "brewery": "COVA Brewing Co.",
+  "beer": "Aloha State of Mind",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Contemporary Gose",
+  "brewery": "Big Grove Brewpub",
+  "beer": "My Squad Stays on Point",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Contemporary Gose",
+  "brewery": "Oedipus Brewing",
+  "beer": "Swingers",
+  "country": "Netherlands",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Dortmunder\/Export or German-Style Oktoberfest",
+  "brewery": "Harvestmoon Brewery",
+  "beer": "Pilsner",
+  "country": "Japan",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Dortmunder\/Export or German-Style Oktoberfest",
+  "brewery": "Little Dry Creek Brewery",
+  "beer": "Lucky 13 Oktoberfest",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Dortmunder\/Export or German-Style Oktoberfest",
+  "brewery": "Morgan Territory Brewing",
+  "beer": "The Cushman",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "English Ale",
+  "brewery": "LazyG Brewhouse",
+  "beer": "Sunshine Blonde",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "English Ale",
+  "brewery": "Parallel 49 Brewing Co.",
+  "beer": "Craft Pale Ale",
+  "country": "Canada",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "English Ale",
+  "brewery": "Compa\u00f1\u00eda Cervecera H\u00e9rcules",
+  "beer": "Caballo Blanco",
+  "country": "Mexico",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "English Mild or Bitter",
+  "brewery": "The Mitten Brewing Co.",
+  "beer": "Triple Crown Brown",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "English Mild or Bitter",
+  "brewery": "Immigrant Son Brewery",
+  "beer": "Common Ale",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "English Mild or Bitter",
+  "brewery": "Black Tooth Brewing Co.",
+  "beer": "Saddle Bronc Brown",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "English-Style Brown Ale",
+  "brewery": "Wild Fields Brewhouse",
+  "beer": "Pine Mountain Monolith",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "English-Style Brown Ale",
+  "brewery": "South Shore Brewery",
+  "beer": "Nut Brown Ale",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "English-Style Brown Ale",
+  "brewery": "Brass Foundry Brewing Co.",
+  "beer": "Bottom Bouncer Brown Ale",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "European Dark Lager",
+  "brewery": "Basic City Beer Co.",
+  "beer": "Basic Ought",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "European Dark Lager",
+  "brewery": "O.H.S.O. Brewery - Gilbert",
+  "beer": "Bob's Your Dunkel",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "European Dark Lager",
+  "brewery": "Gem\u00fct Biergarten",
+  "beer": "Woden's Hunt Dunkel",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Experimental Beer",
+  "brewery": "Woods Beer & Wine Co.",
+  "beer": "Divine Origins Carignan",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Experimental Beer",
+  "brewery": "Ronin Fermentation Project",
+  "beer": "The Multiverse Lives",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Experimental Beer",
+  "brewery": "Shades Brewing",
+  "beer": "Kveik Peach Cobbler",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Experimental India Pale Ale",
+  "brewery": "Mount Arrowsmith Brewing Co.",
+  "beer": "The Sprut",
+  "country": "Canada",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Experimental India Pale Ale",
+  "brewery": "HOB Brewing Co.",
+  "beer": "Cool Cucumber IPA",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Experimental India Pale Ale",
+  "brewery": "Marble Brewery - Production",
+  "beer": "IPA-X",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Experimental Wood-Aged Beer",
+  "brewery": "Atypical Brewery & Barrelworks",
+  "beer": "Gin & Spruce",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Experimental Wood-Aged Beer",
+  "brewery": "Sun King Brewery",
+  "beer": "Soul Shakedown Party",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Experimental Wood-Aged Beer",
+  "brewery": "Southern Grist Brewing Co.",
+  "beer": "Batch One Theory: 6th Anniversary Cake",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Export Stout",
+  "brewery": "Devils Backbone Basecamp Brewpub & Meadows",
+  "beer": "Ramsey's Export Stout",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Export Stout",
+  "brewery": "Wander Brewing",
+  "beer": "Correspondent",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Export Stout",
+  "brewery": "Double Down Brewing Co.",
+  "beer": "Dark Epiphany",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Extra Special Bitter",
+  "brewery": "StormBreaker Brewing",
+  "beer": "Extra StormBreaker",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Extra Special Bitter",
+  "brewery": "Metazoa Brewing Co. - Stringtown Production Facility",
+  "beer": "Ruh Roh",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Extra Special Bitter",
+  "brewery": "Sibling Revelry Brewing",
+  "beer": "Red",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Field Beer",
+  "brewery": "New Sarum Brewing",
+  "beer": "The People's Elbow",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Field Beer",
+  "brewery": "Shades Brewing",
+  "beer": "Kveik Pina Colada",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Field Beer",
+  "brewery": "10 Barrel Brewing Co. - Bend Pub",
+  "beer": "Cucumber Crush",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Fruit Beer",
+  "brewery": "Fort Point Beer Co.",
+  "beer": "Yuzu KSA",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Fruit Beer",
+  "brewery": "Territorial Brewing Co.",
+  "beer": "Berry, Berry, Quite Contrary",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Fruit Beer",
+  "brewery": "Mahanine Brewing",
+  "beer": "Grape Fruit Session IPA",
+  "country": "China",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Fruit Wheat Beer",
+  "brewery": "Neighbourhood Brewing",
+  "beer": "Sunshine City",
+  "country": "Canada",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Fruit Wheat Beer",
+  "brewery": "Oro Brewing Co.",
+  "beer": "Trigo Suave",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Fruit Wheat Beer",
+  "brewery": "Sierra Nevada Brewing Co. - Mills River",
+  "beer": "Sunny Little Thing",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Fruited American-Style Sour Ale",
+  "brewery": "Vallensons' Brewing Co.",
+  "beer": "Pink",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Fruited American-Style Sour Ale",
+  "brewery": "Brewhall Beer Co.",
+  "beer": "Azedo Tropical Fruit Sour",
+  "country": "Canada",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Fruited American-Style Sour Ale",
+  "brewery": "Whitewater Brewing Co.",
+  "beer": "Blood Moon",
+  "country": "Canada",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Fruited Wood- and Barrel-Aged Sour Beer",
+  "brewery": "Ugly Duck Brewing Co.",
+  "beer": "Cerasus",
+  "country": "Denmark",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Fruited Wood- and Barrel-Aged Sour Beer",
+  "brewery": "Cellador Ales",
+  "beer": "Akimbo",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Fruited Wood- and Barrel-Aged Sour Beer",
+  "brewery": "Piney River Brewing Co.",
+  "beer": "Missouri Waltz with Cherries",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "German-Style Altbier",
+  "brewery": "Bent Paddle Taproom - Pilot Brewery",
+  "beer": "Altbear",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "German-Style Altbier",
+  "brewery": "Resonate Brewery",
+  "beer": "Lithium",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "German-Style Altbier",
+  "brewery": "Rosenstadt Brewery",
+  "beer": "Altbier",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "German-Style Bock or Maibock",
+  "brewery": "Familienbrauerei Bauhoefer",
+  "beer": "Bauhoefers Maibock",
+  "country": "Germany",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "German-Style Bock or Maibock",
+  "brewery": "Morgan Territory Brewing",
+  "beer": "Big Bock Energy",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "German-Style Bock or Maibock",
+  "brewery": "Blind Tiger Brewery & Restaurant",
+  "beer": "Blind Tiger Bock",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "German-Style Doppelbock or Eisbock",
+  "brewery": "Privatbrauerei Wilhelm Ketterer",
+  "beer": "Ketterer Trumpf",
+  "country": "Germany",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "German-Style Doppelbock or Eisbock",
+  "brewery": "Hoppin' Frog Brewing",
+  "beer": "Frogichlaus Swiss-Style Celebration Lager",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "German-Style Doppelbock or Eisbock",
+  "brewery": "Black Hoof Brewing Co.",
+  "beer": "Dominator Doppelbock",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "German-Style Koelsch",
+  "brewery": "Joyride Brewing Co.",
+  "beer": "Ice Cutter K\u00f6lsch",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "German-Style Koelsch",
+  "brewery": "Devil's Logic Brewing",
+  "beer": "Komunity Kolsch",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "German-Style Koelsch",
+  "brewery": "Mountain Rambler Brewery",
+  "beer": "Dent du Dent",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "German-Style Maerzen or Franconian-Style Rotbier",
+  "brewery": "Moontown Brewing Co.",
+  "beer": "Follow the Lederhosen",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "German-Style Maerzen or Franconian-Style Rotbier",
+  "brewery": "F\u00fcrst Carl Schlossbrauerei",
+  "beer": "F\u00fcrst Carl M\u00e4rzen",
+  "country": "Germany",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "German-Style Maerzen or Franconian-Style Rotbier",
+  "brewery": "Roadmap Brewing Co.",
+  "beer": "Late Night Polka Party",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "German-Style Pilsener",
+  "brewery": "ABK Betriebsgesellschaft der Aktienbrauerei Kaufbeuren",
+  "beer": "ABK Pils",
+  "country": "Germany",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "German-Style Pilsener",
+  "brewery": "Counter Weight Brewing Co.",
+  "beer": "Workhorse",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "German-Style Pilsener",
+  "brewery": "Industrial Arts Brewing Co.",
+  "beer": "Metric",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "German-Style Schwarzbier",
+  "brewery": "Big Beach Brewing Co.",
+  "beer": "Surrender Cobra",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "German-Style Schwarzbier",
+  "brewery": "Union Craft Brewing",
+  "beer": "Blackwing Lager",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "German-Style Schwarzbier",
+  "brewery": "Catskill Brewery",
+  "beer": "Nightshine Black Lager",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "German-Style Sour Ale",
+  "brewery": "Anderson Valley Brewing Co.",
+  "beer": "Holy Gose",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "German-Style Sour Ale",
+  "brewery": "Hopfenstark Brewery",
+  "beer": "Berlin Alexanderplatz",
+  "country": "Canada",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "German-Style Sour Ale",
+  "brewery": "Narrow Path Brewing Co.",
+  "beer": "Restless Seas",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "German-Style Wheat Ale",
+  "brewery": "Bayerische Staatsbrauerei Weihenstephan",
+  "beer": "Weihenstephaner Hefeweissbier Dunkel",
+  "country": "Germany",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "German-Style Wheat Ale",
+  "brewery": "Brauerei Ladenburger",
+  "beer": "Ladenburger Weizenbock Hell",
+  "country": "Germany",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "German-Style Wheat Ale",
+  "brewery": "Brauerei Michael Plank",
+  "beer": "Plank Original Hefeweizen",
+  "country": "Germany",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Gluten-Free Beer",
+  "brewery": "Lakefront Brewery",
+  "beer": "La Gosa Rita",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Gluten-Free Beer",
+  "brewery": "Lucky Pigeon Brewing Co.",
+  "beer": "Little Brown Job",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Gluten-Free Beer",
+  "brewery": "Glutenberg",
+  "beer": "Glutenberg Session IPA",
+  "country": "Canada",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Golden or Blonde Ale",
+  "brewery": "Pelican Brewing Co. - Tillamook",
+  "beer": "Kiwanda Cream Ale",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Golden or Blonde Ale",
+  "brewery": "Sun King Brewery",
+  "beer": "Sunlight Cream Ale",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Golden or Blonde Ale",
+  "brewery": "Three Creeks Brewing Co. - Production",
+  "beer": "Knotty Blonde",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Herb and Spice Beer",
+  "brewery": "Lazarus Brewing Co.",
+  "beer": "Black Pearl",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Herb and Spice Beer",
+  "brewery": "Figueroa Mountain Brewing Co. - Santa Barbara",
+  "beer": "Figueros\u00e9",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Herb and Spice Beer",
+  "brewery": "Shades Brewing",
+  "beer": "Kveik Thai Tom Kha",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Historical Beer",
+  "brewery": "Switchback Brewing Co.",
+  "beer": "Katie's Love Poem",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Historical Beer",
+  "brewery": "Brewery Vivant",
+  "beer": "Lange Wapper",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Historical Beer",
+  "brewery": "Verboten Brewing & Barrel Project",
+  "beer": "Angry Banjo",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Honey Beer",
+  "brewery": "Brouwerij Kompel",
+  "beer": "Kompel Prion des fleurs",
+  "country": "Belgium",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Honey Beer",
+  "brewery": "Siboire",
+  "beer": "Braggot",
+  "country": "Canada",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Honey Beer",
+  "brewery": "Evans Brewing Co.",
+  "beer": "Pollen Nation Honey Blonde",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Hoppy Lager",
+  "brewery": "Ponderosa Brewing",
+  "beer": "Italian Pilsner",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Hoppy Lager",
+  "brewery": "Brauerei Gebr. Maisel",
+  "beer": "Maisel & Friends Hoppy Hell",
+  "country": "Germany",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Hoppy Lager",
+  "brewery": "Temescal Brewing",
+  "beer": "49 Mile West Coast Pilsner",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Imperial India Pale Ale",
+  "brewery": "Monday Night Brewing",
+  "beer": "Space Lettuce",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Imperial India Pale Ale",
+  "brewery": "No Label Brewing Co.",
+  "beer": "Cali Boy",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Imperial India Pale Ale",
+  "brewery": "Wissahickon Brewing Co.",
+  "beer": "Devil's Pool",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "International Dark Lager",
+  "brewery": "Morgan Territory Brewing",
+  "beer": "Dark Reckoning",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "International Dark Lager",
+  "brewery": "Big Ash Brewing",
+  "beer": "Porter's Porter",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "International Dark Lager",
+  "brewery": "Lost Forty Brewing",
+  "beer": "Puffy Jacket",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "International India Pale Ale",
+  "brewery": "Aqula Brewery Akita",
+  "beer": "Namahage IPA",
+  "country": "Japan",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "International India Pale Ale",
+  "brewery": "Green Cheek Beer Co.",
+  "beer": "All Your Friends",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "International India Pale Ale",
+  "brewery": "Bent Paddle Brewing Co.",
+  "beer": "Bent Hop",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "International Light Lager",
+  "brewery": "Wander Brewing",
+  "beer": "Wander Litely",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "International Light Lager",
+  "brewery": "Burgeon Beer Co.",
+  "beer": "Invita",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "International Light Lager",
+  "brewery": "Transmission Brewing",
+  "beer": "Transmission Light",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "International Pale Ale",
+  "brewery": "Highland Park Brewery",
+  "beer": "Hello, LA",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "International Pale Ale",
+  "brewery": "Pizza Port Carlsbad Village",
+  "beer": "Locals Only",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "International Pale Ale",
+  "brewery": "Mountains Walking Brewery",
+  "beer": "Damsel Fly",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "International Pilsener or International Lager",
+  "brewery": "Neshaminy Creek Brewing Co.",
+  "beer": "Warehouse Lager",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "International Pilsener or International Lager",
+  "brewery": "Incendiary Brewing Co.",
+  "beer": "Italian Pils",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "International Pilsener or International Lager",
+  "brewery": "Craft Coast",
+  "beer": "Oscura",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Irish-Style Red Ale",
+  "brewery": "Heiwa Shuzou Co.",
+  "beer": "Heiwa Craft Red Ale",
+  "country": "Japan",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Irish-Style Red Ale",
+  "brewery": "Middle James Brewing Co.",
+  "beer": "Queen Medb",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Irish-Style Red Ale",
+  "brewery": "Inside The Five Brewing Co.",
+  "beer": "Megaphone",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Juicy or Hazy Imperial India Pale Ale",
+  "brewery": "Mast Landing Brewing Co.",
+  "beer": "Pantless Thunder Goose",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Juicy or Hazy Imperial India Pale Ale",
+  "brewery": "Pure Project",
+  "beer": "Houblon Deluxe",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Juicy or Hazy Imperial India Pale Ale",
+  "brewery": "Barebottle Brewing Co.",
+  "beer": "Citra Powered Jetpack",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Juicy or Hazy India Pale Ale",
+  "brewery": "X\u00fcl Beer Co.",
+  "beer": "Rhymes Like Dimes",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Juicy or Hazy India Pale Ale",
+  "brewery": "Widowmaker Brewing",
+  "beer": "Blue Comet",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Juicy or Hazy India Pale Ale",
+  "brewery": "Brix City Brewing",
+  "beer": "Tasty Jams",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Juicy or Hazy Pale Ale",
+  "brewery": "Reuben's Brews - The Taproom",
+  "beer": "Hazealicious",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Juicy or Hazy Pale Ale",
+  "brewery": "33 Brewing Experiment",
+  "beer": "Baby Azacca",
+  "country": "Canada",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Juicy or Hazy Pale Ale",
+  "brewery": "Kings & Convicts Brewing Co.",
+  "beer": "Haze in the Park",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Juicy or Hazy Strong Pale Ale",
+  "brewery": "Slice Beer Co.",
+  "beer": "Orange Glow",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Juicy or Hazy Strong Pale Ale",
+  "brewery": "Industrial Arts Brewing Co.",
+  "beer": "Wrench",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Juicy or Hazy Strong Pale Ale",
+  "brewery": "Craft Coast",
+  "beer": "Shootz Mahalo",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Kellerbier or Zwickelbier",
+  "brewery": "Heater Allen Brewery",
+  "beer": "Pils",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Kellerbier or Zwickelbier",
+  "brewery": "Stone & Wood Brewing Co.",
+  "beer": "Green Coast Lager",
+  "country": "Australia",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Kellerbier or Zwickelbier",
+  "brewery": "Attitude Brewing Co.",
+  "beer": "Pils Bitte",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Mixed-Culture Brett Beer",
+  "brewery": "Columbus Brewing Co.",
+  "beer": "Crocodile Tongue",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Mixed-Culture Brett Beer",
+  "brewery": "La Cabra Brewing",
+  "beer": "Grace",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Mixed-Culture Brett Beer",
+  "brewery": "Indie Alehouse Brewing Co.",
+  "beer": "Saison du Rosska",
+  "country": "Canada",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Munich-Style Helles",
+  "brewery": "Meanwhile Brewing Co.",
+  "beer": "Meanwhile Lager",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Munich-Style Helles",
+  "brewery": "Humble Sea Brewing Co.",
+  "beer": "Humble Sea Helles",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Munich-Style Helles",
+  "brewery": "Schlappe-seppel",
+  "beer": "Schlappe-seppel Helles",
+  "country": "Germany",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Non-Alcohol Beer",
+  "brewery": "Gr\u00fcvi",
+  "beer": "Golden Lager",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Non-Alcohol Beer",
+  "brewery": "Deschutes Brewery",
+  "beer": "Non-Alcoholic Black Butte",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Non-Alcohol Beer",
+  "brewery": "Southern Grist Brewing Co.",
+  "beer": "Parallel",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Oatmeal Stout",
+  "brewery": "Earth Rider Brewery",
+  "beer": "North Tower Stout",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Oatmeal Stout",
+  "brewery": "Drowned Valley Brewing Co.",
+  "beer": "OS Express",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Oatmeal Stout",
+  "brewery": "WanderLinger Brewing Co.",
+  "beer": "Stout of Tune",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Old Ale or Strong Ale",
+  "brewery": "Silver City Brewery",
+  "beer": "Old Scrooge",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Old Ale or Strong Ale",
+  "brewery": "Nexus Brewery",
+  "beer": "Beam Me Up (Higher), Scotty",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Old Ale or Strong Ale",
+  "brewery": "The Lost Abbey",
+  "beer": "King of Tyre",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Other Strong Beer",
+  "brewery": "Deschutes Brewery & Public House - Bend",
+  "beer": "Dee Wright",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Other Strong Beer",
+  "brewery": "Accomplice Beer Co.",
+  "beer": "Krimson King",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Other Strong Beer",
+  "brewery": "Decipher Brewing Co.",
+  "beer": "Artemis",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Pumpkin Beer",
+  "brewery": "Philipsburg Brewing Co.",
+  "beer": "5 Phantoms",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Pumpkin Beer",
+  "brewery": "Sound2Summit Brewery",
+  "beer": "Ryes of the Pumpkin King",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Pumpkin Beer",
+  "brewery": "Launch Pad Brewery",
+  "beer": "Pumpkin Paddy",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Robust Porter",
+  "brewery": "Bozeman Brewing Co.",
+  "beer": "Plum St. Porter",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Robust Porter",
+  "brewery": "Ghost Town Brewing",
+  "beer": "Ossuary",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Robust Porter",
+  "brewery": "Mount Arrowsmith Brewing Co.",
+  "beer": "Low Pressure Porter",
+  "country": "Canada",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Rye Beer",
+  "brewery": "Headless Mumby Brewing Co.",
+  "beer": "Smoked Rye Lager",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Rye Beer",
+  "brewery": "Schaendorf Brewing Co.",
+  "beer": "Ryetail",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Rye Beer",
+  "brewery": "St\u00f6rtebeker Braumanufaktur",
+  "beer": "St\u00f6rtebeker Roggen-Weizen",
+  "country": "Germany",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Scotch Ale",
+  "brewery": "AleSmith Brewing Co.",
+  "beer": "Wee Heavy",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Scotch Ale",
+  "brewery": "Beachwood BBQ & Brewing",
+  "beer": "Full Malted Jacket",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Scotch Ale",
+  "brewery": "Real Ale Brewing Co.",
+  "beer": "Real Heavy",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Scottish-Style Ale",
+  "brewery": "Wild Fields Brewhouse",
+  "beer": "Magic Swirling Sip",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Scottish-Style Ale",
+  "brewery": "Goat Patch Brewing Co.",
+  "beer": "It Takes a Tribe Red Ale",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Scottish-Style Ale",
+  "brewery": "Shoreline Brewery",
+  "beer": "Beltaine",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Session Beer",
+  "brewery": "Station 26 Brewing Co.",
+  "beer": "Swift Half",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Session Beer",
+  "brewery": "Launch Pad Brewery",
+  "beer": "Peacekeeper",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Session Beer",
+  "brewery": "Bucketty's Brewing Co.",
+  "beer": "Bucketty's Pale Ale No. 2",
+  "country": "Australia",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Session India Pale Ale",
+  "brewery": "Cannonball Creek Brewing Co.",
+  "beer": "Trump Hands",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Session India Pale Ale",
+  "brewery": "Mickey Finn's Brewery",
+  "beer": "Moon Rocks",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Session India Pale Ale",
+  "brewery": "Five Boroughs Brewing Co.",
+  "beer": "Tiny Juicy IPA",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Smoke Beer",
+  "brewery": "Ballast Point Brewing Co. - Little Italy",
+  "beer": "Schlenkerlish",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Smoke Beer",
+  "brewery": "Brauerei-Gasthof Kundm\u00fcller",
+  "beer": "Weiherer Rauch",
+  "country": "Germany",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Smoke Beer",
+  "brewery": "49th State Brewing Co.",
+  "beer": "Sm\u043e\u0304k Lager",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "South German-Style Hefeweizen",
+  "brewery": "Fat Head's Brewery - Middleburg Heights",
+  "beer": "Goggle Fogger",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "South German-Style Hefeweizen",
+  "brewery": "Rahr & Sons Brewing Co.",
+  "beer": "Hazy Hefe",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "South German-Style Hefeweizen",
+  "brewery": "Bayern Brewing\/Edelweiss Bistro",
+  "beer": "St. Walter Hefeweizen",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Specialty Beer",
+  "brewery": "Miyazaki Hideji-Beer Co.",
+  "beer": "KURI KURO - Dark Chestnuts Ale",
+  "country": "Japan",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Specialty Beer",
+  "brewery": "SouthNorte Beer Co.",
+  "beer": "Agavemente",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Specialty Beer",
+  "brewery": "Denver Beer Co.",
+  "beer": "Graham Cracker Porter",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Specialty Berliner-Style Weisse",
+  "brewery": "Brewers at 4001 Yancey",
+  "beer": "Victory Brewing Company Sunny Monkey",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Specialty Berliner-Style Weisse",
+  "brewery": "Oregon City Brewing Co.",
+  "beer": "Coming to Fruition: Cherry",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Specialty Berliner-Style Weisse",
+  "brewery": "12Degree Brewing",
+  "beer": "Cactus Juice",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Specialty Saison",
+  "brewery": "Pola del Pub",
+  "beer": "Saison Con Miel",
+  "country": "Colombia",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Specialty Saison",
+  "brewery": "Oedipus Brewing",
+  "beer": "Mannenliefde",
+  "country": "Netherlands",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Specialty Saison",
+  "brewery": "Far Yeast Brewing Co.",
+  "beer": "Far Yeast Tokyo White",
+  "country": "Japan",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Strong Red Ale",
+  "brewery": "Cherry Street Brewpub - Halcyon",
+  "beer": "Snapper Red",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Strong Red Ale",
+  "brewery": "The Mitten Brewing Co.",
+  "beer": "Rye Baby",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Strong Red Ale",
+  "brewery": "Bootstrap Brewing",
+  "beer": "Wreak Havoc",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Sweet Stout or Cream Stout",
+  "brewery": "Pantown Brewing Co.",
+  "beer": "Drop Forge Milk Stout",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Sweet Stout or Cream Stout",
+  "brewery": "Trueman Brewing Co.",
+  "beer": "Flipped Chocolate Milk Stout",
+  "country": "China",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Sweet Stout or Cream Stout",
+  "brewery": "Ahnapee Brewery",
+  "beer": "Two Stall",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Vienna-Style Lager",
+  "brewery": "BarrieHaus Beer Co.",
+  "beer": "Family Tradition",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Vienna-Style Lager",
+  "brewery": "Ex Novo Brewing Co. - Corrales",
+  "beer": "V For Vienna",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Vienna-Style Lager",
+  "brewery": "Ivanhoe Park Brewing Co.",
+  "beer": "Half-Toberfest",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Wood- and Barrel-Aged Beer",
+  "brewery": "Sun King Brewery",
+  "beer": "Barrel Aged Churrolicious",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Wood- and Barrel-Aged Beer",
+  "brewery": "Circle Brewing Co.",
+  "beer": "Devil's Night",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Wood- and Barrel-Aged Beer",
+  "brewery": "Monday Night Brewing",
+  "beer": "Bourbon Barrel Drafty Kilt",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Wood- and Barrel-Aged Sour Beer",
+  "brewery": "Amalgam Brewing",
+  "beer": "Table 44",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Wood- and Barrel-Aged Sour Beer",
+  "brewery": "Astor Birra",
+  "beer": "Sud-aka",
+  "country": "Argentina",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Wood- and Barrel-Aged Sour Beer",
+  "brewery": "True Anomaly Brewing Co.",
+  "beer": "Sea of Waves",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Wood- and Barrel-Aged Strong Beer",
+  "brewery": "Stieglbrauerei zu Salzburg",
+  "beer": "Sonnenk\u00f6nig VIII",
+  "country": "Austria",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Wood- and Barrel-Aged Strong Beer",
+  "brewery": "Iron Hill Brewery & Restaurant - Maple Shade",
+  "beer": "Queen of the North",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Wood- and Barrel-Aged Strong Beer",
+  "brewery": "Alewerks Brewing Co.",
+  "beer": "Bourbon Barrel Porter",
+  "country": "USA",
+  "medalSort": "3"
+}, {
+  "year": "2022",
+  "medal": "Gold",
+  "style": "Wood- and Barrel-Aged Strong Stout",
+  "brewery": "Melvin Brewing",
+  "beer": "Ruckus",
+  "country": "USA",
+  "medalSort": "1"
+}, {
+  "year": "2022",
+  "medal": "Silver",
+  "style": "Wood- and Barrel-Aged Strong Stout",
+  "brewery": "Lawson's Finest Liquids",
+  "beer": "Rum Barrel Aged Fayston Maple Imperial Stout",
+  "country": "USA",
+  "medalSort": "2"
+}, {
+  "year": "2022",
+  "medal": "Bronze",
+  "style": "Wood- and Barrel-Aged Strong Stout",
+  "brewery": "Ratio Beerworks",
+  "beer": "Bourbon Barrel-Aged Genius Wizard",
+  "country": "USA",
+  "medalSort": "3"
+}]

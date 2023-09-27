@@ -41,7 +41,7 @@ db.winners.updateMany({"city":"Ft. Bragg"},{$set: {coords: [-123.8013,39.44], la
 ## Running the app
 
 ```sh
-php -S 127.0.0.1:8080
+php -S 127.0.0.1:8089
 ```
 
 ![Pins Map](images/screenshot-pins.png)
