@@ -3,7 +3,9 @@ require "vendor/autoload.php";
 
 $beerfest = new BeerFest;
 $import_year = null; // set to null to import all
-$data_only = true;
+$data_only = false;
+$gabf = true;
+$wbc = true;
 
 if (ob_get_level() == 0) ob_start();
 
@@ -12,7 +14,7 @@ try {
   if(!$data_only){
     
   echo "Great American Beer Fest\n---------------------\n";
-  if($import_year){
+  if($gabf && $import_year){
     if(file_exists(__DIR__."/gabf/json/$import_year.json")){
       $contents = file_get_contents(__DIR__."/gabf/json/$import_year.json");
       if(!empty($contents)){
@@ -27,7 +29,7 @@ try {
     } else {
       echo "$import_year.json not found\n";
     }
-  } else if ($handle = opendir(__DIR__."/gabf/json")) {
+  } else if ($gabf && $handle = opendir(__DIR__."/gabf/json")) {
     while (false !== ($file = readdir($handle))) {
       
       if(is_dir(__DIR__."/gabf/json/$file")) continue;
@@ -46,7 +48,7 @@ try {
     closedir($handle);
   }
   echo "\nWorld Beer Cup\n---------------------\n";
-  if($import_year){
+  if($wbc && $import_year){
     if(file_exists(__DIR__."/wbc/json/$import_year.json")){
       $contents = file_get_contents(__DIR__."/wbc/json/$import_year.json");
       if(!empty($contents)){
@@ -61,7 +63,7 @@ try {
     } else {
       echo "$import_year.json not found\n";
     }
-  } else if ($handle = opendir(__DIR__."/wbc/json")) {
+  } else if ($wbc && $handle = opendir(__DIR__."/wbc/json")) {
     while (false !== ($file = readdir($handle))) {
       
       if(is_dir(__DIR__."/wbc/json/$file")) continue;

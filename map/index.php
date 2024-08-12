@@ -41,6 +41,7 @@ if(date('m') <= 10 && date('d') < 9){
         <button class="ui orange button" id="map-type-heat">City Heat <i class="fas fa-fire-alt"></i></button>
         <button class="ui blue button" id="map-type-pins" disabled="disabled">Medal Pins <i class="fas fa-medal"></i></button>        
         <button class="ui button" id="reset-year">Reset All</button>
+        <a class="ui button" href="../list">View List</a>
       </div>
       <br/>
       <input id="range-year" type="range" min="1983" max="<?=$year?>" value="<?=$year?>" style="width: 100%;" />
@@ -51,10 +52,6 @@ if(date('m') <= 10 && date('d') < 9){
       <a class="ui right corner label" href="https://github.com/avantassel/beerfest-winners-json">
         <i class="red heart icon"></i>
     </a>
-    </div>
-    
-    <div style="text-align: center;">
-      <a href="../list">Check out the list</a>
     </div>
     
     <div id="map" style="height: 600px; width: 100%;"></div>

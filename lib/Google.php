@@ -16,7 +16,7 @@ class Google
 		$address=str_replace(' ', '+', $address);
 		$address=str_replace('%20', '+', $address);
 
-		$content=self::getData("http://maps.googleapis.com/maps/api/geocode/json?sensor=false&address=$address&key={$this->api_key}");	
+		$content=self::getData("https://maps.googleapis.com/maps/api/geocode/json?sensor=false&address=$address&key={$this->api_key}");	
 
 		$json_response=json_decode($content);
 
@@ -37,7 +37,7 @@ class Google
     if(empty($this->api_key))
       return null;
       
-		$content=self::getData("http://maps.googleapis.com/maps/api/geocode/json?sensor=false&latlng=$latlng&key={$this->api_key}");	
+		$content=self::getData("https://maps.googleapis.com/maps/api/geocode/json?sensor=false&latlng=$latlng&key={$this->api_key}");	
 
 		$json_response=json_decode($content);
 

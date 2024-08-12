@@ -1,3 +1,6 @@
+<?php
+$comp = $_GET['comp'] ?? "";
+?>
 <html>
   <head>
     <title>Beer Fest Winners</title>
@@ -14,7 +17,7 @@
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fomantic-ui/2.8.7/semantic.min.js" integrity="sha512-1Nyd5H4Aad+OyvVfUOkO/jWPCrEvYIsQENdnVXt1+Jjc4NoJw28nyRdrpOCyFH4uvR3JmH/5WmfX1MJk2ZlhgQ==" crossorigin="anonymous"></script>
-    <script src="js/tablesort.js"></script>
+    <script src="./js/tablesort.js"></script>
     <style>
     .gold {
       color: #fbbd08;
@@ -36,15 +39,26 @@
   
   <h1 class="ui header centered">Beer Competition Winners</h1>
   
-  <select id="comp" class="ui selection dropdown" onchange="changeCompetition();">
-    <option value="gabf" selected>Great American Beer Fest</option>
-    <option value="wbc">World Beer Cup</option>
-    <option value="usopen">US Open Beer Championship</option>
-  </select>
-  <select id="year" class="ui selection dropdown" onchange="loadWinners();">
-  </select>
-  <div class="ui input">
-    <input id="search" type="text" placeholder="Search..." onkeypress="searchList(this);">
+  <div class="ui form">
+  <div class="three fields">
+    <div class="field">
+      <select id="comp" class="ui selection dropdown" onchange="changeCompetition();">
+        <option value="gabf" <?php if($comp == "gabf") echo 'selected';?>>Great American Beer Fest</option>
+        <option value="wbc" <?php if($comp == "wbc") echo 'selected';?>>World Beer Cup</option>
+        <option value="usopen" <?php if($comp == "usopen") echo 'selected';?>>US Open Beer Championship</option>
+      </select>
+    </div>
+    <div class="field">
+      <select id="year" class="ui selection dropdown" onchange="loadWinners();">
+      </select>
+    </div>
+    <div class="field">
+      <div class="ui input">
+        <input id="search" type="text" placeholder="Search..." onkeypress="searchList(this);">
+      </div>
+    </div>
+  </div>
+  <a class="ui button" href="../map">View Map</a>
   </div>
 
   <div class="ui statistics" style="align-self: center; display: revert;">
@@ -82,10 +96,6 @@
 </div>
 </div>
     
-  <div style="text-align: center;">
-    <a href="../map">Check out the map</a>
-  </div>
-    
   <table class="ui celled sortable striped table">
   <thead>
   <tr>
@@ -109,6 +119,7 @@
       $('table').tablesort();
       $('#comp').change();
       $('#year').change();
+      $('.dropdown').dropdown();
     });
     
     function searchList(e){
@@ -130,14 +141,14 @@
       var even = false;
       switch($('#comp').val()){
         case 'gabf':
-          startYear =  1983;
+          startYear = 1983;
         break;
         case 'wbc':
-          startYear =  1996;
-          even = true;
+          startYear = 1996;
+          even = 2022;
         break;
         case 'usopen':
-          startYear =  2009;
+          startYear = 2009;
         break;
       }
       var options = [];
@@ -146,7 +157,7 @@
           options.push('<option selected>'+i+'</option>');
         else
           options.push('<option>'+i+'</option>');
-        if(even) i++;
+        if(even && i < even) i++;
       }
       $('#year').empty().append(options.join(''));
       $('#year').change();

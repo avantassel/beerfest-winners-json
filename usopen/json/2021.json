@@ -1,1 +1,3881 @@
-[{"medal":"Gold","beer":"Saranac Pale Ale","brewery":"Saranac Brewery","state":"New York","style":"English Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Special Pale Ale","brewery":"Wellington Brewery","state":"Ontario","style":"English Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Moraga\u2019s English Pale","brewery":"Sunset Reservoir Brewing","state":"California","style":"English Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Naches Pale Ale","brewery":"Bron Yr Aur Brewing","state":"Washington","style":"American Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Beerstream","brewery":"Marker 48 Brewing","state":"Florida","style":"American Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Stick\u2019s","brewery":"Bootstrap Brewing","state":"Colorado","style":"American Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Cowboy Chords","brewery":"1886 Brewing","state":"California","style":"American Strong Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Mozy 7","brewery":"Saint Archer Brewing","state":"California","style":"American Strong Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Citrus All Pro","brewery":"Columbia Craft","state":"South Carolina","style":"American Strong Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Good Idea","brewery":"Stoup Brewing","state":"Washington","style":"American Strong Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Staycation","brewery":"Main & Six Brewing","state":"Florida","style":"International Style Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Pale Ale","brewery":"Sweeten Creek Brewing","state":"North Carolina","style":"International Style Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Langdon","brewery":"Cellar West Artisan Ales","state":"Colorado","style":"International Style Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"College Pale","brewery":"Schoolcraft Brewery","state":"Michigan","style":"Australian-Style Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Wook Bait","brewery":"Left Hand Brewing","state":"Colorado","style":"Australian-Style Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Juicy Freak","brewery":"Denver Beer Company","state":"Colorado","style":"Australian-Style Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Citradica","brewery":"Riip Beer Company","state":"California","style":"Juicy or Hazy Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Pseudo Sue","brewery":"Toppling Goliath Brewing","state":"Iowa","style":"Juicy or Hazy Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Dayburner","brewery":"Big Ditch Brewing","state":"New York","style":"Juicy or Hazy Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Mind Haze","brewery":"Firestone Walker Brewing","state":"California","style":"Juicy or Hazy Strong Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"So Go","brewery":"CODA Brewing","state":"Colorado","style":"Juicy or Hazy Strong Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Luminescence","brewery":"Florida Avenue Brewing","state":"Florida","style":"Juicy or Hazy Strong Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Lupy Hazy","brewery":"Dalton Union Winery and Brewery","state":"Ohio","style":"Juicy or Hazy Strong Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Ryed Up Shorts","brewery":"Various Artists","state":"Tennessee","style":"Specialty Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Pineapple Upside Down Cake","brewery":"Epidemic Ales","state":"California","style":"Specialty Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Rebel Yell","brewery":"Grainworks Brewing","state":"Ohio","style":"Specialty Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Uncle Dave\u2019s IPA","brewery":"Discretion Brewing","state":"California","style":"English IPA","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Jacaranda","brewery":"Claremont Craft Ales","state":"California","style":"English IPA","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Marco IPA","brewery":"Zilker Brewing","state":"Texas","style":"English IPA","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Southern Plaid","brewery":"Ballad Brewing","state":"Virginia","style":"Imperial IPA(DIPA)","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Freak of Nature","brewery":"Wicked Weed","state":"North Carolina","style":"Imperial IPA(DIPA)","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Duh! DIPA","brewery":"Starpoint Brewing","state":"North Carolina","style":"Imperial IPA(DIPA)","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Mile Marker 12","brewery":"Bankhead Brewing","state":"Texas","style":"Triple IPA","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Triple Street","brewery":"Burning Barrel Brewing Company","state":"","style":"Triple IPA","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"25th Bluesapalooza Triple IPA","brewery":"Mammoth Brewing Company","state":"","style":"Triple IPA","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Hop Drop n\u2019 Roll","brewery":"NoDa Brewing","state":"North Carolina","style":"American IPA","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Don\u2019t Worry","brewery":"Wormtown Brewery","state":"Massachusetts","style":"American IPA","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Hoptologist","brewery":"Knee Deep Brewing","state":"California","style":"American IPA","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Mr Beast","brewery":"Widowmaker Brewing","state":"Massachusetts","style":"Light IPA\/Session IPA","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Session IPA","brewery":"ShawneeCraft Brewing","state":"Pennsylvania","style":"Light IPA\/Session IPA","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Ta Moins Forte","brewery":"Lagabi\u00e8re Microbrasserie","state":"Quebec","style":"Light IPA\/Session IPA","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Nine","brewery":"Claremont Craft Ales","state":"California","style":"Light IPA\/Session IPA","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Bootsy","brewery":"Fretboard Brewing","state":"Ohio","style":"Brut IPA","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Annie","brewery":"Amelia Island Brewing","state":"Florida","style":"Brut IPA","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"No Award","brewery":"","state":"","style":"Brut IPA","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Mango Rico","brewery":"Denver Beer Company","state":"Colorado","style":"Fruit IPA","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Pulp Friction","brewery":"Motorworks Brewing","state":"Florida","style":"Fruit IPA","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Love at midnight","brewery":"Tire Shack Brewing","state":"New Brunswick","style":"Fruit IPA","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Grapefruit Highest Point","brewery":"Spilled Grain Brewhouse","state":"Minnesota","style":"Fruit IPA","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Stone IPA","brewery":"Stone Brewing","state":"California","style":"West Coast IPA","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Tidal Break","brewery":"Compass Rose Brewery","state":"North Carolina","style":"West Coast IPA","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Dimension Shifter","brewery":"Delahunt Brewing","state":"California","style":"West Coast IPA","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Vicious Mosquito","brewery":"Sunriver Brewing","state":"Oregon","style":"West Coast IPA","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Luponic Distortion","brewery":"Firestone Walker","state":"California","style":"New Zealand IPA","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"New Zealand IPA","brewery":"Saint Archer Brewing","state":"California","style":"New Zealand IPA","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Monospace: Nelson","brewery":"Vector Brewing","state":"Texas","style":"New Zealand IPA","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Jucifer Juicy Hazy IPA","brewery":"Gnarly Barley Brewing","state":"Louisanna","style":"New England\/Juicy IPA","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Parts n labour","brewery":"Tire Shack Brewing","state":"New Brunswick","style":"New England\/Juicy IPA","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Tropic Flare","brewery":"Braxton Brewing","state":"Kentucky","style":"New England\/Juicy IPA","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Ta Meillure","brewery":"Lagabi\u00e8re Microbrasserie","state":"Quebec","style":"New England\/Juicy IPA","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Southern Hopisphere","brewery":"Kros Strain Brewing","state":"Nebraska","style":"New England\/Juicy DIPA","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"King Sue DIPA","brewery":"Toppling Goliath Brewing","state":"Iowa","style":"New England\/Juicy DIPA","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"SHIfT","brewery":"Incendiary Brewing","state":"North Carolina","style":"New England\/Juicy DIPA","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"If Only IPA","brewery":"Old Stove Brewing","state":"Washington","style":"New England\/Juicy DIPA","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"HopTropica","brewery":"Shoe Tree Brewing(Minden)","state":"Nevada","style":"Specialty IPA","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Pepper & Peaches IPA","brewery":"Claremont Craft Ales","state":"California","style":"Specialty IPA","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Yolanda","brewery":"St. Elmo Brewing","state":"Texas","style":"Specialty IPA","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Dry Irish Stout","brewery":"Bent Barley Brewing","state":"Colorado","style":"Classic Irish Dry Stout","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Lucky Four Leaf","brewery":"Danville Brewing","state":"California","style":"Classic Irish Dry Stout","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Irish Stout","brewery":"Social Fox Brewing","state":"Georgia","style":"Classic Irish Dry Stout","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Big Wall","brewery":"Strike Brewing","state":"California","style":"Foreign Stout","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Shinobi Export Stout","brewery":"Byway Brewing","state":"Indiana","style":"Foreign Stout","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Beastie","brewery":"Market Garden Brewery","state":"Ohio","style":"Foreign Stout","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Destress Express","brewery":"Georgia Beer Co.","state":"Georgia","style":"American Stout","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Stone Cimmerian Portal","brewery":"Stone Brewing World Bistro & Gardens-Liberty Station","state":"","style":"American Stout","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Hubbard Street Stout","brewery":"Main & Six Brewing","state":"","style":"American Stout","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Higher Purpose","brewery":"Third Eye Brewing","state":"Ohio","style":"Cream Stout","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Hazelnut Stout","brewery":"Whalers Brewing","state":"Rhode Island","style":"Cream Stout","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Two Stall","brewery":"Ahnapee Brewery","state":"Wisconsin","style":"Cream Stout","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Oatmeal Stout","brewery":"Samuel Smith\u2019s","state":"England","style":"Oatmeal Stout","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Thunderball","brewery":"Eudora Brewing","state":"Ohio","style":"Oatmeal Stout","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"The Poet","brewery":"New Holland Brewing","state":"Michigan","style":"Oatmeal Stout","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Midnight Mocha Stout","brewery":"Saint Patrick\u2019s Brewing","state":"Colorado","style":"Oatmeal Stout","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Beast of Burton","brewery":"Oregon City Brewing","state":"Oregon","style":"British Imperial Stout","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Lost Moon","brewery":"Pryes Brewing","state":"Minnesota","style":"British Imperial Stout","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"IRS","brewery":"Wellington Brewery","state":"Ontario","style":"British Imperial Stout","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Dark Moo\u2019d","brewery":"Stillfire Brewing","state":"Georgia","style":"British Imperial Stout","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Black Solstice","brewery":"FigLeaf Brewing","state":"Ohio","style":"American Imperial Stout","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Top of the World","brewery":"Blue Earl Brewing","state":"Delaware","style":"American Imperial Stout","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Navel Gazer","brewery":"New Heights Brewing","state":"New Heights","style":"American Imperial Stout","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Full Grown Man","brewery":"TUPPS Brewery","state":"Texas","style":"American Imperial Stout","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Mornin Delight 2021","brewery":"Toppling Goliath Brewing","state":"Iowa","style":"Imperial Stout Specialty","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Hunahpu\u2019s Imperial Stout","brewery":"Cigar City Brewing","state":"Florida","style":"Imperial Stout Specialty","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Cafre de Olla","brewery":"Braxton Brewing","state":"Kentucky","style":"Imperial Stout Specialty","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Blind Fury","brewery":"Short Fuse Brewing","state":"Illinois","style":"Imperial Stout Specialty","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Cookie Season Stout","brewery":"Wild Leap Brew Co.","state":"Georgia","style":"Imperial Stout Extreme(ABV: 12.5%+)","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Fragile Like a Bomb","brewery":"903 Brewers","state":"Texas","style":"Imperial Stout Extreme(ABV: 12.5%+)","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"I Hated Listermann Before It Was Cool","brewery":"Listermann Brewing","state":"Ohio","style":"Imperial Stout Extreme(ABV: 12.5%+)","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Glazed and Infused","brewery":"Slice Beer Company","state":"California","style":"Imperial Stout Extreme(ABV: 12.5%+)","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Queen B","brewery":"Haywire Brewing","state":"Washington","style":"Golden or Blonde ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Tie-It-On Blonde","brewery":"Bron Yr Aur Brewing","state":"Washington","style":"Golden or Blonde ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Blonde Ale","brewery":"Lot 9 Brewing","state":"South Carolina","style":"Golden or Blonde ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Tropical Blonde","brewery":"Cranky Sam Brewing","state":"Montana","style":"English Summer Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Approachable Blonde","brewery":"Municipal Brew Works","state":"Ohio","style":"English Summer Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Summer","brewery":"Wormtown Brewery","state":"Massachusetts","style":"English Summer Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Beer 101 Bitter","brewery":"Niagara College Teaching Brewery","state":"Ontario","style":"Bitter","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Arkell Best Bitter","brewery":"Wellington Brewery","state":"Ontario","style":"Bitter","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"MSB","brewery":"Mcfleshman\u2019s Brewing","state":"Wisconsin","style":"Bitter","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Pub Ale","brewery":"Pilot Brewing","state":"North Carolina","style":"ESB","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Extra StormBreaker","brewery":"StormBreaker Brewing","state":"Oregon","style":"ESB","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Chosen Family","brewery":"Lady Justice Brewing","state":"Colorado","style":"ESB","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Hold the Reins","brewery":"Brink Brewing","state":"Ohio","style":"English Mild Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Saddle Bronc Brown","brewery":"Black Tooth Brewing","state":"Wyoming","style":"English Mild Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Uncle","brewery":"Rhinegeist Brewery","state":"Ohio","style":"English Mild Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"County Brown","brewery":"Wellington Brewery","state":"Ontario","style":"Brown Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Squirrel Stampede Nut Brown","brewery":"Grand Junction Brewing","state":"Indiana","style":"Brown Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Burn Dawger Brown","brewery":"Sweeten Creek Brewing","state":"North Carolina","style":"Brown Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Big Brown Beaver","brewery":"Mathews Brewing","state":"Florida","style":"Strong\/Imperial Brown Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Rebound Brown Ale","brewery":"The Blue Heron Brewery and Event Center","state":"Ohio","style":"Strong\/Imperial Brown Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Big Papa Imperial Brown Ale","brewery":"Blazing Tree Brewery","state":"Texas","style":"Strong\/Imperial Brown Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Ship Burner Brown Porter","brewery":"Twin Oast Brewing","state":"Ohio","style":"Brown Porters","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Porter","brewery":"Clifford Brewing","state":"Ontario","style":"Brown Porters","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Knee-Knocker","brewery":"Crow Hop Brewing","state":"Colorado","style":"Brown Porters","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Record Beer","brewery":"1886 Brewing","state":"California","style":"Brown Porters","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Pops Porter","brewery":"Wynwood Brewing","state":"Florida","style":"Robust Porters","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Draken Robust Porter","brewery":"Kelsen Brewing","state":"New Hampshire","style":"Robust Porters","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Coco Loco","brewery":"NoDa Brewing","state":"North Carolina","style":"Robust Porters","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Lion Tamer","brewery":"Ravenna Brewing","state":"Washington","style":"Imperial Porters","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Black Eye","brewery":"Scratchtown Brewing","state":"Nebraska","style":"Imperial Porters","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Clifford Imperial Porter","brewery":"Clifford Brewing","state":"Ontario","style":"Imperial Porters","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Old Ale","brewery":"Brown Truck Brewery","state":"North Carolina","style":"Old Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Strong","brewery":"Niagara College","state":"Ontario","style":"Old Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Crew Brew","brewery":"Barnaby Brewing","state":"Alaska","style":"Old Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Cranky\u2019s Cabin","brewery":"Cranky Sam Brewing","state":"Montana","style":"Old Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Old Foghorn","brewery":"Anchor Brewing","state":"California","style":"English Barley Wine","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Old Reynard","brewery":"Social Fox Brewing","state":"Georgia","style":"English Barley Wine","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Three Ryes Men","brewery":"Reuben\u2019s Brews","state":"The Taproom","style":"English Barley Wine","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"6th Anniversary Barleywine","brewery":"Waikiki Brewing","state":"Hawaii","style":"American Barley Wine","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Gobsmacked","brewery":"New Heights Brewing","state":"Tennessee","style":"American Barley Wine","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"5th Anniversary Barleywine","brewery":"Waikiki Brewing","state":"Hawaii","style":"American Barley Wine","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"MysteRye","brewery":"The Common Beer Company\/Narrow Path Brewing","state":"Ohio","style":"Barley Wine Specialty","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"50 By 50","brewery":"The Blue Heron Brewery and Event Center","state":"Ohio","style":"Barley Wine Specialty","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Astronaut Christmas","brewery":"Launch Pad Brewery","state":"Colorado","style":"Barley Wine Specialty","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Snowy Range Scottish Ale","brewery":"Bond\u2019s Brewing","state":"Wyoming","style":"Scottish Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Scottish MISTS","brewery":"Grainworks Brewing","state":"Ohio","style":"Scottish Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Great Scot!","brewery":"Peticolas Brewing","state":"Texas","style":"Scottish Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Craven Cottage","brewery":"Roadmap Brewing","state":"Texas","style":"Scottish Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Higher Consciousness","brewery":"Third Eye Brewing","state":"Ohio","style":"Strong Scottish Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Scot Rail Ale","brewery":"Missing Falls Brewery","state":"Ohio","style":"Strong Scottish Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Wee Heavy","brewery":"Zaftig Brewing","state":"Ohio","style":"Strong Scottish Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Outraged Daughters","brewery":"Wise Man Brewing","state":"North Carolina","style":"Irish Red Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"O\u2019Dag","brewery":"Rhinelander Brewing","state":"Wisconsin","style":"Irish Red Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Langered","brewery":"Missing Falls Brewery","state":"Ohio","style":"Irish Red Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Amber","brewery":"Bent Barley Brewing","state":"Colorado","style":"American Amber \/ Red","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Fire The Cannons","brewery":"de Bine Brewing","state":"Florida","style":"American Amber \/ Red","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Sunrise Amber Ale","brewery":"Pondaseta Brewing","state":"Texas","style":"American Amber \/ Red","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Ash Canyon","brewery":"Shoe Tree Brewing(Carson City)","state":"Nevada","style":"American Amber \/ Red","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Wreak Havoc","brewery":"Bootstrap Brewing","state":"Colorado","style":"Imperial Red Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Gifted Gunslinger","brewery":"Big Sexy Brewing","state":"California","style":"Imperial Red Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Rare Conundrum","brewery":"1886 Brewing","state":"California","style":"Imperial Red Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Handsworth Brown Ale","brewery":"Main & Six Brewing","state":"Florida","style":"American Brown Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Thor","brewery":"Delahunt Brewing","state":"California","style":"American Brown Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Downtown Eric\u2019s Brown","brewery":"Legacy Ale Works","state":"Florida","style":"American Brown Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Raven Twins","brewery":"Scratchtown Brewing","state":"Nebraska","style":"American-Style Black Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Once You Go","brewery":"Lynnwood Brewing Concern","state":"North Carolina","style":"American-Style Black Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Black Flag Black IPA","brewery":"Pantown Brewing","state":"Minnesota","style":"American-Style Black Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"ALTerior Motive","brewery":"StormBreaker Brewing","state":"Oregon","style":"Altbier","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Marketplace- HighGrain Brewing","brewery":"Ohio","state":"","style":"Altbier","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Alt in the ATL","brewery":"Fire Maker Brewing","state":"Georgia","style":"Altbier","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Clubhouse Kolsch","brewery":"ShawneeCraft Brewing","state":"Pennsylvania","style":"German Kolsch","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Killin It Kolsch","brewery":"Bickersons Brewhouse","state":"Washington","style":"German Kolsch","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Shuffle","brewery":"Rhinegeist Innovation Brewery","state":"Ohio","style":"German Kolsch","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"K\u00fcsterer Pale Weizenbock","brewery":"Cedar Springs Brewing","state":"Michigan","style":"German Wheat","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Dunkelkristallweizen","brewery":"Schulz Brau Brewing","state":"Tennessee","style":"German Wheat","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"El Carlito","brewery":"No Label Brewing","state":"Texas","style":"German Wheat","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Ayinger Brauweisse","brewery":"Ayinger Brewery","state":"Germany","style":"German Hefeweizen","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Hefeweizen","brewery":"Liquid Mechanics Brewing","state":"Colorado","style":"German Hefeweizen","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Hawley Hefeweizen","brewery":"Wallenpaupack Brewing","state":"Pennsylvania","style":"German Hefeweizen","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"All My Tomorrows","brewery":"Great Raft Brewing","state":"Louisanna","style":"French \/ Belgian Saison","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Classic Saison","brewery":"Big Sexy Brewing","state":"California","style":"French \/ Belgian Saison","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"A Beer of One\u2019s Own","brewery":"Codex Brewing","state":"Ohio","style":"French \/ Belgian Saison","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Crazy Train","brewery":"Fretboard Brewing","state":"Ohio","style":"Belgian Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"High Rollers","brewery":"Record Street Brewing","state":"Nevada","style":"Belgian Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"DTB Belgian Pale","brewery":"Desperate Times Brewery","state":"Pennsylvania","style":"Belgian Pale Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Westfielder 8","brewery":"Grand Junction Brewing","state":"Indiana","style":"French \/ Belgian Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Feral Garden Gnome","brewery":"Liability Brewing","state":"South Carolina","style":"French \/ Belgian Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"French Bi\u00e8re de Garde","brewery":"Ponysaurus Brewing","state":"North Carolina","style":"French \/ Belgian Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Westmalle Trappist Dubbel","brewery":"Westmalle Trappist Brewery","state":"Belgium","style":"Belgian Dubbel","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Sugar Creek Belgian Dubbel","brewery":"Sugar Creek Brewing","state":"North Carolina","style":"Belgian Dubbel","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Virtue","brewery":"Esoteric Brewing","state":"Ohio","style":"Belgian Dubbel","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"The Way","brewery":"Bold Monk Brewing","state":"Georgia","style":"Belgian Tripel","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Becky Roo Da Monsta","brewery":"Vallensons Brewing","state":"Texas","style":"Belgian Tripel","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Westmalle Trappist Tripel","brewery":"Westmalle Trappist Brewery","state":"Belgium","style":"Belgian Tripel","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Low Hood","brewery":"Bankhead Brewing","state":"Texas","style":"Belgian Tripel","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"3 Dragons","brewery":"Pathfinder Brewery","state":"Texas","style":"Belgian Quadrupel","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"No Award","brewery":"","state":"","style":"Belgian Quadrupel","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Fat Chants","brewery":"Big Ash Brewing","state":"Ohio","style":"Belgian Quadrupel","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Monastic Disorder","brewery":"TapRoom Beer Company","state":"California","style":"Belgian Quadrupel","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Dark Sabbath","brewery":"Big Island Brewhaus","state":"Hawaii","style":"Belgian-Style Strong Specialty Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Oost","brewery":"HighGrain Brewing","state":"Ohio","style":"Belgian-Style Strong Specialty Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Father Francisco","brewery":"Wynwood Brewing","state":"Florida","style":"Belgian-Style Strong Specialty Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Suwanee Devil","brewery":"Stillfire Brewing","state":"Georgia","style":"Belgian-Style Strong Specialty Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Lindemans Kriek","brewery":"Brouwerij Lindemans","state":"Belgium","style":"Sour\/Belgian Lambic","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Imperial Cherry Pie Sour","brewery":"Drowned Valley Brewing","state":"Georgia","style":"Sour\/Belgian Lambic","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Two","brewery":"Pantown Brewing","state":"Minnesota","style":"Sour\/Belgian Lambic","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Fire Iron","brewery":"Urban Artifact","state":"Ohio","style":"Sour\/Belgian Lambic","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Golden Cypress","brewery":"Faubourg Brewing","state":"Louisiana","style":"Belgian Witbier","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Obscured by Clouds","brewery":"Clifford Brewing","state":"Ontario","style":"Belgian Witbier","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Wit-Bellied Hedgehog","brewery":"Metazoa Brewing","state":"Indiana","style":"Belgian Witbier","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Whose Garden?","brewery":"Pint Nine Brewing Whose Garden?","state":"Nebraska","style":"Belgian Witbier","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Country Time","brewery":"The Southern Brewing Company","state":"Georgia","style":"Berliner-Style Weisse","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Sirius","brewery":"Whalers Brewing","state":"Rhode Island","style":"Berliner-Style Weisse","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Pink","brewery":"Vallensons Brewing","state":"Texas","style":"Berliner-Style Weisse","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Haterade","brewery":"8th Wonder Brewery","state":"Texas","style":"Gose","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Harrow","brewery":"Urban Artifact","state":"Ohio","style":"Gose","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"It Gose in Your Moutha","brewery":"Spider Bite Beer Co.","state":"New York","style":"Gose","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Hawaiian Vision","brewery":"Big Ditch Brewing","state":"New York","style":"Fruit Gose","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"#26 Lemon Meringue Gose","brewery":"Brown Truck Brewery","state":"North Carolina","style":"Fruit Gose","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Cool Calm and Cucumber","brewery":"Sunset Reservoir Brewing","state":"California","style":"Fruit Gose","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"I Don\u2019t Know No Snakes","brewery":"Drekker Brewing","state":"North Dakota","style":"American Light","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"3 Speed","brewery":"Amsterdam Brewing","state":"Ontario","style":"American Light","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"307 Lager","brewery":"Black Tooth Brewing","state":"Wyoming","style":"American Light","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Ultra Secret Enigma","brewery":"Liability Brewing","state":"South Carolina","style":"American Light","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Luminescent Lager","brewery":"River Rat Brewery","state":"South Carolina","style":"American Lager\/Pilsener","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Ta Pilsner","brewery":"","state":"Lagabi\u00e8re Microbrasserie","style":"American Lager\/Pilsener","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Midwestern Hospitality","brewery":"Castle Island Brewing","state":"Massachusetts","style":"American Lager\/Pilsener","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Back 40","brewery":"Blake\u2019s Brewing","state":"Michigan","style":"American Lager\/Pilsener","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Session Premium Lager","brewery":"Full Sail Brewing","state":"Oregon","style":"American Premium Lager","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Cold Fort Worth Beer","brewery":"Cowtown Brewing","state":"Texas","style":"American Premium Lager","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Tourist Trap","brewery":"Silver Harbor Brewing","state":"Michigan","style":"American Premium Lager","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Sugar Shack","brewery":"The Dayton Beer Company","state":"Ohio","style":"American Amber","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Vienna Lager","brewery":"Liquid Mechanics Brewing","state":"Colorado","style":"American Amber","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Amber Lager","brewery":"New Magnolia Brewing","state":"Texas","style":"American Amber","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Hometown Lager","brewery":"Second Pitch Beer Company","state":"Texas","style":"California Common","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Gulf Steam","brewery":"Gulf Stream Brewing","state":"Florida","style":"California Common","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Schooner Bend Common","brewery":"Cooper Landing Brewing","state":"Alaska","style":"California Common","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Saaz Who?","brewery":"Rhinegeist Innovation Brewery","state":"Ohio","style":"Bohemian Pilsener","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Forward Slash","brewery":"Crooked Lane Brewing","state":"California","style":"Bohemian Pilsener","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Slack Tide Pilsner","brewery":"Mason Jar Lager Co.","state":"North Carolina","style":"Bohemian Pilsener","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Crushing Pils","brewery":"Devil\u2019s Logic Brewing","state":"North Carolina","style":"German Lager \/ Pilsener","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Pure Pils","brewery":"Amsterdam Brewing","state":"Ontario","style":"German Lager \/ Pilsener","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Betonbier Pils","brewery":"Reuben\u2019s Brews","state":"Washington","style":"German Lager \/ Pilsener","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Kelley\u2019s Island Pilsner","brewery":"Twin Oast Brewing","state":"Ohio","style":"German Lager \/ Pilsener","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Pachanga","brewery":"Sun King Brewery","state":"Indiana","style":"International Style Pilsner","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Vlad","brewery":"Fretboard Brewing","state":"Ohio","style":"International Style Pilsner","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Prospector\u2019s Gold","brewery":"49th State(Anchorage)","state":"Alaska","style":"International Style Pilsner","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Estrella Damm","brewery":"S.A. DAMM","state":"Spain","style":"International Style Pilsner","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Venga!","brewery":"Denver Beer Company","state":"Colorado","style":"Mexican Pilsner","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Tres Arroyos Mexican Lager","brewery":"Three Creeks Brewing","state":"","style":"Mexican Pilsner","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Fria","brewery":"Amsterdam Brewing","state":"Ontario","style":"Mexican Pilsner","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Fiesta de Sol","brewery":"Site-1 Brewing","state":"","style":"Mexican Pilsner","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Munich Helles","brewery":"Schulz Brau Brewing","state":"Tennessee","style":"Munchner Helles, Light","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Up The Hill","brewery":"Cartridge Brewing","state":"Ohio","style":"Munchner Helles, Light","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Helles Creek","brewery":"Kros Strain Brewing","state":"Nebraska","style":"Munchner Helles, Light","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Tucker Lager","brewery":"Tucker Brewing","state":"Georgia","style":"Munchner Helles, Light","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Old City Tract","brewery":"Perfect Plain Brewing","state":"Florida","style":"Munchner Dunkel \/ Dark","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"GG","brewery":"Exile Brewing Company","state":"Iowa","style":"Munchner Dunkel \/ Dark","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Munich Dunkel","brewery":"Bier Brewery","state":"Indiana","style":"Munchner Dunkel \/ Dark","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Point Oktoberfest- Stevens Point Brewery","brewery":"Wisconsin","state":"","style":"Marzen \/ Oktoberfest\/","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Brewer","brewery":"Northern Row","state":"Ohio","style":"Marzen \/ Oktoberfest\/","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Lovetoberfest","brewery":"Narrow Path Brewing","state":"Ohio","style":"Marzen \/ Oktoberfest\/","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Line of Departure","brewery":"LOD Brew Company","state":"Ontario","style":"Vienna","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Ardorbier","brewery":"Perfect Plain Brewing","state":"Florida","style":"Vienna","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Bronze - Beale\u2019s Beer","brewery":"Virginia","state":"","style":"Vienna","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Local Vienna Lager","brewery":"Lonerider Brewing","state":"North Carolina","style":"Vienna","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Schwarzbier","brewery":"Schulz Brau Brewing Co","state":"Tennessee","style":"Schwarzbier","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Dark Cloud","brewery":"The Common Beer Company","state":"Ohio","style":"Schwarzbier","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"BierKraft Tmave Pivo","brewery":"BierKraft","state":"Oklahoma","style":"Schwarzbier","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Bock","brewery":"Niagara College","state":"Ontario","style":"Bock","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Bock-A-Fella","brewery":"The Common Beer Company","state":"Ohio","style":"Bock","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"King Gambrinus","brewery":"Canton Brewing Company","state":"Ohio","style":"Bock","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Little Bock Of Calm","brewery":"Shovel Town Brewery","state":"Massachusetts","style":"Bock","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Tipsy Goat","brewery":"Oak Highlands Brewery","state":"Texas","style":"Heller Bock\/Maibock","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Festbier","brewery":"Spearfish Brewing","state":"South Dakota","style":"Heller Bock\/Maibock","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Rhapsody","brewery":"Alaro Craft Brewery","state":"California","style":"Heller Bock\/Maibock","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Maibock","brewery":"NoDa Brewing Company","state":"North Carolina","style":"Heller Bock\/Maibock","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Hans the Revelator","brewery":"Revelation Craft Brewing","state":"Delaware","style":"Dopple \/ Strong Bock","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Corbet\u2019s Couloir","brewery":"Ike & Oak Brewing","state":"Illinois","style":"Dopple \/ Strong Bock","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Celebrator Doppelbock","brewery":"Ayinger","state":"Germanay","style":"Dopple \/ Strong Bock","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Dominator Doppelbock","brewery":"Sun King Small Batch Brewery","state":"Indiana","style":"Dopple \/ Strong Bock","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Old Mad Joy","brewery":"Great Raft Brewing","state":"Louisiana","style":"Baltic Porter","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Baltic Porter","brewery":"Vallensons Brewing","state":"Texas","style":"Baltic Porter","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Moonlight Excursion","brewery":"Mason Jar Lager Co.","state":"North Carolina","style":"Baltic Porter","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Iceman Cometh","brewery":"Listermann Brewing","state":"Ohio","style":"India Pale Lager(IPL)","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Bohemian Fusion","brewery":"Big Sexy Brewing","state":"California","style":"India Pale Lager(IPL)","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Arches Brewing","brewery":"Georgia","state":"","style":"India Pale Lager(IPL)","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"No Award","brewery":"","state":"","style":"India Pale Lager(IPL)","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Cold CHillin\u2019 Cream Ale","brewery":"Wild Ride Brewing","state":"Oregon","style":"American Cream Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Kentucky Vanilla Barrel Cream Ale","brewery":"Lexington Brewing & Distilling","state":"Kentucky","style":"American Cream Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Yellow Gold","brewery":"Deep River Brewing","state":"North Carolina","style":"American Cream Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Nap in the Hammock","brewery":"Metazoa Brewing","state":"Indiana","style":"American Cream Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Sweet As! Pacific Ale","brewery":"GoodLife Brewing","state":"Oregon","style":"American Wheat","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"West Main Wheat","brewery":"Big Grove Brewery","state":"Iowa","style":"American Wheat","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"4th Street Wheat","brewery":"Foxhole Brewhouse","state":"Minnesota","style":"American Wheat","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Summer Snowdrift","brewery":"Epidemic Ales","state":"California","style":"American Specialty Wheat","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"2nd Street Wheat","brewery":"Bond\u2019s Brewing Company","state":"Wyoming","style":"American Specialty Wheat","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Fuzztail","brewery":"Sunriver Brewing","state":"Oregon","style":"American Specialty Wheat","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Berry Vision","brewery":"Big Ditch Brewing","state":"New York","style":"American Style Berry Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Whole Hog Raspberry Sorbet","brewery":"Stevens Point Brewery","state":"Wisconsin","style":"American Style Berry Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Springs Farm Strawberry Kolsch","brewery":"Model A Brewing","state":"South Carolina","style":"American Style Berry Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"White Salamander","brewery":"Level Crossing Brewing","state":"Utah","style":"American Style Fruit Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Ab PHaB Peach Honey Basil Ale","brewery":"Dearborn Brewing","state":"Michigan","style":"American Style Fruit Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"True Lime","brewery":"Lonerider Brewing","state":"North Carolina","style":"American Style Fruit Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Banana Wheat","brewery":"Whistle Hop Brewing","state":"North Carolina","style":"American Style Fruit Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Blackberry Belgian Red","brewery":"Deb\u2019s Brewtopia","state":"Iowa","style":"Belgian Style Fruit Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Druicy Fruit","brewery":"Left Hand Brewing","state":"Colorado","style":"Belgian Style Fruit Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Frost Proof","brewery":"Cigar City Brewing","state":"Florida","style":"Belgian Style Fruit Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Dill Pickle Gose","brewery":"UpCountry Brewing Company","state":"North Carolina","style":"Cucumber Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Hotel Water","brewery":"Urban Artifact","state":"Ohio","style":"Cucumber Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"El Jardin Hefe","brewery":"Third Nature Brewing","state":"Michigan","style":"Cucumber Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Root Tang","brewery":"Shoe Tree Brewing(Carson City)","state":"Nevada","style":"Vegetable beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Beet Of My Heart Ale","brewery":"Carillon Brewing","state":"Ohio","style":"Vegetable beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Squoze","brewery":"Vector Brewing","state":"Squoze","style":"Vegetable beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Pumpkin Ale","brewery":"2 Silos Brewing","state":"Virginia","style":"Pumpkin","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"The Wicker Man","brewery":"Tire Shack Brewing","state":"Ontario","style":"Pumpkin","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Gourdalicious","brewery":"Unrefined Brewing","state":"Florida","style":"Pumpkin","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Wick For Brains Pumpkin Ale","brewery":"Nebraska Brewing","state":"Nebraska","style":"Pumpkin","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Medusa","brewery":"Black Plague Brewing","state":"California","style":"Coconut","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Coconut Hiwa Porter","brewery":"Maui Brewing","state":"Hawaii","style":"Coconut","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Coco Anejo","brewery":"Hopfusion Ale Works","state":"Texas","style":"Coconut","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"German Chocolate Cake Stout","brewery":"Wolf Brewing","state":"Pennsylvania","style":"Coconut","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Ginger Pale Ale","brewery":"Carillon Brewing","state":"Ohio","style":"Herb and Spice Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Hemingways Delight Golden Mojito","brewery":"UpCountry Brewing","state":"North Carolina","style":"Herb and Spice Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Elderflower Saison","brewery":"Exchange Brewery","state":"Ontario","style":"Herb and Spice Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Dutch Toast Turbo","brewery":"Gezellig Brewing","state":"Iowa","style":"Herb and Spice Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Datil","brewery":"Motorworks Brewing","state":"Florida","style":"Chili Pepper Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Raked Over IPA","brewery":"Wellington Brewery","state":"Ontario","style":"Chili Pepper Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"FireMelon","brewery":"Saint Patrick\u2019s Brewing","state":"Colorado","style":"Chili Pepper Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Mexican Candy","brewery":"Unrefined Brewing","state":"Florida","style":"Chili Pepper Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Shuggah Daddi","brewery":"Main & Six Brewing","state":"Florida","style":"Chocolate \/ Cocoa Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Small Batch BA Donuts","brewery":"Sun King Small Batch Brewery","state":"Indiana","style":"Chocolate \/ Cocoa Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Sweet Jesus","brewery":"Topsy Turvy Brewery","state":"Wisconsin","style":"Chocolate \/ Cocoa Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Cocoa Cow","brewery":"Sunriver Brewing","state":"Oregon","style":"Chocolate \/ Cocoa Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Rocket Fuel","brewery":"8th Wonder Brewery","state":"Texas","style":"Coffee beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Daybreak","brewery":"Wolf\u2019s Ridge Brewing","state":"Ohio","style":"Coffee beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Coalition Coffee Stout","brewery":"Maple Branch Craft Brewery","state":"Texas","style":"Coffee beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"True West","brewery":"Municipal Brew Works","state":"Ohio","style":"Coffee beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Rye Bob","brewery":"Byway Brewing","state":"Indiana","style":"Rye \/ Roggen Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Double Rogg Dare You","brewery":"Gezellig Brewing","state":"Iowa","style":"Rye \/ Roggen Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"The Hills Have Ryes","brewery":"Spearfish Brewing","state":"South Dakota","style":"Rye \/ Roggen Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Smokestack","brewery":"Cartridge Brewing","state":"Ohio","style":"Smoked \/ Rauch Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Buchenrauch","brewery":"Wolf\u2019s Ridge Brewing","state":"Ohio","style":"Smoked \/ Rauch Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Smoke on the Lager","brewery":"Chilly Water Brewing","state":"Indiana","style":"Smoked \/ Rauch Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Ashes From The Grave","brewery":"TapRoom Beer Company","state":"California","style":"Smoked \/ Rauch Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Alaskan Smoked Porter","brewery":"Alaskan Brewing","state":"Alaska","style":"Smoked Porter","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Black Squirrel","brewery":"Harmony Brewing","state":"Michigan","style":"Smoked Porter","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Beer Admiral Smoked Porter","brewery":"Cooper Landing Brewing","state":"Alaska","style":"Smoked Porter","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Vanilla Cream","brewery":"Big Ash Brewing","state":"Ohio","style":"Honey Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Rock Bass Honey Nut Brown","brewery":"Muskellunge Brewing","state":"Ohio","style":"Honey Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Maggs 59","brewery":"The Common Beer Company","state":"Ohio","style":"Honey Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Magnum XL","brewery":"Rhinelander Brewing","state":"Wisconsin","style":"Barrel Aged Pale and Dark Beer(under 6.5% ABV)","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Boost","brewery":"HighGrain Brewing","state":"Ohio","style":"Barrel Aged Pale and Dark Beer(under 6.5% ABV)","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Earl\u2019s Revelation","brewery":"Blue Earl Brewing","state":"Delaware","style":"Barrel Aged Pale and Dark Beer(under 6.5% ABV)","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":1314,"brewery":"Black Tooth Brewing","state":"Wyoming","style":"Barrel Aged Strong Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"The Intrepid","brewery":"49 State Brewing(Anchorage)- Alaska","state":"","style":"Barrel Aged Strong Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Double Oaked Illuminati","brewery":"Sonder Brewing","state":"Ohio","style":"Barrel Aged Strong Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Bourbon BA Tripel Dollar Bill Y\u2019all","brewery":"Liability Brewing","state":"","style":"Barrel Aged Strong Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Bourbon BA Navel Gazer","brewery":"New Heights Brewing","state":"Tennessee","style":"Barrel-Aged Strong Stout\/Porter","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Barrel-Aged Silhouette","brewery":"Lift Bridge Brewery","state":"Minnesota","style":"Barrel-Aged Strong Stout\/Porter","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Rye BA Castle Black","brewery":"Pondaseta Brewing","state":"Texas","style":"Barrel-Aged Strong Stout\/Porter","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Black Betty Imperial Stout","brewery":"Nebraska Brewing","state":"Nebraska","style":"Barrel-Aged Strong Stout\/Porter","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Assassin 2021","brewery":"Toppling Goliath Brewing","state":"Iowa","style":"Barrel-Aged Strong Stout\/Porter Extreme(over 12.5% ABV)","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"BA Epic Blackout Stout","brewery":"Brickway Brewery & Distillery","state":"Nebraska","style":"Barrel-Aged Strong Stout\/Porter Extreme(over 12.5% ABV)","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Black Butte\u00b3 Amburana","brewery":"Deschutes Brewery","state":"Oregon","style":"Barrel-Aged Strong Stout\/Porter Extreme(over 12.5% ABV)","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Sir Blends A-Lot","brewery":"Mikerphone Brewing","state":"Illinois","style":"Barrel-Aged Strong Stout\/Porter Specialty","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"KBBS 2020","brewery":"Toppling Goliath Brewing","state":"Iowa","style":"Barrel-Aged Strong Stout\/Porter Specialty","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"She Blends A-Lot","brewery":"Mikerphone Brewing","state":"Illinois","style":"Barrel-Aged Strong Stout\/Porter Specialty","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Luna","brewery":"Ravenna Brewing","state":"Washington","style":"Barrel-Aged Strong Stout\/Porter Specialty","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Papposilenus","brewery":"Unrefined Brewing","state":"Florida","style":"Barrel-Aged-Sour-Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Wild Saison","brewery":"Grand Canyon Brewing","state":"Arizona","style":"Barrel-Aged-Sour-Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Gaia\u2019s Whimsy","brewery":"Stoup Brewing","state":"Washington","style":"Barrel-Aged-Sour-Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Desideratum","brewery":"Oregon City Brewing","state":"Oregon","style":"Barrel-Aged Fruit Sour Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Rigmarole","brewery":"Lynwood Brewing Concern","state":"North Carolina","style":"Barrel-Aged Fruit Sour Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Idyll Forest: Le Bois De R\u00eaves","brewery":"Pryes Brewing","state":"Minnesota","style":"Barrel-Aged Fruit Sour Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Polynesian Passion","brewery":"Sun King Brewery","state":"Indiana","style":"Barrel-Aged Fruit Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Clares Thirsty Ale","brewery":"Haymarket Brewing","state":"Michigan","style":"Barrel-Aged Fruit Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Black Forest Cake Otto","brewery":"Sonder Brewing","state":"Ohio","style":"Barrel-Aged Fruit Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Damebier","brewery":"Cherry Street","state":"Georgia","style":"Barrel-Aged Scotch Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Apple Brandy Batch 5","brewery":"Woodland Farm Brewery","state":"New York","style":"Barrel-Aged Scotch Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"BA Panic","brewery":"Narrow Path Brewing","state":"Ohio","style":"Barrel-Aged Scotch Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Bourbon LB Lives","brewery":"Woodland Farm Brewery","state":"New York","style":"Barrel-Aged Barley Wine \u2013 English","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Diddy Muckle","brewery":"Sun King Brewery","state":"Indiana","style":"Barrel-Aged Barley Wine \u2013 English","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Barrelywine Volume 6","brewery":"Kros Strain Brewing","state":"Nebraska","style":"Barrel-Aged Barley Wine \u2013 English","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Tower","brewery":"Big Ditch Brewing Company","state":"New York","style":"Barrel-Aged Barley Wine \u2013 American","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"12.12.12","brewery":"Cherry Street Brewery","state":"Georgia","style":"Barrel-Aged Barley Wine \u2013 American","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Old Siren","brewery":"River Dog Brewing","state":"South Carolina","style":"Barrel-Aged Barley Wine \u2013 American","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Milk Punch","brewery":"Barrel Chest Brewing","state":"Virginia","style":"Barrel-Aged Barley Wine \u2013 Specialty","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Thresher","brewery":"Motorworks Brewing","state":"Florida","style":"Barrel-Aged Barley Wine \u2013 Specialty","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"No Award","brewery":"","state":"","style":"Barrel-Aged Barley Wine \u2013 Specialty","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Finely Aged Plummer\u2019s Crack","brewery":"Bad Dad Brewing","state":"Indiana","style":"Barrel-Aged Quad\/Belgian Dark Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Quintessence","brewery":"LauderAle Brewery and Tap Room","state":"Florida","style":"Barrel-Aged Quad\/Belgian Dark Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Odd Quad of Todd BA","brewery":"Bru Daddy\u2019s Brewing","state":"Pennsylvania","style":"Barrel-Aged Quad\/Belgian Dark Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Self Titled","brewery":"Barrel Chest Brewing","state":"Virginia","style":"Blended Barrel-Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"BART: Barrel Aged Really Tasty","brewery":"Fifty Fifty Brewing","state":"California","style":"Blended Barrel-Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Beasts Of Bourbon","brewery":"Liquid Mechanics Brewing","state":"Colorado","style":"Blended Barrel-Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Three Threads-Blend 3","brewery":"Barrel Chest Brewing","state":"Virginia","style":"Brandy Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Betty\u2019s Barleywine","brewery":"Cherry Street Halcyon","state":"Georgia","style":"Brandy Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Ironside Barleywine","brewery":"Kelsen Brewing","state":"New Hampshire","style":"Brandy Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Salvaje","brewery":"Motorworks Brewing","state":"Florida","style":"Tequila Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"BA Bearded Skull Mexican Lager","brewery":"Broken Bow Brewery","state":"New York","style":"Tequila Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Ghost Series","brewery":"Brown Truck Brewery","state":"North Carolina","style":"Tequila Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Barrel Aged Baby Maker","brewery":"Pontoon Brewing","state":"Georgia","style":"Rum Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Soul Shakedown Party","brewery":"Sun King Brewery","state":"Indiana","style":"Rum Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"BA Number 6 Dance","brewery":"Unrefined Brewing","state":"Florida","style":"Rum Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Blackbeard\u2019s Vacation","brewery":"Samuel Adams","state":"Massachusetts","style":"Rum Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"French 75","brewery":"Sonder Brewing","state":"Ohio","style":"Spirits\/non-whiskey Barrel Aged Beer Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Stoutopias","brewery":"Samuel Adams","state":"Massachusetts\/Ohio","style":"Spirits\/non-whiskey Barrel Aged Beer Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Population 300","brewery":"Bron Yr Aur Brewing","state":"Washington","style":"Spirits\/non-whiskey Barrel Aged Beer Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"D.M.M.K.Y.A","brewery":"Bickersons Brewhouse","state":"Washington","style":"Spirits\/non-whiskey Barrel Aged Beer Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Blood of Jupiter","brewery":"Ecliptic Brewing","state":"Oregon","style":"Red Wine Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Very A-Gris-Able","brewery":"Oregon City Brewing","state":"Oregon","style":"Red Wine Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Black Is Beautiful","brewery":"Outerbelt Brewing","state":"Ohio","style":"Red Wine Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"BA Pilz Czar","brewery":"Accomplice Beer Company","state":"Wyoming","style":"White Wine Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Rustique","brewery":"Motorworks Brewing","state":"Florida","style":"White Wine Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Buxom","brewery":"6 Bears & A Goat Brewing","state":"Virginia","style":"White Wine Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Dark Cherry Home at Port","brewery":"Deschutes Brewery","state":"Oregon","style":"Port Wine Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Barley Wine Aged in Port Barrels","brewery":"Brown Truck Brewery","state":"North Carolina","style":"Port Wine Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"No Award","brewery":"","state":"","style":"Port Wine Barrel Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Pinot Noir Barrel-Aged Belgian-Style Golden Ale","brewery":"Ecliptic Brewing & Russian River Brewing","state":"Oregon","style":"Barrel-Aged Brett \/ Wild Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Long Funky Streaks Batch 4","brewery":"Benchtop Brewing","state":"Virginia","style":"Barrel-Aged Brett \/ Wild Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Maiden Voyage","brewery":"NOLA Brewing","state":"Louisiana","style":"Barrel-Aged Brett \/ Wild Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Double Barrel Helles Bock","brewery":"Schulz Brau Brewing","state":"Tennessee","style":"Barrel Aged German Lager","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Burdock Saints","brewery":"Whistle Hop Brewing","state":"North Carolina","style":"Barrel Aged German Lager","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"ReDone","brewery":"Scout And Scholar Brewing","state":"Kentucky","style":"Barrel Aged German Lager","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"BA Dopplebock","brewery":"Lupulin Brewing","state":"Minnesota","style":"Barrel Aged German Lager","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Freaky Deaky","brewery":"Oak Highlands Brewery","state":"Texas","style":"Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"BBA Old Motor Oil (2018)","brewery":"Grainworks Brewing","state":"Ohio","style":"Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Gentle Giant","brewery":"Narrow Path Brewing","state":"Ohio","style":"Aged Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"When Pigs Fly","brewery":"Pig Pounder Brewery","state":"North Carolina","style":"Experimental Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Fluffy Shenanigans","brewery":"Temblor Brewing","state":"Californa","style":"Experimental Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Tip Top Smoothie Pop","brewery":"Around The Horn Brewing","state":"California","style":"Experimental Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Happy Farmer Watermelon","brewery":"Shoe Tree Brewing(Minden)","state":"Nevada","style":"Specialty \/ Anything Goes","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Dreamsicle Capsized Kayak","brewery":"White Rock Brewing","state":"Texas","style":"Specialty \/ Anything Goes","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"BA Stout Hawks","brewery":"Toppling Goliath Brewing","state":"Iowa","style":"Specialty \/ Anything Goes","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Coco Burrito Supreme","brewery":"Shoe Tree Brewing(Minden)","state":"Nevada","style":"Specialty \/ Anything Goes","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Klipspringer","brewery":"Metazoa Brewing","state":"Indiana","style":"American-Belgo-Style Ale","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Trappist in Paradise","brewery":"49th State Brewing Production","state":"Alaska","style":"American-Belgo-Style Ale","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Tropospheric","brewery":"Launch Pad Brewing","state":"Colorado","style":"American-Belgo-Style Ale","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Dave\u2019s Perfect Pils","brewery":"White Rock Brewing","state":"Texas","style":"Kellerbier or Zwickelbier","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Print The Legend","brewery":"Edward Teach Brewing","state":"North Carolina","style":"Kellerbier or Zwickelbier","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Limbo Champ","brewery":"Revelry Brewing Company","state":"South Carolina","style":"Kellerbier or Zwickelbier","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Eastside Kellerbier","brewery":"Angel City Brewery","state":"California","style":"Kellerbier or Zwickelbier","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Peaches","brewery":"Trapezium Brewing","state":"Virginia","style":"Brett Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Rebel Funk","brewery":"Wise Man Brewing","state":"North Carolina","style":"Brett Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Coming to Fruition: Marionberry","brewery":"Oregon City Brewing","state":"Oregon","style":"Brett Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Coming to Fruition: Cherry","brewery":"Oregon City Brewing","state":"Oregon","style":"Brett Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Shiner Bock","brewery":"Spoetzl Brewery","state":"Texas","style":"Sessions Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Stonehands","brewery":"Scout And Scholar Brewing","state":"Kentucky","style":"Sessions Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Zoltan","brewery":"Exile Brewing","state":"Iowa","style":"Sessions Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Dead Parrot","brewery":"Florida Avenue Brewing","state":"Florida","style":"Sessions Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Hazy IPA","brewery":"Aurochs Brewing","state":"Pennsylvania","style":"Gluten-Free IPA","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"It Came from the Haze, Hazy IPA","brewery":"Ghostfish Brewing","state":"Washington","style":"Gluten-Free IPA","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Grapefruit IPA","brewery":"Ghostfish Brewing","state":"Washington","style":"Gluten-Free IPA","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Clevah Girl","brewery":"Revelation Craft Brewing","state":"Delaware","style":"Gluten-Free Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Amber Ale","brewery":"Aurochs Brewing","state":"Pennsylvania","style":"Gluten-Free Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Belgian Buckwit","brewery":"Holidaily Brewing","state":"Colorado","style":"Gluten-Free Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Damn! That\u2019s Good","brewery":"The Explorium Brewpub","state":"Wisconsin","style":"Near Gluten Free","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Lil\u2019 Squeezy","brewery":"Deschutes Brewery","state":"Oregon","style":"Near Gluten Free","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Copper Mule","brewery":"Black Tooth Brewing","state":"Wyoming","style":"Near Gluten Free","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Candymaker","brewery":"Widowmaker Brewing","state":"Massachusetts","style":"Peanut Butter","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Tall Dark and Nutty","brewery":"Red Bear Brewing","state":"Washington DC","style":"Peanut Butter","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Peanut Butter Porter","brewery":"Peak View Brewing","state":"Colorado","style":"Peanut Butter","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"CPB","brewery":"Lupulin Brewing","state":"Minnesota","style":"Peanut Butter","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Almond Brown","brewery":"Temblor Brewing","state":"California","style":"Nut Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Smoked Pecan Porter","brewery":"Lost Signal Brewing","state":"Missouri","style":"Nut Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Tejano Pecano","brewery":"Oak Highlands Brewery","state":"Texas","style":"Nut Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Peach Tea Blonde","brewery":"Beale\u2019s Beer","state":"Virginia","style":"Tea Beer","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Southern Tee","brewery":"New Realm Brewing","state":"Georgia","style":"Tea Beer","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Hollowpoint","brewery":"Cartridge Brewing","state":"Ohio","style":"Tea Beer","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Old Fashioned Root Beer","brewery":"Barn Town Brewing","state":"Iowa","style":"Category Non-Alcoholic, Root Beer(no other soft drinks)","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"1888 Root Beer","brewery":"Saranac Brewing","state":"New York","style":"Category Non-Alcoholic, Root Beer(no other soft drinks)","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"POP\u2019s Root Beer","brewery":"Port O\u2019 Pints","state":"","style":"Category Non-Alcoholic, Root Beer(no other soft drinks)","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Run Wild IPA","brewery":"Athletic Brewing","state":"Connecticut","style":"Non Alcoholic IPA","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Just the Haze","brewery":"Samuel Adams","state":"Massachusetts","style":"Non Alcoholic IPA","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"IPA","brewery":"Sober Carpenter","state":"Quebec","style":"Non Alcoholic IPA","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"All Out Stout","brewery":"Athletic Brewing","state":"Connecticut","style":"Non Alcoholic Stout\/Porter","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Irish Style Dark","brewery":"Deschutes Brewing","state":"Oregon","style":"Non Alcoholic Stout\/Porter","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Galactic Extra Dark","brewery":"Big Drop Brewing","state":"Illinois","style":"Non Alcoholic Stout\/Porter","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Raspberry Gose","brewery":"Athletic Brewing","state":"Connecticut","style":"Non Alcoholic Gose","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Downwinder Gose","brewery":"Athletic Brewing","state":"Connecticut","style":"Non Alcoholic Gose","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Black Cherry Gose","brewery":"Bravus","state":"Virginia","style":"Non Alcoholic Gose","year":2021,"comp":"USOpen"},{"medal":"Gold","beer":"Pine Trail Ale","brewery":"Big Drop Brewing","state":"Illinois","style":"Non-Alcoholic Malt Beverage","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Free Damm Lager","brewery":"S.A. DAMM","state":"Spain","style":"Non-Alcoholic Malt Beverage","year":2021,"comp":"USOpen"},{"medal":"Silver","beer":"Berliner Sonne","brewery":"Le Bockale Microbrewery","state":"Quebec","style":"Non-Alcoholic Malt Beverage","year":2021,"comp":"USOpen"},{"medal":"Bronze","beer":"Natural Bridges Kolsch","brewery":"Surreal Brewing","state":"California","style":"Non-Alcoholic Malt Beverage","year":2021,"comp":"USOpen"}]
+[{
+  "medal": "Gold",
+  "beer": "Saranac Pale Ale",
+  "brewery": "Saranac Brewery",
+  "state": "New York",
+  "style": "English Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Special Pale Ale",
+  "brewery": "Wellington Brewery",
+  "state": "Ontario",
+  "style": "English Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Moraga\u2019s English Pale",
+  "brewery": "Sunset Reservoir Brewing",
+  "state": "California",
+  "style": "English Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Naches Pale Ale",
+  "brewery": "Bron Yr Aur Brewing",
+  "state": "Washington",
+  "style": "American Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Beerstream",
+  "brewery": "Marker 48 Brewing",
+  "state": "Florida",
+  "style": "American Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Stick\u2019s",
+  "brewery": "Bootstrap Brewing",
+  "state": "Colorado",
+  "style": "American Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Cowboy Chords",
+  "brewery": "1886 Brewing",
+  "state": "California",
+  "style": "American Strong Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Mozy 7",
+  "brewery": "Saint Archer Brewing",
+  "state": "California",
+  "style": "American Strong Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Citrus All Pro",
+  "brewery": "Columbia Craft",
+  "state": "South Carolina",
+  "style": "American Strong Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Good Idea",
+  "brewery": "Stoup Brewing",
+  "state": "Washington",
+  "style": "American Strong Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Staycation",
+  "brewery": "Main & Six Brewing",
+  "state": "Florida",
+  "style": "International Style Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Pale Ale",
+  "brewery": "Sweeten Creek Brewing",
+  "state": "North Carolina",
+  "style": "International Style Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Langdon",
+  "brewery": "Cellar West Artisan Ales",
+  "state": "Colorado",
+  "style": "International Style Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "College Pale",
+  "brewery": "Schoolcraft Brewery",
+  "state": "Michigan",
+  "style": "Australian-Style Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Wook Bait",
+  "brewery": "Left Hand Brewing",
+  "state": "Colorado",
+  "style": "Australian-Style Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Juicy Freak",
+  "brewery": "Denver Beer Company",
+  "state": "Colorado",
+  "style": "Australian-Style Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Citradica",
+  "brewery": "Riip Beer Company",
+  "state": "California",
+  "style": "Juicy or Hazy Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Pseudo Sue",
+  "brewery": "Toppling Goliath Brewing",
+  "state": "Iowa",
+  "style": "Juicy or Hazy Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Dayburner",
+  "brewery": "Big Ditch Brewing",
+  "state": "New York",
+  "style": "Juicy or Hazy Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Mind Haze",
+  "brewery": "Firestone Walker Brewing",
+  "state": "California",
+  "style": "Juicy or Hazy Strong Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "So Go",
+  "brewery": "CODA Brewing",
+  "state": "Colorado",
+  "style": "Juicy or Hazy Strong Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Luminescence",
+  "brewery": "Florida Avenue Brewing",
+  "state": "Florida",
+  "style": "Juicy or Hazy Strong Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Lupy Hazy",
+  "brewery": "Dalton Union Winery and Brewery",
+  "state": "Ohio",
+  "style": "Juicy or Hazy Strong Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Ryed Up Shorts",
+  "brewery": "Various Artists",
+  "state": "Tennessee",
+  "style": "Specialty Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Pineapple Upside Down Cake",
+  "brewery": "Epidemic Ales",
+  "state": "California",
+  "style": "Specialty Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Rebel Yell",
+  "brewery": "Grainworks Brewing",
+  "state": "Ohio",
+  "style": "Specialty Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Uncle Dave\u2019s IPA",
+  "brewery": "Discretion Brewing",
+  "state": "California",
+  "style": "English IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Jacaranda",
+  "brewery": "Claremont Craft Ales",
+  "state": "California",
+  "style": "English IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Marco IPA",
+  "brewery": "Zilker Brewing",
+  "state": "Texas",
+  "style": "English IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Southern Plaid",
+  "brewery": "Ballad Brewing",
+  "state": "Virginia",
+  "style": "Imperial IPA(DIPA)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Freak of Nature",
+  "brewery": "Wicked Weed",
+  "state": "North Carolina",
+  "style": "Imperial IPA(DIPA)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Duh! DIPA",
+  "brewery": "Starpoint Brewing",
+  "state": "North Carolina",
+  "style": "Imperial IPA(DIPA)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Mile Marker 12",
+  "brewery": "Bankhead Brewing",
+  "state": "Texas",
+  "style": "Triple IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Triple Street",
+  "brewery": "Burning Barrel Brewing Company",
+  "state": "",
+  "style": "Triple IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "25th Bluesapalooza Triple IPA",
+  "brewery": "Mammoth Brewing Company",
+  "state": "",
+  "style": "Triple IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Hop Drop n\u2019 Roll",
+  "brewery": "NoDa Brewing",
+  "state": "North Carolina",
+  "style": "American IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Don\u2019t Worry",
+  "brewery": "Wormtown Brewery",
+  "state": "Massachusetts",
+  "style": "American IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Hoptologist",
+  "brewery": "Knee Deep Brewing",
+  "state": "California",
+  "style": "American IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Mr Beast",
+  "brewery": "Widowmaker Brewing",
+  "state": "Massachusetts",
+  "style": "Light IPA\/Session IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Session IPA",
+  "brewery": "ShawneeCraft Brewing",
+  "state": "Pennsylvania",
+  "style": "Light IPA\/Session IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Ta Moins Forte",
+  "brewery": "Lagabi\u00e8re Microbrasserie",
+  "state": "Quebec",
+  "style": "Light IPA\/Session IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Nine",
+  "brewery": "Claremont Craft Ales",
+  "state": "California",
+  "style": "Light IPA\/Session IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Bootsy",
+  "brewery": "Fretboard Brewing",
+  "state": "Ohio",
+  "style": "Brut IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Annie",
+  "brewery": "Amelia Island Brewing",
+  "state": "Florida",
+  "style": "Brut IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "No Award",
+  "brewery": "",
+  "state": "",
+  "style": "Brut IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Mango Rico",
+  "brewery": "Denver Beer Company",
+  "state": "Colorado",
+  "style": "Fruit IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Pulp Friction",
+  "brewery": "Motorworks Brewing",
+  "state": "Florida",
+  "style": "Fruit IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Love at midnight",
+  "brewery": "Tire Shack Brewing",
+  "state": "New Brunswick",
+  "style": "Fruit IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Grapefruit Highest Point",
+  "brewery": "Spilled Grain Brewhouse",
+  "state": "Minnesota",
+  "style": "Fruit IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Stone IPA",
+  "brewery": "Stone Brewing",
+  "state": "California",
+  "style": "West Coast IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Tidal Break",
+  "brewery": "Compass Rose Brewery",
+  "state": "North Carolina",
+  "style": "West Coast IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Dimension Shifter",
+  "brewery": "Delahunt Brewing",
+  "state": "California",
+  "style": "West Coast IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Vicious Mosquito",
+  "brewery": "Sunriver Brewing",
+  "state": "Oregon",
+  "style": "West Coast IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Luponic Distortion",
+  "brewery": "Firestone Walker",
+  "state": "California",
+  "style": "New Zealand IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "New Zealand IPA",
+  "brewery": "Saint Archer Brewing",
+  "state": "California",
+  "style": "New Zealand IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Monospace: Nelson",
+  "brewery": "Vector Brewing",
+  "state": "Texas",
+  "style": "New Zealand IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Jucifer Juicy Hazy IPA",
+  "brewery": "Gnarly Barley Brewing",
+  "state": "Louisanna",
+  "style": "New England\/Juicy IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Parts n labour",
+  "brewery": "Tire Shack Brewing",
+  "state": "New Brunswick",
+  "style": "New England\/Juicy IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Tropic Flare",
+  "brewery": "Braxton Brewing",
+  "state": "Kentucky",
+  "style": "New England\/Juicy IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Ta Meillure",
+  "brewery": "Lagabi\u00e8re Microbrasserie",
+  "state": "Quebec",
+  "style": "New England\/Juicy IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Southern Hopisphere",
+  "brewery": "Kros Strain Brewing",
+  "state": "Nebraska",
+  "style": "New England\/Juicy DIPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "King Sue DIPA",
+  "brewery": "Toppling Goliath Brewing",
+  "state": "Iowa",
+  "style": "New England\/Juicy DIPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "SHIfT",
+  "brewery": "Incendiary Brewing",
+  "state": "North Carolina",
+  "style": "New England\/Juicy DIPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "If Only IPA",
+  "brewery": "Old Stove Brewing",
+  "state": "Washington",
+  "style": "New England\/Juicy DIPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "HopTropica",
+  "brewery": "Shoe Tree Brewing(Minden)",
+  "state": "Nevada",
+  "style": "Specialty IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Pepper & Peaches IPA",
+  "brewery": "Claremont Craft Ales",
+  "state": "California",
+  "style": "Specialty IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Yolanda",
+  "brewery": "St. Elmo Brewing",
+  "state": "Texas",
+  "style": "Specialty IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Dry Irish Stout",
+  "brewery": "Bent Barley Brewing",
+  "state": "Colorado",
+  "style": "Classic Irish Dry Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Lucky Four Leaf",
+  "brewery": "Danville Brewing",
+  "state": "California",
+  "style": "Classic Irish Dry Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Irish Stout",
+  "brewery": "Social Fox Brewing",
+  "state": "Georgia",
+  "style": "Classic Irish Dry Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Big Wall",
+  "brewery": "Strike Brewing",
+  "state": "California",
+  "style": "Foreign Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Shinobi Export Stout",
+  "brewery": "Byway Brewing",
+  "state": "Indiana",
+  "style": "Foreign Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Beastie",
+  "brewery": "Market Garden Brewery",
+  "state": "Ohio",
+  "style": "Foreign Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Destress Express",
+  "brewery": "Georgia Beer Co.",
+  "state": "Georgia",
+  "style": "American Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Stone Cimmerian Portal",
+  "brewery": "Stone Brewing World Bistro & Gardens-Liberty Station",
+  "state": "",
+  "style": "American Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Hubbard Street Stout",
+  "brewery": "Main & Six Brewing",
+  "state": "",
+  "style": "American Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Higher Purpose",
+  "brewery": "Third Eye Brewing",
+  "state": "Ohio",
+  "style": "Cream Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Hazelnut Stout",
+  "brewery": "Whalers Brewing",
+  "state": "Rhode Island",
+  "style": "Cream Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Two Stall",
+  "brewery": "Ahnapee Brewery",
+  "state": "Wisconsin",
+  "style": "Cream Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Oatmeal Stout",
+  "brewery": "Samuel Smith\u2019s",
+  "state": "England",
+  "style": "Oatmeal Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Thunderball",
+  "brewery": "Eudora Brewing",
+  "state": "Ohio",
+  "style": "Oatmeal Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "The Poet",
+  "brewery": "New Holland Brewing",
+  "state": "Michigan",
+  "style": "Oatmeal Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Midnight Mocha Stout",
+  "brewery": "Saint Patrick\u2019s Brewing",
+  "state": "Colorado",
+  "style": "Oatmeal Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Beast of Burton",
+  "brewery": "Oregon City Brewing",
+  "state": "Oregon",
+  "style": "British Imperial Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Lost Moon",
+  "brewery": "Pryes Brewing",
+  "state": "Minnesota",
+  "style": "British Imperial Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "IRS",
+  "brewery": "Wellington Brewery",
+  "state": "Ontario",
+  "style": "British Imperial Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Dark Moo\u2019d",
+  "brewery": "Stillfire Brewing",
+  "state": "Georgia",
+  "style": "British Imperial Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Black Solstice",
+  "brewery": "FigLeaf Brewing",
+  "state": "Ohio",
+  "style": "American Imperial Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Top of the World",
+  "brewery": "Blue Earl Brewing",
+  "state": "Delaware",
+  "style": "American Imperial Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Navel Gazer",
+  "brewery": "New Heights Brewing",
+  "state": "New Heights",
+  "style": "American Imperial Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Full Grown Man",
+  "brewery": "TUPPS Brewery",
+  "state": "Texas",
+  "style": "American Imperial Stout",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Mornin Delight 2021",
+  "brewery": "Toppling Goliath Brewing",
+  "state": "Iowa",
+  "style": "Imperial Stout Specialty",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Hunahpu\u2019s Imperial Stout",
+  "brewery": "Cigar City Brewing",
+  "state": "Florida",
+  "style": "Imperial Stout Specialty",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Cafre de Olla",
+  "brewery": "Braxton Brewing",
+  "state": "Kentucky",
+  "style": "Imperial Stout Specialty",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Blind Fury",
+  "brewery": "Short Fuse Brewing",
+  "state": "Illinois",
+  "style": "Imperial Stout Specialty",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Cookie Season Stout",
+  "brewery": "Wild Leap Brew Co.",
+  "state": "Georgia",
+  "style": "Imperial Stout Extreme(ABV: 12.5%+)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Fragile Like a Bomb",
+  "brewery": "903 Brewers",
+  "state": "Texas",
+  "style": "Imperial Stout Extreme(ABV: 12.5%+)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "I Hated Listermann Before It Was Cool",
+  "brewery": "Listermann Brewing",
+  "state": "Ohio",
+  "style": "Imperial Stout Extreme(ABV: 12.5%+)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Glazed and Infused",
+  "brewery": "Slice Beer Company",
+  "state": "California",
+  "style": "Imperial Stout Extreme(ABV: 12.5%+)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Queen B",
+  "brewery": "Haywire Brewing",
+  "state": "Washington",
+  "style": "Golden or Blonde ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Tie-It-On Blonde",
+  "brewery": "Bron Yr Aur Brewing",
+  "state": "Washington",
+  "style": "Golden or Blonde ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Blonde Ale",
+  "brewery": "Lot 9 Brewing",
+  "state": "South Carolina",
+  "style": "Golden or Blonde ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Tropical Blonde",
+  "brewery": "Cranky Sam Brewing",
+  "state": "Montana",
+  "style": "English Summer Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Approachable Blonde",
+  "brewery": "Municipal Brew Works",
+  "state": "Ohio",
+  "style": "English Summer Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Summer",
+  "brewery": "Wormtown Brewery",
+  "state": "Massachusetts",
+  "style": "English Summer Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Beer 101 Bitter",
+  "brewery": "Niagara College Teaching Brewery",
+  "state": "Ontario",
+  "style": "Bitter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Arkell Best Bitter",
+  "brewery": "Wellington Brewery",
+  "state": "Ontario",
+  "style": "Bitter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "MSB",
+  "brewery": "Mcfleshman\u2019s Brewing",
+  "state": "Wisconsin",
+  "style": "Bitter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Pub Ale",
+  "brewery": "Pilot Brewing",
+  "state": "North Carolina",
+  "style": "ESB",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Extra StormBreaker",
+  "brewery": "StormBreaker Brewing",
+  "state": "Oregon",
+  "style": "ESB",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Chosen Family",
+  "brewery": "Lady Justice Brewing",
+  "state": "Colorado",
+  "style": "ESB",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Hold the Reins",
+  "brewery": "Brink Brewing",
+  "state": "Ohio",
+  "style": "English Mild Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Saddle Bronc Brown",
+  "brewery": "Black Tooth Brewing",
+  "state": "Wyoming",
+  "style": "English Mild Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Uncle",
+  "brewery": "Rhinegeist Brewery",
+  "state": "Ohio",
+  "style": "English Mild Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "County Brown",
+  "brewery": "Wellington Brewery",
+  "state": "Ontario",
+  "style": "Brown Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Squirrel Stampede Nut Brown",
+  "brewery": "Grand Junction Brewing",
+  "state": "Indiana",
+  "style": "Brown Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Burn Dawger Brown",
+  "brewery": "Sweeten Creek Brewing",
+  "state": "North Carolina",
+  "style": "Brown Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Big Brown Beaver",
+  "brewery": "Mathews Brewing",
+  "state": "Florida",
+  "style": "Strong\/Imperial Brown Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Rebound Brown Ale",
+  "brewery": "The Blue Heron Brewery and Event Center",
+  "state": "Ohio",
+  "style": "Strong\/Imperial Brown Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Big Papa Imperial Brown Ale",
+  "brewery": "Blazing Tree Brewery",
+  "state": "Texas",
+  "style": "Strong\/Imperial Brown Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Ship Burner Brown Porter",
+  "brewery": "Twin Oast Brewing",
+  "state": "Ohio",
+  "style": "Brown Porters",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Porter",
+  "brewery": "Clifford Brewing",
+  "state": "Ontario",
+  "style": "Brown Porters",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Knee-Knocker",
+  "brewery": "Crow Hop Brewing",
+  "state": "Colorado",
+  "style": "Brown Porters",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Record Beer",
+  "brewery": "1886 Brewing",
+  "state": "California",
+  "style": "Brown Porters",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Pops Porter",
+  "brewery": "Wynwood Brewing",
+  "state": "Florida",
+  "style": "Robust Porters",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Draken Robust Porter",
+  "brewery": "Kelsen Brewing",
+  "state": "New Hampshire",
+  "style": "Robust Porters",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Coco Loco",
+  "brewery": "NoDa Brewing",
+  "state": "North Carolina",
+  "style": "Robust Porters",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Lion Tamer",
+  "brewery": "Ravenna Brewing",
+  "state": "Washington",
+  "style": "Imperial Porters",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Black Eye",
+  "brewery": "Scratchtown Brewing",
+  "state": "Nebraska",
+  "style": "Imperial Porters",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Clifford Imperial Porter",
+  "brewery": "Clifford Brewing",
+  "state": "Ontario",
+  "style": "Imperial Porters",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Old Ale",
+  "brewery": "Brown Truck Brewery",
+  "state": "North Carolina",
+  "style": "Old Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Strong",
+  "brewery": "Niagara College",
+  "state": "Ontario",
+  "style": "Old Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Crew Brew",
+  "brewery": "Barnaby Brewing",
+  "state": "Alaska",
+  "style": "Old Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Cranky\u2019s Cabin",
+  "brewery": "Cranky Sam Brewing",
+  "state": "Montana",
+  "style": "Old Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Old Foghorn",
+  "brewery": "Anchor Brewing",
+  "state": "California",
+  "style": "English Barley Wine",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Old Reynard",
+  "brewery": "Social Fox Brewing",
+  "state": "Georgia",
+  "style": "English Barley Wine",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Three Ryes Men",
+  "brewery": "Reuben\u2019s Brews",
+  "state": "The Taproom",
+  "style": "English Barley Wine",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "6th Anniversary Barleywine",
+  "brewery": "Waikiki Brewing",
+  "state": "Hawaii",
+  "style": "American Barley Wine",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Gobsmacked",
+  "brewery": "New Heights Brewing",
+  "state": "Tennessee",
+  "style": "American Barley Wine",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "5th Anniversary Barleywine",
+  "brewery": "Waikiki Brewing",
+  "state": "Hawaii",
+  "style": "American Barley Wine",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "MysteRye",
+  "brewery": "The Common Beer Company\/Narrow Path Brewing",
+  "state": "Ohio",
+  "style": "Barley Wine Specialty",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "50 By 50",
+  "brewery": "The Blue Heron Brewery and Event Center",
+  "state": "Ohio",
+  "style": "Barley Wine Specialty",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Astronaut Christmas",
+  "brewery": "Launch Pad Brewery",
+  "state": "Colorado",
+  "style": "Barley Wine Specialty",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Snowy Range Scottish Ale",
+  "brewery": "Bond\u2019s Brewing",
+  "state": "Wyoming",
+  "style": "Scottish Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Scottish MISTS",
+  "brewery": "Grainworks Brewing",
+  "state": "Ohio",
+  "style": "Scottish Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Great Scot!",
+  "brewery": "Peticolas Brewing",
+  "state": "Texas",
+  "style": "Scottish Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Craven Cottage",
+  "brewery": "Roadmap Brewing",
+  "state": "Texas",
+  "style": "Scottish Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Higher Consciousness",
+  "brewery": "Third Eye Brewing",
+  "state": "Ohio",
+  "style": "Strong Scottish Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Scot Rail Ale",
+  "brewery": "Missing Falls Brewery",
+  "state": "Ohio",
+  "style": "Strong Scottish Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Wee Heavy",
+  "brewery": "Zaftig Brewing",
+  "state": "Ohio",
+  "style": "Strong Scottish Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Outraged Daughters",
+  "brewery": "Wise Man Brewing",
+  "state": "North Carolina",
+  "style": "Irish Red Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "O\u2019Dag",
+  "brewery": "Rhinelander Brewing",
+  "state": "Wisconsin",
+  "style": "Irish Red Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Langered",
+  "brewery": "Missing Falls Brewery",
+  "state": "Ohio",
+  "style": "Irish Red Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Amber",
+  "brewery": "Bent Barley Brewing",
+  "state": "Colorado",
+  "style": "American Amber \/ Red",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Fire The Cannons",
+  "brewery": "de Bine Brewing",
+  "state": "Florida",
+  "style": "American Amber \/ Red",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Sunrise Amber Ale",
+  "brewery": "Pondaseta Brewing",
+  "state": "Texas",
+  "style": "American Amber \/ Red",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Ash Canyon",
+  "brewery": "Shoe Tree Brewing(Carson City)",
+  "state": "Nevada",
+  "style": "American Amber \/ Red",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Wreak Havoc",
+  "brewery": "Bootstrap Brewing",
+  "state": "Colorado",
+  "style": "Imperial Red Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Gifted Gunslinger",
+  "brewery": "Big Sexy Brewing",
+  "state": "California",
+  "style": "Imperial Red Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Rare Conundrum",
+  "brewery": "1886 Brewing",
+  "state": "California",
+  "style": "Imperial Red Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Handsworth Brown Ale",
+  "brewery": "Main & Six Brewing",
+  "state": "Florida",
+  "style": "American Brown Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Thor",
+  "brewery": "Delahunt Brewing",
+  "state": "California",
+  "style": "American Brown Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Downtown Eric\u2019s Brown",
+  "brewery": "Legacy Ale Works",
+  "state": "Florida",
+  "style": "American Brown Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Raven Twins",
+  "brewery": "Scratchtown Brewing",
+  "state": "Nebraska",
+  "style": "American-Style Black Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Once You Go",
+  "brewery": "Lynnwood Brewing Concern",
+  "state": "North Carolina",
+  "style": "American-Style Black Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Black Flag Black IPA",
+  "brewery": "Pantown Brewing",
+  "state": "Minnesota",
+  "style": "American-Style Black Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "ALTerior Motive",
+  "brewery": "StormBreaker Brewing",
+  "state": "Oregon",
+  "style": "Altbier",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Marketplace- HighGrain Brewing",
+  "brewery": "Ohio",
+  "state": "",
+  "style": "Altbier",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Alt in the ATL",
+  "brewery": "Fire Maker Brewing",
+  "state": "Georgia",
+  "style": "Altbier",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Clubhouse Kolsch",
+  "brewery": "ShawneeCraft Brewing",
+  "state": "Pennsylvania",
+  "style": "German Kolsch",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Killin It Kolsch",
+  "brewery": "Bickersons Brewhouse",
+  "state": "Washington",
+  "style": "German Kolsch",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Shuffle",
+  "brewery": "Rhinegeist Innovation Brewery",
+  "state": "Ohio",
+  "style": "German Kolsch",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "K\u00fcsterer Pale Weizenbock",
+  "brewery": "Cedar Springs Brewing",
+  "state": "Michigan",
+  "style": "German Wheat",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Dunkelkristallweizen",
+  "brewery": "Schulz Brau Brewing",
+  "state": "Tennessee",
+  "style": "German Wheat",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "El Carlito",
+  "brewery": "No Label Brewing",
+  "state": "Texas",
+  "style": "German Wheat",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Ayinger Brauweisse",
+  "brewery": "Ayinger Brewery",
+  "state": "Germany",
+  "style": "German Hefeweizen",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Hefeweizen",
+  "brewery": "Liquid Mechanics Brewing",
+  "state": "Colorado",
+  "style": "German Hefeweizen",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Hawley Hefeweizen",
+  "brewery": "Wallenpaupack Brewing",
+  "state": "Pennsylvania",
+  "style": "German Hefeweizen",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "All My Tomorrows",
+  "brewery": "Great Raft Brewing",
+  "state": "Louisanna",
+  "style": "French \/ Belgian Saison",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Classic Saison",
+  "brewery": "Big Sexy Brewing",
+  "state": "California",
+  "style": "French \/ Belgian Saison",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "A Beer of One\u2019s Own",
+  "brewery": "Codex Brewing",
+  "state": "Ohio",
+  "style": "French \/ Belgian Saison",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Crazy Train",
+  "brewery": "Fretboard Brewing",
+  "state": "Ohio",
+  "style": "Belgian Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "High Rollers",
+  "brewery": "Record Street Brewing",
+  "state": "Nevada",
+  "style": "Belgian Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "DTB Belgian Pale",
+  "brewery": "Desperate Times Brewery",
+  "state": "Pennsylvania",
+  "style": "Belgian Pale Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Westfielder 8",
+  "brewery": "Grand Junction Brewing",
+  "state": "Indiana",
+  "style": "French \/ Belgian Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Feral Garden Gnome",
+  "brewery": "Liability Brewing",
+  "state": "South Carolina",
+  "style": "French \/ Belgian Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "French Bi\u00e8re de Garde",
+  "brewery": "Ponysaurus Brewing",
+  "state": "North Carolina",
+  "style": "French \/ Belgian Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Westmalle Trappist Dubbel",
+  "brewery": "Westmalle Trappist Brewery",
+  "state": "Belgium",
+  "style": "Belgian Dubbel",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Sugar Creek Belgian Dubbel",
+  "brewery": "Sugar Creek Brewing",
+  "state": "North Carolina",
+  "style": "Belgian Dubbel",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Virtue",
+  "brewery": "Esoteric Brewing",
+  "state": "Ohio",
+  "style": "Belgian Dubbel",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "The Way",
+  "brewery": "Bold Monk Brewing",
+  "state": "Georgia",
+  "style": "Belgian Tripel",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Becky Roo Da Monsta",
+  "brewery": "Vallensons Brewing",
+  "state": "Texas",
+  "style": "Belgian Tripel",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Westmalle Trappist Tripel",
+  "brewery": "Westmalle Trappist Brewery",
+  "state": "Belgium",
+  "style": "Belgian Tripel",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Low Hood",
+  "brewery": "Bankhead Brewing",
+  "state": "Texas",
+  "style": "Belgian Tripel",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "3 Dragons",
+  "brewery": "Pathfinder Brewery",
+  "state": "Texas",
+  "style": "Belgian Quadrupel",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "No Award",
+  "brewery": "",
+  "state": "",
+  "style": "Belgian Quadrupel",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Fat Chants",
+  "brewery": "Big Ash Brewing",
+  "state": "Ohio",
+  "style": "Belgian Quadrupel",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Monastic Disorder",
+  "brewery": "TapRoom Beer Company",
+  "state": "California",
+  "style": "Belgian Quadrupel",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Dark Sabbath",
+  "brewery": "Big Island Brewhaus",
+  "state": "Hawaii",
+  "style": "Belgian-Style Strong Specialty Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Oost",
+  "brewery": "HighGrain Brewing",
+  "state": "Ohio",
+  "style": "Belgian-Style Strong Specialty Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Father Francisco",
+  "brewery": "Wynwood Brewing",
+  "state": "Florida",
+  "style": "Belgian-Style Strong Specialty Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Suwanee Devil",
+  "brewery": "Stillfire Brewing",
+  "state": "Georgia",
+  "style": "Belgian-Style Strong Specialty Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Lindemans Kriek",
+  "brewery": "Brouwerij Lindemans",
+  "state": "Belgium",
+  "style": "Sour\/Belgian Lambic",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Imperial Cherry Pie Sour",
+  "brewery": "Drowned Valley Brewing",
+  "state": "Georgia",
+  "style": "Sour\/Belgian Lambic",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Two",
+  "brewery": "Pantown Brewing",
+  "state": "Minnesota",
+  "style": "Sour\/Belgian Lambic",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Fire Iron",
+  "brewery": "Urban Artifact",
+  "state": "Ohio",
+  "style": "Sour\/Belgian Lambic",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Golden Cypress",
+  "brewery": "Faubourg Brewing",
+  "state": "Louisiana",
+  "style": "Belgian Witbier",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Obscured by Clouds",
+  "brewery": "Clifford Brewing",
+  "state": "Ontario",
+  "style": "Belgian Witbier",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Wit-Bellied Hedgehog",
+  "brewery": "Metazoa Brewing",
+  "state": "Indiana",
+  "style": "Belgian Witbier",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Whose Garden?",
+  "brewery": "Pint Nine Brewing Whose Garden?",
+  "state": "Nebraska",
+  "style": "Belgian Witbier",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Country Time",
+  "brewery": "The Southern Brewing Company",
+  "state": "Georgia",
+  "style": "Berliner-Style Weisse",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Sirius",
+  "brewery": "Whalers Brewing",
+  "state": "Rhode Island",
+  "style": "Berliner-Style Weisse",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Pink",
+  "brewery": "Vallensons Brewing",
+  "state": "Texas",
+  "style": "Berliner-Style Weisse",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Haterade",
+  "brewery": "8th Wonder Brewery",
+  "state": "Texas",
+  "style": "Gose",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Harrow",
+  "brewery": "Urban Artifact",
+  "state": "Ohio",
+  "style": "Gose",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "It Gose in Your Moutha",
+  "brewery": "Spider Bite Beer Co.",
+  "state": "New York",
+  "style": "Gose",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Hawaiian Vision",
+  "brewery": "Big Ditch Brewing",
+  "state": "New York",
+  "style": "Fruit Gose",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "#26 Lemon Meringue Gose",
+  "brewery": "Brown Truck Brewery",
+  "state": "North Carolina",
+  "style": "Fruit Gose",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Cool Calm and Cucumber",
+  "brewery": "Sunset Reservoir Brewing",
+  "state": "California",
+  "style": "Fruit Gose",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "I Don\u2019t Know No Snakes",
+  "brewery": "Drekker Brewing",
+  "state": "North Dakota",
+  "style": "American Light",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "3 Speed",
+  "brewery": "Amsterdam Brewing",
+  "state": "Ontario",
+  "style": "American Light",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "307 Lager",
+  "brewery": "Black Tooth Brewing",
+  "state": "Wyoming",
+  "style": "American Light",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Ultra Secret Enigma",
+  "brewery": "Liability Brewing",
+  "state": "South Carolina",
+  "style": "American Light",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Luminescent Lager",
+  "brewery": "River Rat Brewery",
+  "state": "South Carolina",
+  "style": "American Lager\/Pilsener",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Ta Pilsner",
+  "brewery": "",
+  "state": "Lagabi\u00e8re Microbrasserie",
+  "style": "American Lager\/Pilsener",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Midwestern Hospitality",
+  "brewery": "Castle Island Brewing",
+  "state": "Massachusetts",
+  "style": "American Lager\/Pilsener",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Back 40",
+  "brewery": "Blake\u2019s Brewing",
+  "state": "Michigan",
+  "style": "American Lager\/Pilsener",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Session Premium Lager",
+  "brewery": "Full Sail Brewing",
+  "state": "Oregon",
+  "style": "American Premium Lager",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Cold Fort Worth Beer",
+  "brewery": "Cowtown Brewing",
+  "state": "Texas",
+  "style": "American Premium Lager",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Tourist Trap",
+  "brewery": "Silver Harbor Brewing",
+  "state": "Michigan",
+  "style": "American Premium Lager",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Sugar Shack",
+  "brewery": "The Dayton Beer Company",
+  "state": "Ohio",
+  "style": "American Amber",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Vienna Lager",
+  "brewery": "Liquid Mechanics Brewing",
+  "state": "Colorado",
+  "style": "American Amber",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Amber Lager",
+  "brewery": "New Magnolia Brewing",
+  "state": "Texas",
+  "style": "American Amber",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Hometown Lager",
+  "brewery": "Second Pitch Beer Company",
+  "state": "Texas",
+  "style": "California Common",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Gulf Steam",
+  "brewery": "Gulf Stream Brewing",
+  "state": "Florida",
+  "style": "California Common",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Schooner Bend Common",
+  "brewery": "Cooper Landing Brewing",
+  "state": "Alaska",
+  "style": "California Common",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Saaz Who?",
+  "brewery": "Rhinegeist Innovation Brewery",
+  "state": "Ohio",
+  "style": "Bohemian Pilsener",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Forward Slash",
+  "brewery": "Crooked Lane Brewing",
+  "state": "California",
+  "style": "Bohemian Pilsener",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Slack Tide Pilsner",
+  "brewery": "Mason Jar Lager Co.",
+  "state": "North Carolina",
+  "style": "Bohemian Pilsener",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Crushing Pils",
+  "brewery": "Devil\u2019s Logic Brewing",
+  "state": "North Carolina",
+  "style": "German Lager \/ Pilsener",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Pure Pils",
+  "brewery": "Amsterdam Brewing",
+  "state": "Ontario",
+  "style": "German Lager \/ Pilsener",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Betonbier Pils",
+  "brewery": "Reuben\u2019s Brews",
+  "state": "Washington",
+  "style": "German Lager \/ Pilsener",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Kelley\u2019s Island Pilsner",
+  "brewery": "Twin Oast Brewing",
+  "state": "Ohio",
+  "style": "German Lager \/ Pilsener",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Pachanga",
+  "brewery": "Sun King Brewery",
+  "state": "Indiana",
+  "style": "International Style Pilsner",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Vlad",
+  "brewery": "Fretboard Brewing",
+  "state": "Ohio",
+  "style": "International Style Pilsner",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Prospector\u2019s Gold",
+  "brewery": "49th State(Anchorage)",
+  "state": "Alaska",
+  "style": "International Style Pilsner",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Estrella Damm",
+  "brewery": "S.A. DAMM",
+  "state": "Spain",
+  "style": "International Style Pilsner",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Venga!",
+  "brewery": "Denver Beer Company",
+  "state": "Colorado",
+  "style": "Mexican Pilsner",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Tres Arroyos Mexican Lager",
+  "brewery": "Three Creeks Brewing",
+  "state": "",
+  "style": "Mexican Pilsner",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Fria",
+  "brewery": "Amsterdam Brewing",
+  "state": "Ontario",
+  "style": "Mexican Pilsner",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Fiesta de Sol",
+  "brewery": "Site-1 Brewing",
+  "state": "",
+  "style": "Mexican Pilsner",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Munich Helles",
+  "brewery": "Schulz Brau Brewing",
+  "state": "Tennessee",
+  "style": "Munchner Helles, Light",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Up The Hill",
+  "brewery": "Cartridge Brewing",
+  "state": "Ohio",
+  "style": "Munchner Helles, Light",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Helles Creek",
+  "brewery": "Kros Strain Brewing",
+  "state": "Nebraska",
+  "style": "Munchner Helles, Light",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Tucker Lager",
+  "brewery": "Tucker Brewing",
+  "state": "Georgia",
+  "style": "Munchner Helles, Light",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Old City Tract",
+  "brewery": "Perfect Plain Brewing",
+  "state": "Florida",
+  "style": "Munchner Dunkel \/ Dark",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "GG",
+  "brewery": "Exile Brewing Company",
+  "state": "Iowa",
+  "style": "Munchner Dunkel \/ Dark",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Munich Dunkel",
+  "brewery": "Bier Brewery",
+  "state": "Indiana",
+  "style": "Munchner Dunkel \/ Dark",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Point Oktoberfest- Stevens Point Brewery",
+  "brewery": "Wisconsin",
+  "state": "",
+  "style": "Marzen \/ Oktoberfest\/",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Brewer",
+  "brewery": "Northern Row",
+  "state": "Ohio",
+  "style": "Marzen \/ Oktoberfest\/",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Lovetoberfest",
+  "brewery": "Narrow Path Brewing",
+  "state": "Ohio",
+  "style": "Marzen \/ Oktoberfest\/",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Line of Departure",
+  "brewery": "LOD Brew Company",
+  "state": "Ontario",
+  "style": "Vienna",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Ardorbier",
+  "brewery": "Perfect Plain Brewing",
+  "state": "Florida",
+  "style": "Vienna",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Bronze - Beale\u2019s Beer",
+  "brewery": "Virginia",
+  "state": "",
+  "style": "Vienna",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Local Vienna Lager",
+  "brewery": "Lonerider Brewing",
+  "state": "North Carolina",
+  "style": "Vienna",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Schwarzbier",
+  "brewery": "Schulz Brau Brewing Co",
+  "state": "Tennessee",
+  "style": "Schwarzbier",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Dark Cloud",
+  "brewery": "The Common Beer Company",
+  "state": "Ohio",
+  "style": "Schwarzbier",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "BierKraft Tmave Pivo",
+  "brewery": "BierKraft",
+  "state": "Oklahoma",
+  "style": "Schwarzbier",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Bock",
+  "brewery": "Niagara College",
+  "state": "Ontario",
+  "style": "Bock",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Bock-A-Fella",
+  "brewery": "The Common Beer Company",
+  "state": "Ohio",
+  "style": "Bock",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "King Gambrinus",
+  "brewery": "Canton Brewing Company",
+  "state": "Ohio",
+  "style": "Bock",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Little Bock Of Calm",
+  "brewery": "Shovel Town Brewery",
+  "state": "Massachusetts",
+  "style": "Bock",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Tipsy Goat",
+  "brewery": "Oak Highlands Brewery",
+  "state": "Texas",
+  "style": "Heller Bock\/Maibock",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Festbier",
+  "brewery": "Spearfish Brewing",
+  "state": "South Dakota",
+  "style": "Heller Bock\/Maibock",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Rhapsody",
+  "brewery": "Alaro Craft Brewery",
+  "state": "California",
+  "style": "Heller Bock\/Maibock",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Maibock",
+  "brewery": "NoDa Brewing Company",
+  "state": "North Carolina",
+  "style": "Heller Bock\/Maibock",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Hans the Revelator",
+  "brewery": "Revelation Craft Brewing",
+  "state": "Delaware",
+  "style": "Dopple \/ Strong Bock",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Corbet\u2019s Couloir",
+  "brewery": "Ike & Oak Brewing",
+  "state": "Illinois",
+  "style": "Dopple \/ Strong Bock",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Celebrator Doppelbock",
+  "brewery": "Ayinger",
+  "state": "Germanay",
+  "style": "Dopple \/ Strong Bock",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Dominator Doppelbock",
+  "brewery": "Sun King Small Batch Brewery",
+  "state": "Indiana",
+  "style": "Dopple \/ Strong Bock",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Old Mad Joy",
+  "brewery": "Great Raft Brewing",
+  "state": "Louisiana",
+  "style": "Baltic Porter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Baltic Porter",
+  "brewery": "Vallensons Brewing",
+  "state": "Texas",
+  "style": "Baltic Porter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Moonlight Excursion",
+  "brewery": "Mason Jar Lager Co.",
+  "state": "North Carolina",
+  "style": "Baltic Porter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Iceman Cometh",
+  "brewery": "Listermann Brewing",
+  "state": "Ohio",
+  "style": "India Pale Lager(IPL)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Bohemian Fusion",
+  "brewery": "Big Sexy Brewing",
+  "state": "California",
+  "style": "India Pale Lager(IPL)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Arches Brewing",
+  "brewery": "Georgia",
+  "state": "",
+  "style": "India Pale Lager(IPL)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "No Award",
+  "brewery": "",
+  "state": "",
+  "style": "India Pale Lager(IPL)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Cold CHillin\u2019 Cream Ale",
+  "brewery": "Wild Ride Brewing",
+  "state": "Oregon",
+  "style": "American Cream Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Kentucky Vanilla Barrel Cream Ale",
+  "brewery": "Lexington Brewing & Distilling",
+  "state": "Kentucky",
+  "style": "American Cream Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Yellow Gold",
+  "brewery": "Deep River Brewing",
+  "state": "North Carolina",
+  "style": "American Cream Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Nap in the Hammock",
+  "brewery": "Metazoa Brewing",
+  "state": "Indiana",
+  "style": "American Cream Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Sweet As! Pacific Ale",
+  "brewery": "GoodLife Brewing",
+  "state": "Oregon",
+  "style": "American Wheat",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "West Main Wheat",
+  "brewery": "Big Grove Brewery",
+  "state": "Iowa",
+  "style": "American Wheat",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "4th Street Wheat",
+  "brewery": "Foxhole Brewhouse",
+  "state": "Minnesota",
+  "style": "American Wheat",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Summer Snowdrift",
+  "brewery": "Epidemic Ales",
+  "state": "California",
+  "style": "American Specialty Wheat",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "2nd Street Wheat",
+  "brewery": "Bond\u2019s Brewing Company",
+  "state": "Wyoming",
+  "style": "American Specialty Wheat",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Fuzztail",
+  "brewery": "Sunriver Brewing",
+  "state": "Oregon",
+  "style": "American Specialty Wheat",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Berry Vision",
+  "brewery": "Big Ditch Brewing",
+  "state": "New York",
+  "style": "American Style Berry Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Whole Hog Raspberry Sorbet",
+  "brewery": "Stevens Point Brewery",
+  "state": "Wisconsin",
+  "style": "American Style Berry Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Springs Farm Strawberry Kolsch",
+  "brewery": "Model A Brewing",
+  "state": "South Carolina",
+  "style": "American Style Berry Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "White Salamander",
+  "brewery": "Level Crossing Brewing",
+  "state": "Utah",
+  "style": "American Style Fruit Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Ab PHaB Peach Honey Basil Ale",
+  "brewery": "Dearborn Brewing",
+  "state": "Michigan",
+  "style": "American Style Fruit Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "True Lime",
+  "brewery": "Lonerider Brewing",
+  "state": "North Carolina",
+  "style": "American Style Fruit Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Banana Wheat",
+  "brewery": "Whistle Hop Brewing",
+  "state": "North Carolina",
+  "style": "American Style Fruit Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Blackberry Belgian Red",
+  "brewery": "Deb\u2019s Brewtopia",
+  "state": "Iowa",
+  "style": "Belgian Style Fruit Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Druicy Fruit",
+  "brewery": "Left Hand Brewing",
+  "state": "Colorado",
+  "style": "Belgian Style Fruit Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Frost Proof",
+  "brewery": "Cigar City Brewing",
+  "state": "Florida",
+  "style": "Belgian Style Fruit Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Dill Pickle Gose",
+  "brewery": "UpCountry Brewing Company",
+  "state": "North Carolina",
+  "style": "Cucumber Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Hotel Water",
+  "brewery": "Urban Artifact",
+  "state": "Ohio",
+  "style": "Cucumber Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "El Jardin Hefe",
+  "brewery": "Third Nature Brewing",
+  "state": "Michigan",
+  "style": "Cucumber Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Root Tang",
+  "brewery": "Shoe Tree Brewing(Carson City)",
+  "state": "Nevada",
+  "style": "Vegetable beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Beet Of My Heart Ale",
+  "brewery": "Carillon Brewing",
+  "state": "Ohio",
+  "style": "Vegetable beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Squoze",
+  "brewery": "Vector Brewing",
+  "state": "Squoze",
+  "style": "Vegetable beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Pumpkin Ale",
+  "brewery": "2 Silos Brewing",
+  "state": "Virginia",
+  "style": "Pumpkin",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "The Wicker Man",
+  "brewery": "Tire Shack Brewing",
+  "state": "Ontario",
+  "style": "Pumpkin",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Gourdalicious",
+  "brewery": "Unrefined Brewing",
+  "state": "Florida",
+  "style": "Pumpkin",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Wick For Brains Pumpkin Ale",
+  "brewery": "Nebraska Brewing",
+  "state": "Nebraska",
+  "style": "Pumpkin",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Medusa",
+  "brewery": "Black Plague Brewing",
+  "state": "California",
+  "style": "Coconut",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Coconut Hiwa Porter",
+  "brewery": "Maui Brewing",
+  "state": "Hawaii",
+  "style": "Coconut",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Coco Anejo",
+  "brewery": "Hopfusion Ale Works",
+  "state": "Texas",
+  "style": "Coconut",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "German Chocolate Cake Stout",
+  "brewery": "Wolf Brewing",
+  "state": "Pennsylvania",
+  "style": "Coconut",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Ginger Pale Ale",
+  "brewery": "Carillon Brewing",
+  "state": "Ohio",
+  "style": "Herb and Spice Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Hemingways Delight Golden Mojito",
+  "brewery": "UpCountry Brewing",
+  "state": "North Carolina",
+  "style": "Herb and Spice Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Elderflower Saison",
+  "brewery": "Exchange Brewery",
+  "state": "Ontario",
+  "style": "Herb and Spice Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Dutch Toast Turbo",
+  "brewery": "Gezellig Brewing",
+  "state": "Iowa",
+  "style": "Herb and Spice Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Datil",
+  "brewery": "Motorworks Brewing",
+  "state": "Florida",
+  "style": "Chili Pepper Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Raked Over IPA",
+  "brewery": "Wellington Brewery",
+  "state": "Ontario",
+  "style": "Chili Pepper Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "FireMelon",
+  "brewery": "Saint Patrick\u2019s Brewing",
+  "state": "Colorado",
+  "style": "Chili Pepper Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Mexican Candy",
+  "brewery": "Unrefined Brewing",
+  "state": "Florida",
+  "style": "Chili Pepper Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Shuggah Daddi",
+  "brewery": "Main & Six Brewing",
+  "state": "Florida",
+  "style": "Chocolate \/ Cocoa Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Small Batch BA Donuts",
+  "brewery": "Sun King Small Batch Brewery",
+  "state": "Indiana",
+  "style": "Chocolate \/ Cocoa Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Sweet Jesus",
+  "brewery": "Topsy Turvy Brewery",
+  "state": "Wisconsin",
+  "style": "Chocolate \/ Cocoa Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Cocoa Cow",
+  "brewery": "Sunriver Brewing",
+  "state": "Oregon",
+  "style": "Chocolate \/ Cocoa Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Rocket Fuel",
+  "brewery": "8th Wonder Brewery",
+  "state": "Texas",
+  "style": "Coffee beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Daybreak",
+  "brewery": "Wolf\u2019s Ridge Brewing",
+  "state": "Ohio",
+  "style": "Coffee beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Coalition Coffee Stout",
+  "brewery": "Maple Branch Craft Brewery",
+  "state": "Texas",
+  "style": "Coffee beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "True West",
+  "brewery": "Municipal Brew Works",
+  "state": "Ohio",
+  "style": "Coffee beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Rye Bob",
+  "brewery": "Byway Brewing",
+  "state": "Indiana",
+  "style": "Rye \/ Roggen Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Double Rogg Dare You",
+  "brewery": "Gezellig Brewing",
+  "state": "Iowa",
+  "style": "Rye \/ Roggen Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "The Hills Have Ryes",
+  "brewery": "Spearfish Brewing",
+  "state": "South Dakota",
+  "style": "Rye \/ Roggen Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Smokestack",
+  "brewery": "Cartridge Brewing",
+  "state": "Ohio",
+  "style": "Smoked \/ Rauch Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Buchenrauch",
+  "brewery": "Wolf\u2019s Ridge Brewing",
+  "state": "Ohio",
+  "style": "Smoked \/ Rauch Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Smoke on the Lager",
+  "brewery": "Chilly Water Brewing",
+  "state": "Indiana",
+  "style": "Smoked \/ Rauch Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Ashes From The Grave",
+  "brewery": "TapRoom Beer Company",
+  "state": "California",
+  "style": "Smoked \/ Rauch Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Alaskan Smoked Porter",
+  "brewery": "Alaskan Brewing",
+  "state": "Alaska",
+  "style": "Smoked Porter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Black Squirrel",
+  "brewery": "Harmony Brewing",
+  "state": "Michigan",
+  "style": "Smoked Porter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Beer Admiral Smoked Porter",
+  "brewery": "Cooper Landing Brewing",
+  "state": "Alaska",
+  "style": "Smoked Porter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Vanilla Cream",
+  "brewery": "Big Ash Brewing",
+  "state": "Ohio",
+  "style": "Honey Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Rock Bass Honey Nut Brown",
+  "brewery": "Muskellunge Brewing",
+  "state": "Ohio",
+  "style": "Honey Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Maggs 59",
+  "brewery": "The Common Beer Company",
+  "state": "Ohio",
+  "style": "Honey Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Magnum XL",
+  "brewery": "Rhinelander Brewing",
+  "state": "Wisconsin",
+  "style": "Barrel Aged Pale and Dark Beer(under 6.5% ABV)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Boost",
+  "brewery": "HighGrain Brewing",
+  "state": "Ohio",
+  "style": "Barrel Aged Pale and Dark Beer(under 6.5% ABV)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Earl\u2019s Revelation",
+  "brewery": "Blue Earl Brewing",
+  "state": "Delaware",
+  "style": "Barrel Aged Pale and Dark Beer(under 6.5% ABV)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": 1314,
+  "brewery": "Black Tooth Brewing",
+  "state": "Wyoming",
+  "style": "Barrel Aged Strong Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "The Intrepid",
+  "brewery": "49 State Brewing(Anchorage)- Alaska",
+  "state": "",
+  "style": "Barrel Aged Strong Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Double Oaked Illuminati",
+  "brewery": "Sonder Brewing",
+  "state": "Ohio",
+  "style": "Barrel Aged Strong Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Bourbon BA Tripel Dollar Bill Y\u2019all",
+  "brewery": "Liability Brewing",
+  "state": "",
+  "style": "Barrel Aged Strong Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Bourbon BA Navel Gazer",
+  "brewery": "New Heights Brewing",
+  "state": "Tennessee",
+  "style": "Barrel-Aged Strong Stout\/Porter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Barrel-Aged Silhouette",
+  "brewery": "Lift Bridge Brewery",
+  "state": "Minnesota",
+  "style": "Barrel-Aged Strong Stout\/Porter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Rye BA Castle Black",
+  "brewery": "Pondaseta Brewing",
+  "state": "Texas",
+  "style": "Barrel-Aged Strong Stout\/Porter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Black Betty Imperial Stout",
+  "brewery": "Nebraska Brewing",
+  "state": "Nebraska",
+  "style": "Barrel-Aged Strong Stout\/Porter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Assassin 2021",
+  "brewery": "Toppling Goliath Brewing",
+  "state": "Iowa",
+  "style": "Barrel-Aged Strong Stout\/Porter Extreme(over 12.5% ABV)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "BA Epic Blackout Stout",
+  "brewery": "Brickway Brewery & Distillery",
+  "state": "Nebraska",
+  "style": "Barrel-Aged Strong Stout\/Porter Extreme(over 12.5% ABV)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Black Butte\u00b3 Amburana",
+  "brewery": "Deschutes Brewery",
+  "state": "Oregon",
+  "style": "Barrel-Aged Strong Stout\/Porter Extreme(over 12.5% ABV)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Sir Blends A-Lot",
+  "brewery": "Mikerphone Brewing",
+  "state": "Illinois",
+  "style": "Barrel-Aged Strong Stout\/Porter Specialty",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "KBBS 2020",
+  "brewery": "Toppling Goliath Brewing",
+  "state": "Iowa",
+  "style": "Barrel-Aged Strong Stout\/Porter Specialty",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "She Blends A-Lot",
+  "brewery": "Mikerphone Brewing",
+  "state": "Illinois",
+  "style": "Barrel-Aged Strong Stout\/Porter Specialty",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Luna",
+  "brewery": "Ravenna Brewing",
+  "state": "Washington",
+  "style": "Barrel-Aged Strong Stout\/Porter Specialty",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Papposilenus",
+  "brewery": "Unrefined Brewing",
+  "state": "Florida",
+  "style": "Barrel-Aged-Sour-Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Wild Saison",
+  "brewery": "Grand Canyon Brewing",
+  "state": "Arizona",
+  "style": "Barrel-Aged-Sour-Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Gaia\u2019s Whimsy",
+  "brewery": "Stoup Brewing",
+  "state": "Washington",
+  "style": "Barrel-Aged-Sour-Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Desideratum",
+  "brewery": "Oregon City Brewing",
+  "state": "Oregon",
+  "style": "Barrel-Aged Fruit Sour Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Rigmarole",
+  "brewery": "Lynwood Brewing Concern",
+  "state": "North Carolina",
+  "style": "Barrel-Aged Fruit Sour Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Idyll Forest: Le Bois De R\u00eaves",
+  "brewery": "Pryes Brewing",
+  "state": "Minnesota",
+  "style": "Barrel-Aged Fruit Sour Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Polynesian Passion",
+  "brewery": "Sun King Brewery",
+  "state": "Indiana",
+  "style": "Barrel-Aged Fruit Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Clares Thirsty Ale",
+  "brewery": "Haymarket Brewing",
+  "state": "Michigan",
+  "style": "Barrel-Aged Fruit Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Black Forest Cake Otto",
+  "brewery": "Sonder Brewing",
+  "state": "Ohio",
+  "style": "Barrel-Aged Fruit Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Damebier",
+  "brewery": "Cherry Street",
+  "state": "Georgia",
+  "style": "Barrel-Aged Scotch Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Apple Brandy Batch 5",
+  "brewery": "Woodland Farm Brewery",
+  "state": "New York",
+  "style": "Barrel-Aged Scotch Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "BA Panic",
+  "brewery": "Narrow Path Brewing",
+  "state": "Ohio",
+  "style": "Barrel-Aged Scotch Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Bourbon LB Lives",
+  "brewery": "Woodland Farm Brewery",
+  "state": "New York",
+  "style": "Barrel-Aged Barley Wine \u2013 English",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Diddy Muckle",
+  "brewery": "Sun King Brewery",
+  "state": "Indiana",
+  "style": "Barrel-Aged Barley Wine \u2013 English",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Barrelywine Volume 6",
+  "brewery": "Kros Strain Brewing",
+  "state": "Nebraska",
+  "style": "Barrel-Aged Barley Wine \u2013 English",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Tower",
+  "brewery": "Big Ditch Brewing Company",
+  "state": "New York",
+  "style": "Barrel-Aged Barley Wine \u2013 American",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "12.12.12",
+  "brewery": "Cherry Street Brewery",
+  "state": "Georgia",
+  "style": "Barrel-Aged Barley Wine \u2013 American",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Old Siren",
+  "brewery": "River Dog Brewing",
+  "state": "South Carolina",
+  "style": "Barrel-Aged Barley Wine \u2013 American",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Milk Punch",
+  "brewery": "Barrel Chest Brewing",
+  "state": "Virginia",
+  "style": "Barrel-Aged Barley Wine \u2013 Specialty",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Thresher",
+  "brewery": "Motorworks Brewing",
+  "state": "Florida",
+  "style": "Barrel-Aged Barley Wine \u2013 Specialty",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "No Award",
+  "brewery": "",
+  "state": "",
+  "style": "Barrel-Aged Barley Wine \u2013 Specialty",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Finely Aged Plummer\u2019s Crack",
+  "brewery": "Bad Dad Brewing",
+  "state": "Indiana",
+  "style": "Barrel-Aged Quad\/Belgian Dark Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Quintessence",
+  "brewery": "LauderAle Brewery and Tap Room",
+  "state": "Florida",
+  "style": "Barrel-Aged Quad\/Belgian Dark Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Odd Quad of Todd BA",
+  "brewery": "Bru Daddy\u2019s Brewing",
+  "state": "Pennsylvania",
+  "style": "Barrel-Aged Quad\/Belgian Dark Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Self Titled",
+  "brewery": "Barrel Chest Brewing",
+  "state": "Virginia",
+  "style": "Blended Barrel-Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "BART: Barrel Aged Really Tasty",
+  "brewery": "Fifty Fifty Brewing",
+  "state": "California",
+  "style": "Blended Barrel-Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Beasts Of Bourbon",
+  "brewery": "Liquid Mechanics Brewing",
+  "state": "Colorado",
+  "style": "Blended Barrel-Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Three Threads-Blend 3",
+  "brewery": "Barrel Chest Brewing",
+  "state": "Virginia",
+  "style": "Brandy Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Betty\u2019s Barleywine",
+  "brewery": "Cherry Street Halcyon",
+  "state": "Georgia",
+  "style": "Brandy Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Ironside Barleywine",
+  "brewery": "Kelsen Brewing",
+  "state": "New Hampshire",
+  "style": "Brandy Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Salvaje",
+  "brewery": "Motorworks Brewing",
+  "state": "Florida",
+  "style": "Tequila Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "BA Bearded Skull Mexican Lager",
+  "brewery": "Broken Bow Brewery",
+  "state": "New York",
+  "style": "Tequila Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Ghost Series",
+  "brewery": "Brown Truck Brewery",
+  "state": "North Carolina",
+  "style": "Tequila Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Barrel Aged Baby Maker",
+  "brewery": "Pontoon Brewing",
+  "state": "Georgia",
+  "style": "Rum Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Soul Shakedown Party",
+  "brewery": "Sun King Brewery",
+  "state": "Indiana",
+  "style": "Rum Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "BA Number 6 Dance",
+  "brewery": "Unrefined Brewing",
+  "state": "Florida",
+  "style": "Rum Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Blackbeard\u2019s Vacation",
+  "brewery": "Samuel Adams",
+  "state": "Massachusetts",
+  "style": "Rum Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "French 75",
+  "brewery": "Sonder Brewing",
+  "state": "Ohio",
+  "style": "Spirits\/non-whiskey Barrel Aged Beer Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Stoutopias",
+  "brewery": "Samuel Adams",
+  "state": "Massachusetts\/Ohio",
+  "style": "Spirits\/non-whiskey Barrel Aged Beer Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Population 300",
+  "brewery": "Bron Yr Aur Brewing",
+  "state": "Washington",
+  "style": "Spirits\/non-whiskey Barrel Aged Beer Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "D.M.M.K.Y.A",
+  "brewery": "Bickersons Brewhouse",
+  "state": "Washington",
+  "style": "Spirits\/non-whiskey Barrel Aged Beer Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Blood of Jupiter",
+  "brewery": "Ecliptic Brewing",
+  "state": "Oregon",
+  "style": "Red Wine Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Very A-Gris-Able",
+  "brewery": "Oregon City Brewing",
+  "state": "Oregon",
+  "style": "Red Wine Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Black Is Beautiful",
+  "brewery": "Outerbelt Brewing",
+  "state": "Ohio",
+  "style": "Red Wine Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "BA Pilz Czar",
+  "brewery": "Accomplice Beer Company",
+  "state": "Wyoming",
+  "style": "White Wine Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Rustique",
+  "brewery": "Motorworks Brewing",
+  "state": "Florida",
+  "style": "White Wine Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Buxom",
+  "brewery": "6 Bears & A Goat Brewing",
+  "state": "Virginia",
+  "style": "White Wine Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Dark Cherry Home at Port",
+  "brewery": "Deschutes Brewery",
+  "state": "Oregon",
+  "style": "Port Wine Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Barley Wine Aged in Port Barrels",
+  "brewery": "Brown Truck Brewery",
+  "state": "North Carolina",
+  "style": "Port Wine Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "No Award",
+  "brewery": "",
+  "state": "",
+  "style": "Port Wine Barrel Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Pinot Noir Barrel-Aged Belgian-Style Golden Ale",
+  "brewery": "Ecliptic Brewing & Russian River Brewing",
+  "state": "Oregon",
+  "style": "Barrel-Aged Brett \/ Wild Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Long Funky Streaks Batch 4",
+  "brewery": "Benchtop Brewing",
+  "state": "Virginia",
+  "style": "Barrel-Aged Brett \/ Wild Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Maiden Voyage",
+  "brewery": "NOLA Brewing",
+  "state": "Louisiana",
+  "style": "Barrel-Aged Brett \/ Wild Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Double Barrel Helles Bock",
+  "brewery": "Schulz Brau Brewing",
+  "state": "Tennessee",
+  "style": "Barrel Aged German Lager",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Burdock Saints",
+  "brewery": "Whistle Hop Brewing",
+  "state": "North Carolina",
+  "style": "Barrel Aged German Lager",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "ReDone",
+  "brewery": "Scout And Scholar Brewing",
+  "state": "Kentucky",
+  "style": "Barrel Aged German Lager",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "BA Dopplebock",
+  "brewery": "Lupulin Brewing",
+  "state": "Minnesota",
+  "style": "Barrel Aged German Lager",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Freaky Deaky",
+  "brewery": "Oak Highlands Brewery",
+  "state": "Texas",
+  "style": "Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "BBA Old Motor Oil (2018)",
+  "brewery": "Grainworks Brewing",
+  "state": "Ohio",
+  "style": "Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Gentle Giant",
+  "brewery": "Narrow Path Brewing",
+  "state": "Ohio",
+  "style": "Aged Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "When Pigs Fly",
+  "brewery": "Pig Pounder Brewery",
+  "state": "North Carolina",
+  "style": "Experimental Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Fluffy Shenanigans",
+  "brewery": "Temblor Brewing",
+  "state": "Californa",
+  "style": "Experimental Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Tip Top Smoothie Pop",
+  "brewery": "Around The Horn Brewing",
+  "state": "California",
+  "style": "Experimental Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Happy Farmer Watermelon",
+  "brewery": "Shoe Tree Brewing(Minden)",
+  "state": "Nevada",
+  "style": "Specialty \/ Anything Goes",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Dreamsicle Capsized Kayak",
+  "brewery": "White Rock Brewing",
+  "state": "Texas",
+  "style": "Specialty \/ Anything Goes",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "BA Stout Hawks",
+  "brewery": "Toppling Goliath Brewing",
+  "state": "Iowa",
+  "style": "Specialty \/ Anything Goes",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Coco Burrito Supreme",
+  "brewery": "Shoe Tree Brewing(Minden)",
+  "state": "Nevada",
+  "style": "Specialty \/ Anything Goes",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Klipspringer",
+  "brewery": "Metazoa Brewing",
+  "state": "Indiana",
+  "style": "American-Belgo-Style Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Trappist in Paradise",
+  "brewery": "49th State Brewing Production",
+  "state": "Alaska",
+  "style": "American-Belgo-Style Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Tropospheric",
+  "brewery": "Launch Pad Brewing",
+  "state": "Colorado",
+  "style": "American-Belgo-Style Ale",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Dave\u2019s Perfect Pils",
+  "brewery": "White Rock Brewing",
+  "state": "Texas",
+  "style": "Kellerbier or Zwickelbier",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Print The Legend",
+  "brewery": "Edward Teach Brewing",
+  "state": "North Carolina",
+  "style": "Kellerbier or Zwickelbier",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Limbo Champ",
+  "brewery": "Revelry Brewing Company",
+  "state": "South Carolina",
+  "style": "Kellerbier or Zwickelbier",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Eastside Kellerbier",
+  "brewery": "Angel City Brewery",
+  "state": "California",
+  "style": "Kellerbier or Zwickelbier",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Peaches",
+  "brewery": "Trapezium Brewing",
+  "state": "Virginia",
+  "style": "Brett Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Rebel Funk",
+  "brewery": "Wise Man Brewing",
+  "state": "North Carolina",
+  "style": "Brett Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Coming to Fruition: Marionberry",
+  "brewery": "Oregon City Brewing",
+  "state": "Oregon",
+  "style": "Brett Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Coming to Fruition: Cherry",
+  "brewery": "Oregon City Brewing",
+  "state": "Oregon",
+  "style": "Brett Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Shiner Bock",
+  "brewery": "Spoetzl Brewery",
+  "state": "Texas",
+  "style": "Sessions Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Stonehands",
+  "brewery": "Scout And Scholar Brewing",
+  "state": "Kentucky",
+  "style": "Sessions Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Zoltan",
+  "brewery": "Exile Brewing",
+  "state": "Iowa",
+  "style": "Sessions Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Dead Parrot",
+  "brewery": "Florida Avenue Brewing",
+  "state": "Florida",
+  "style": "Sessions Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Hazy IPA",
+  "brewery": "Aurochs Brewing",
+  "state": "Pennsylvania",
+  "style": "Gluten-Free IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "It Came from the Haze, Hazy IPA",
+  "brewery": "Ghostfish Brewing",
+  "state": "Washington",
+  "style": "Gluten-Free IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Grapefruit IPA",
+  "brewery": "Ghostfish Brewing",
+  "state": "Washington",
+  "style": "Gluten-Free IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Clevah Girl",
+  "brewery": "Revelation Craft Brewing",
+  "state": "Delaware",
+  "style": "Gluten-Free Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Amber Ale",
+  "brewery": "Aurochs Brewing",
+  "state": "Pennsylvania",
+  "style": "Gluten-Free Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Belgian Buckwit",
+  "brewery": "Holidaily Brewing",
+  "state": "Colorado",
+  "style": "Gluten-Free Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Damn! That\u2019s Good",
+  "brewery": "The Explorium Brewpub",
+  "state": "Wisconsin",
+  "style": "Near Gluten Free",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Lil\u2019 Squeezy",
+  "brewery": "Deschutes Brewery",
+  "state": "Oregon",
+  "style": "Near Gluten Free",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Copper Mule",
+  "brewery": "Black Tooth Brewing",
+  "state": "Wyoming",
+  "style": "Near Gluten Free",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Candymaker",
+  "brewery": "Widowmaker Brewing",
+  "state": "Massachusetts",
+  "style": "Peanut Butter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Tall Dark and Nutty",
+  "brewery": "Red Bear Brewing",
+  "state": "Washington DC",
+  "style": "Peanut Butter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Peanut Butter Porter",
+  "brewery": "Peak View Brewing",
+  "state": "Colorado",
+  "style": "Peanut Butter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "CPB",
+  "brewery": "Lupulin Brewing",
+  "state": "Minnesota",
+  "style": "Peanut Butter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Almond Brown",
+  "brewery": "Temblor Brewing",
+  "state": "California",
+  "style": "Nut Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Smoked Pecan Porter",
+  "brewery": "Lost Signal Brewing",
+  "state": "Missouri",
+  "style": "Nut Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Tejano Pecano",
+  "brewery": "Oak Highlands Brewery",
+  "state": "Texas",
+  "style": "Nut Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Peach Tea Blonde",
+  "brewery": "Beale\u2019s Beer",
+  "state": "Virginia",
+  "style": "Tea Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Southern Tee",
+  "brewery": "New Realm Brewing",
+  "state": "Georgia",
+  "style": "Tea Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Hollowpoint",
+  "brewery": "Cartridge Brewing",
+  "state": "Ohio",
+  "style": "Tea Beer",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Old Fashioned Root Beer",
+  "brewery": "Barn Town Brewing",
+  "state": "Iowa",
+  "style": "Category Non-Alcoholic, Root Beer(no other soft drinks)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "1888 Root Beer",
+  "brewery": "Saranac Brewing",
+  "state": "New York",
+  "style": "Category Non-Alcoholic, Root Beer(no other soft drinks)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "POP\u2019s Root Beer",
+  "brewery": "Port O\u2019 Pints",
+  "state": "",
+  "style": "Category Non-Alcoholic, Root Beer(no other soft drinks)",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Run Wild IPA",
+  "brewery": "Athletic Brewing",
+  "state": "Connecticut",
+  "style": "Non Alcoholic IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Just the Haze",
+  "brewery": "Samuel Adams",
+  "state": "Massachusetts",
+  "style": "Non Alcoholic IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "IPA",
+  "brewery": "Sober Carpenter",
+  "state": "Quebec",
+  "style": "Non Alcoholic IPA",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "All Out Stout",
+  "brewery": "Athletic Brewing",
+  "state": "Connecticut",
+  "style": "Non Alcoholic Stout\/Porter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Irish Style Dark",
+  "brewery": "Deschutes Brewing",
+  "state": "Oregon",
+  "style": "Non Alcoholic Stout\/Porter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Galactic Extra Dark",
+  "brewery": "Big Drop Brewing",
+  "state": "Illinois",
+  "style": "Non Alcoholic Stout\/Porter",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Raspberry Gose",
+  "brewery": "Athletic Brewing",
+  "state": "Connecticut",
+  "style": "Non Alcoholic Gose",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Downwinder Gose",
+  "brewery": "Athletic Brewing",
+  "state": "Connecticut",
+  "style": "Non Alcoholic Gose",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Black Cherry Gose",
+  "brewery": "Bravus",
+  "state": "Virginia",
+  "style": "Non Alcoholic Gose",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Gold",
+  "beer": "Pine Trail Ale",
+  "brewery": "Big Drop Brewing",
+  "state": "Illinois",
+  "style": "Non-Alcoholic Malt Beverage",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Free Damm Lager",
+  "brewery": "S.A. DAMM",
+  "state": "Spain",
+  "style": "Non-Alcoholic Malt Beverage",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Silver",
+  "beer": "Berliner Sonne",
+  "brewery": "Le Bockale Microbrewery",
+  "state": "Quebec",
+  "style": "Non-Alcoholic Malt Beverage",
+  "year": 2021,
+  "comp": "USOpen"
+}, {
+  "medal": "Bronze",
+  "beer": "Natural Bridges Kolsch",
+  "brewery": "Surreal Brewing",
+  "state": "California",
+  "style": "Non-Alcoholic Malt Beverage",
+  "year": 2021,
+  "comp": "USOpen"
+}]
