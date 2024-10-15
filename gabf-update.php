@@ -27,7 +27,7 @@ if(file_exists(__DIR__."/gabf/html/$year.html"))
 // write html
 file_put_contents(__DIR__."/gabf/html/$year.html", $result);
 
-// 2022 GABF
+// 2024 GABF
 // $result = file_get_contents(__DIR__."/gabf/html/$year.html");
 
 // convert to json

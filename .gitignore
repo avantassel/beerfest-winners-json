@@ -2,3 +2,4 @@ vendor
 .DS_Store
 update.sh
 analytics.php
+NOTES.md
