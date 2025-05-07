@@ -1,1 +1,1 @@
-[{"_id":{"state":"CO","city":"Boulder"},"count":1,"lat":40.0249,"lng":-105.2523},{"_id":{"state":"PA","city":"Philadelphia"},"count":1,"lat":40.0077,"lng":-75.1339},{"_id":{"state":"MA","city":"Boston"},"count":1,"lat":42.3188,"lng":-71.0846}]
+[{"_id":{"state":"CO","city":"Boulder"},"count":1,"lat":40.0249,"lng":-105.2523},{"_id":{"state":"MA","city":"Boston"},"count":1,"lat":42.3188,"lng":-71.0846},{"_id":{"state":"PA","city":"Philadelphia"},"count":1,"lat":40.0077,"lng":-75.1339}]

@@ -4,7 +4,7 @@ require "vendor/autoload.php";
 $beerfest = new BeerFest;
 $import_year = null; // set to null to import all
 $data_only = false;
-$gabf = true;
+$gabf = false;
 $wbc = true;
 
 if (ob_get_level() == 0) ob_start();

@@ -1,1 +1,1 @@
-[{"_id":{"state":"MA","city":"Boston"},"count":1,"lat":42.3188,"lng":-71.0846},{"_id":{"state":"WI","city":"Eau Claire"},"count":1,"lat":44.82,"lng":-91.4951},{"_id":{"state":"WY","city":"Jackson"},"count":1,"lat":43.4721,"lng":-110.7745}]
+[{"_id":{"state":"MA","city":"Boston"},"count":1,"lat":42.3188,"lng":-71.0846},{"_id":{"state":"WY","city":"Jackson"},"count":1,"lat":43.4721,"lng":-110.7745},{"_id":{"state":"WI","city":"Eau Claire"},"count":1,"lat":44.82,"lng":-91.4951}]
