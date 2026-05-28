@@ -1,3 +1,8 @@
+## REPO DEFUNCT
+
+28/05/2026 
+This repository will not continue to be updated, an updated app is available here https://www.andrewvantassel.com/beer-fest
+
 # Beer Fest JSON
 
 This is a dataset of Great American Beer Fest (GABF) Winners and World Beer Cup (WBC) Winners.
